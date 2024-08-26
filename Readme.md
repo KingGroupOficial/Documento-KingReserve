@@ -23,6 +23,7 @@ UNIVERSIDAD PERUANA<br>
 
 - Gómez Vallejos Sergio André - U20221D401
 - Rojas Velasquez Maycol Jhordan - U202219984
+- Zevallos Linares Alessandro Netto - U202216035
 
 
 <p style="text-align: center;">
@@ -206,7 +207,11 @@ Nos esforzamos por proporcionar una plataforma que conecte a los hoteles con her
 ### **Perfiles de los integrantes del Startup:**
 
 ### **Joaquín Andree Pedraza Maldonado:**
-Mi nombre es Joaquín Andreé Pedraza Maldonado , tengo 20 años y actualmente me encuentro en 6to ciclo de la carrera de Ingeniería de Software , en la UPC , sede San Miguel. Al terminar mi carrera desearía dedicarme al rubro de desarrollo Web o cyberseguridad.Soy una persona centrada , perseverante , tranquila  , optimista y efectiva
+Mi nombre es Joaquín Andreé Pedraza Maldonado , tengo 20 años y actualmente me encuentro en 6to ciclo de la carrera de Ingeniería de Software , en la UPC , sede San Miguel. Al terminar mi carrera desearía dedicarme al rubro de desarrollo Web o cyberseguridad.Soy una persona centrada , perseverante , tranquila  , optimista y efectiva.
+
+### Alessandro Zevallos
+
+Soy estudiante de Ingenieria de Software con un fuerte interés en el desarrollo de productos digitales y la tecnología.En mi tiempo libre, me gusta jugar videojuegos. También tengo un interés especial en la música, lo que me ayuda a equilibrar mi vida académica y personal.Cuento con habilidades en gestión de bases de datos. Además, tengo experiencia en análisis de datos, lo que me ayuda a tomar decisiones informadas y crear soluciones efectivas.
 
 ### 1.2.1 Antecedentes y Problematica **
 
