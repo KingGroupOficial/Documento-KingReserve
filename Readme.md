@@ -189,7 +189,7 @@ Criterio: Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan 
 # CAPÍTULO I: Introducción
 ## Startup Profile
 ### Descripción de la Startup
-#### Descripción General:
+#### Descripción de la Startup:
 <div style="text-align: justify">
 KingReserve es una startup inovadora 
 <div/>
@@ -223,8 +223,8 @@ Nos esforzamos por proporcionar una plataforma que conecte a los hoteles con her
 ### Alessandro Zevallos
 
 Soy estudiante de Ingenieria de Software con un fuerte interés en el desarrollo de productos digitales y la tecnología.En mi tiempo libre, me gusta jugar videojuegos. También tengo un interés especial en la música, lo que me ayuda a equilibrar mi vida académica y personal.Cuento con habilidades en gestión de bases de datos. Además, tengo experiencia en análisis de datos, lo que me ayuda a tomar decisiones informadas y crear soluciones efectivas.
-
-### 1.2.1 Antecedentes y Problematica **
+## Solution Profile
+### Antecedentes y Problematica **
 
 En la actualidad se puede evidenciar que la industria turistica a incrementado de manera exponencial estos ultimos años en nuestro país , esto a traido como consecuencia la aparición de más agencias hoteleras debido a la vista de una gran oportunidad de negocio frente a la alta demanda del sector turistico, sin embargo esto ocasiono que la productividad en el sector hotelero disminuya por la falta de eficiencia a la hora de realizar las reservas o la mala desorganización dentro del sector hotelero .
 
