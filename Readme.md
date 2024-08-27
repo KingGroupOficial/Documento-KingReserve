@@ -37,7 +37,11 @@ UNIVERSIDAD PERUANA<br>
 | TB1| 23/08/2024 | Sergio André Gómez Vallejos | Implementación de contenido en el Student Outcome  Desarrollo del Contenido II Competidores  Perfil de integrante|
 | TB1 | 24/03/2024 | Maycol Jhordan Rojas Velasquez | Implementacion de la descripcion de la Startup |
 | TB2 | 25/032024| Maycol Jhordan Rojas Velasquez | Desarrollo del perfil de integrante, creacion del logo estructuracion del informe indice, cuadros , caratula. |
-| TF | Fila 4, Columna 2 | Fila 4, Columna 3 | Fila 4, Columna 4 |
+| TF | Fila 4, Columna 2 | Fila 4, Columna 3 | Fila 4, Columna 4 
+| TB1| 23/08/2024 | Joaquin Pedraza Maldonado | Antecedentes y problematica  Perfil de integrante|
+| TB1| 24/08/2024 | Joaquin Pedraza Maldonado | Lean Ux Procces|
+
+
 
 
 **Project Report Collaboration Insights**
