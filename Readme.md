@@ -40,6 +40,7 @@ UNIVERSIDAD PERUANA<br>
 | TB2 | 25/032024| Maycol Jhordan Rojas Velasquez | Desarrollo del perfil de integrante, creacion del logo estructuracion del informe indice, cuadros , caratula. |
 | TF | Fila 4, Columna 2 | Fila 4, Columna 3 | Fila 4, Columna 4 
 | TB1| 23/08/2024 | Joaquin Pedraza Maldonado | Antecedentes y problematica  Perfil de integrante|
+| TB1| 23/08/2024 | Alessandro Zevallos Linares | Perfil de integrante|
 | TB1| 24/08/2024 | Joaquin Pedraza Maldonado | Lean Ux Procces|
 
 
