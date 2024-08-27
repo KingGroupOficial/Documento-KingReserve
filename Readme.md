@@ -23,8 +23,7 @@ UNIVERSIDAD PERUANA<br>
 
 - Gómez Vallejos Sergio André - U20221D401
 - Rojas Velasquez Maycol Jhordan - U202219984
-- Zevallos Linares Alessandro Netto - U202216035
-- Pedraza Maldonado Joaquin Andree - U202218514
+- Romero Qwistgaard Russell Stephen - U202211043
 
 
 <p style="text-align: center;">
@@ -35,16 +34,10 @@ UNIVERSIDAD PERUANA<br>
 
 | Entregables  | Fecha | Autor | Descripción de modificación |
 |-----------|-----------|-----------|-----------|
-| TB1| 23/08/2024 | Sergio André Gómez Vallejos | Implementación de contenido en el Student Outcome  Desarrollo del Contenido II Competidores  Perfil de integrante|
-| TB1 | 24/03/2024 | Maycol Jhordan Rojas Velasquez | Implementacion de la descripcion de la Startup |
-| TB1| 23/08/2024 | Joaquin Pedraza Maldonado | Antecedentes y problematica  Perfil de integrante|
-| TB1| 24/08/2024 | Joaquin Pedraza Maldonado | Lean Ux Procces|
-| TB1| 26/08/2024 | Alessandro Zevallos Linares | Perfil de integrante |
-| TB1| 26/08/2024 | Alessandro Zevallos Linares | Diseño de Entrevistas |
-| TB2 | 25/032024| Maycol Jhordan Rojas Velasquez | Desarrollo del perfil de integrante, creacion del logo estructuracion del informe indice, cuadros , caratula. |
-| TF | Fila 4, Columna 2 | Fila 4, Columna 3 | Fila 4, Columna 4 
-
-
+| TB1| 03/08/2024 | Sergio André Gómez Vallejos | Implementación de contenido en el Student Outcome <br> Registrar las entrevistas<br> Desarrollo del Contenido II<br> Competidores<br> User Journey Mapping <br> Perfil de integrante <br> Desarrollar el Capitulo IV <br> Implementar en el Capitulo V|
+| TP | Fila 2, Columna 2 | Fila 2, Columna 3 | Fila 2, Columna 4 |
+| TB2 | Fila 3, Columna 2 | Fila 3, Columna 3 | Fila 3, Columna 4 |
+| TF | Fila 4, Columna 2 | Fila 4, Columna 3 | Fila 4, Columna 4 |
 
 
 **Project Report Collaboration Insights**
@@ -211,15 +204,12 @@ Visualizamos un mundo donde la tecnología y la gestión hotelera se fusionan pa
 ### **Misión:**
 Nos esforzamos por proporcionar una plataforma que conecte a los hoteles con herramientas avanzadas de gestión, mejorando la eficiencia operativa y la satisfacción del cliente. Estamos decididos a utilizar la tecnología para generar un impacto positivo en la experiencia de los huéspedes y la eficiencia del personal hotelero. **KingReserve** será símbolo de excelencia en la gestión hotelera, innovación en la administración de servicios, y compromiso con la mejora continua, mientras fomentamos una comunidad activa y colaborativa en torno a la hospitalidad y el servicio.
 
-### Perfiles de integrantes del equipo
-| Integrante | Descripción |
-| ---- | --- |
-| ![Sergio](https://hackmd.io/_uploads/SkU_5d9cR.png) | Sergio André Gómez Vallejos – Ingeniería de Software – u20221d401 <br> Soy una persona resiliente que, sin importar cuántas veces caiga, siempre encuentra la manera de levantarse. Tengo habilidades sociales sólidas y una amplia experiencia en la resolución de problemas de código. Suelo ser el miembro más activo de mi equipo de trabajo. Me apasionan los lenguajes de programación y la tecnología, y constantemente me esfuerzo por alcanzar mis objetivos y contribuir al desarrollo del startup. |
-|  |Joaquín Andree Pedraza Maldonado <br> Mi nombre es Joaquín Andreé Pedraza Maldonado , tengo 20 años y actualmente me encuentro en 6to ciclo de la carrera de Ingeniería de Software , en la UPC , sede San Miguel. Al terminar mi carrera desearía dedicarme al rubro de desarrollo Web o cyberseguridad.Soy una persona centrada , perseverante , tranquila  , optimista y efectiva.|
+### **Perfiles de los integrantes del Startup:**
 
-### Alessandro Zevallos
+### **Joaquín Andree Pedraza Maldonado:**
+Mi nombre es Joaquín Andreé Pedraza Maldonado , tengo 20 años y actualmente me encuentro en 6to ciclo de la carrera de Ingeniería de Software , en la UPC , sede San Miguel. Al terminar mi carrera desearía dedicarme al rubro de desarrollo Web o cyberseguridad.Soy una persona centrada , perseverante , tranquila  , optimista y efectiva
 
-Soy estudiante de Ingenieria de Software con un fuerte interés en el desarrollo de productos digitales y la tecnología.En mi tiempo libre, me gusta jugar videojuegos. También tengo un interés especial en la música, lo que me ayuda a equilibrar mi vida académica y personal.Cuento con habilidades en gestión de bases de datos. Además, tengo experiencia en análisis de datos, lo que me ayuda a tomar decisiones informadas y crear soluciones efectivas.
+
 
 ### 1.2.1 Antecedentes y Problematica **
 
@@ -260,7 +250,7 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
       <td colspan="2"></td>
       <td><b>KingReserve</b><br><img src="https://hackmd.io/_uploads/rkXwsQdsC.png" alt="KingReserve Logo" style="max-width: 80px;"/></td>
       <td><b>Cloudbeds</b><br><img src="https://acortar.link/SDV6QT" alt="Cloudbeds Logo" style="max-width: 80px;"/></td>
-      <td><b>RoomRaccoon</b><br><img src="https://acortar.link/6yGl65" alt="RoomRaccoon" style="max-width: 80px;"/></td>
+      <td><b>RoomRaccoon</b><br><img src="https://acortar.link/4OQEIk" alt="RoomRaccoon" style="max-width: 80px;"/></td>
       <td><b>Mews</b><br><img src="https://acortar.link/UGgluO" alt="Mews" style="max-width: 90px;"/></td>
    </tr>
 
@@ -347,82 +337,86 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
       <td>Nuevas plataformas que ofrezcan soluciones más flexibles o especializadas.</td>
    </tr>
 </table>
+ NeedFinding
+## NeedFinding
 
-## 2.2 Entrevistas
+## NeedFinding
 
-### 2.2.1 Diseño de Entrevistas
+### User Personas
 
-### 1. Preguntas para Gestores de Empresas Hoteleras
+### User Task Matrix
 
-#### 1.1. Información Demográfica
+### User Journey Mapping
 
-- **Edad y género:**
-  - **Pregunta principal:** ¿Podrías indicarme tu edad y género?
-  - **Complementaria:** ¿Crees que tu edad influye en la forma en que gestionas un hotel?
+### Empathy Mapping
 
-- **Ubicación del hotel:**
-  - **Pregunta principal:** ¿En qué ciudad o región se encuentra tu hotel?
-  - **Complementaria:** ¿Cómo influye la ubicación del hotel en la estrategia de gestión y reservas?
+### As-is Scenario Mapping
 
-- **Experiencia en el sector hotelero:**
-  - **Pregunta principal:** ¿Cuántos años de experiencia tienes en la gestión hotelera?
-  - **Complementaria:** ¿Cómo ha cambiado tu enfoque de gestión con el tiempo?
+# Capítulo III: Requirements Specification
+## To-Be Scenario Mapping
 
-#### 1.2. Características Personales y Profesionales
+## User Stories
+| **ID**    | **Título**                            | **Historia**                                                                                                                                                                                                                                                                                               | **Escenarios**                                                                                                                                                                                                                                                                                                                                                                                                                    | **Epic** | **Técnicas**           |
+|-----------|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------------------|
+| Epic 1    | Funcionalidades de Registro y Perfil  | **Como** usuario, **quiero** registrarme y gestionar mi perfil **para** acceder a la plataforma y personalizarla a mi gusto.                                                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                   |          |                        |
+| Story 001 | Registro de Usuario                   | **Como** usuario, **quiero** registrarme en la plataforma **para** crear una cuenta y acceder a sus funcionalidades.                                                                                                                                                                                       | **Scenario 1:** *Registro exitoso* <br> **Given** estoy en la página de registro <br> **When** completo el formulario con datos válidos y lo envío <br> **Then** mi cuenta es creada y recibo una confirmación de registro exitoso. <br><br> **Scenario 2:** *Error en el registro* <br> **Given** estoy en la página de registro <br> **When** ingreso datos inválidos <br> **Then** se muestra un mensaje de error indicando los problemas con los datos. | Epic 1  | Registro de usuario, Validación de datos |
+| Story 002 | Gestión del Perfil de Usuario         | **Como** usuario, **quiero** gestionar mi perfil **para** actualizar mi información personal y preferencias.                                                                                                                                                                                               | **Scenario 1:** *Actualización del perfil* <br> **Given** estoy en la página de gestión del perfil <br> **When** actualizo mi información y la envío <br> **Then** mi perfil se actualiza correctamente y recibo una confirmación de los cambios. <br><br> **Scenario 2:** *Error en la actualización* <br> **Given** estoy en la página de gestión del perfil <br> **When** hay un problema técnico <br> **Then** se muestra un mensaje de error y la información no se actualiza. | Epic 1  | Edición de perfil, Manejo de errores |
+| Story 003 | Recuperación de Contraseña            | **Como** usuario, **quiero** recuperar mi contraseña en caso de olvido o robo **para** poder acceder a mi cuenta nuevamente.                                                                                                                                                                               | **Scenario 1:** *Recuperación exitosa* <br> **Given** estoy en la página de recuperación de contraseña <br> **When** ingreso mi correo electrónico y sigo las instrucciones <br> **Then** recibo un enlace para restablecer mi contraseña y puedo acceder nuevamente a mi cuenta. <br><br> **Scenario 2:** *Error en la recuperación* <br> **Given** estoy en la página de recuperación de contraseña <br> **When** ingreso un correo electrónico no registrado <br> **Then** se muestra un mensaje de error indicando que el correo electrónico no está asociado a ninguna cuenta. | Epic 1  | Recuperación de contraseña, Envío de correo electrónico |
+| Epic 2    | Elección de hotel                     | **Como** usuario, **quiero** buscar hoteles en línea **para** encontrar mi estadia preferida para vacasionar.                                                                                                                                                                                              |                                                                                                                                                                                                                                                                                                                                                                                                                                   |          |                        |
+| Story 004 | Buscando hoteles por filtros          | **Como** usuario, **quiero** buscar hoteles según la ubicación, ranking y precio **para** facilitar mi elección.                                                                                                                                                                                           | **Scenario 1:** *Búsqueda exitosa* <br> **Given** estoy en la página de búsqueda <br> **When** ingreso un nombre, ubicación, margen de precio y/o ranking de hotel y envío la buscador <br> **Then** recibo una lista de hoteles que coinciden con mis criterios de búsqueda. <br><br> **Scenario 2:** *Error en la búsqueda* <br> **Given** estoy en la página de búsqueda <br> **When** ingreso criterios de búsqueda que no existen en la base de datos o son inválidos <br> **Then** se muestra un mensaje de error indicando que no se encontraron resultados. | Epic 2  | Búsqueda por filtros, Manejo de errores |
+| Story 005 | Reseñas del hotel                     | **Como** usuario, **quiero** crear y leer reseñas y comentarios sobre los hoteles **para** identificar los puntos buenos y malos del mismo además de expresar mi experiencia personal.                                                                                                                     | **Scenario 1:** *ERevelar reseñas* <br> **Given** estoy en la página de un hotel en la app <br> **When** ingreso a la sección llamado "reseñas" <br> **Then** Me mostrarán todas las reseñas que obtuvo el hotel <br><br> **Scenario 2:** *Error de carga de datos* <br> **Given** estoy en la página de un hotel en la app <br> **When** intento ingresar a la sección de reseñas sin haberse ingresado cualquiera para el hotel <br> **Then** se muestra un mensaje de error indicando que no hay reseñas para este hotel. | Epic 2  | Visualización de datos, Manejo de errores |
+| Story 006 | Ver detalles del hotel                | **Como** usuario, **quiero** ver las especificaciones e información de un hotel **para** conocer más sobre su contenido, compararlo con el de otros hoteles y decidir si quiero reservar en este.                                                                                                          | **Scenario 1:** *Ver detalles* <br> **Given** estoy en la portada de un hotel en la app <br> **When** accedo a la página del hotel <br> **Then** puedo ver información detallada como nombre, propietario, descripción, calificación, precio, etc. <br><br> **Scenario 2:** *Error al cargar información* <br> **Given** estoy en la página de un hotel en la app <br> **When** hay un problema con la carga de información del hotel o el autor de esta página no la presenta <br> **Then** se muestra un mensaje de error indicando que la descripción y/o características no están disponibles. | Epic 2  | Visualización de datos, Manejo de errores |
+| Epic 3    | Funcionalidades de comunidad          | **Como** usuario, **quiero** participar en discusiones y preguntarle a otros usuarios **para** compartir mis opiniones y aprender de otros.                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                   |          |                        |
+| Story 007 | Crear y unirse a debates              | **Como** usuario, **quiero** participar en debates y crear unos propios **para** compartir mi opinión con otros usuarios sobre cualquier hotel o cadena hotelera.                                                                                                                                          | **Scenario 1:** *Crear un debate* <br> **Given** estoy en la página de comunidad <br> **When** accedo a la sección de crear debates y redacto el tópico <br> **Then** se crea un nuevo debate y se expone junto a los demás en la página. <br><br> **Scenario 2:** *Entrar a un debate* <br> **Given** estoy en la página de comunidad <br> **When** accedo a un debate ya creado <br> **Then** muestra todos los mensajes del debate y me permite publicar comentarios en este. | Epic 3  | Publicación de debates, Interaccion de debates |
+| Story 008 | Foros de preguntas y dudas            | **Como** usuario, **quiero** crear foros para resolver mis dudas y resolver las dudas de otros **para** ayudarnos entre todos al elegir los mejores hoteles para nuestras comodidades.                                                                                                                     | **Scenario 1:** *Crear un foro* <br> **Given** estoy en la página de comunidad <br> **When** accedo a la sección de foros de preguntas y escribo mi pregunta <br> **Then** esta se publica en la página y pude ser respondida. <br><br> **Scenario 2:** *Contestar foros* <br> **Given** estoy en la página de comunidad en la sección de foros <br> **When** hay una pregunta y accedo a ella <br> **Then** puedo dejar mi solución para que la revise el autor. | Epic 3  | Publicación de foros, Interacción de Foros |
+| Story 009 | Enviar Mensajes a Otros Usuarios      | **Como** usuario, **quiero** enviar mensajes a otros usuarios **para** interactuar y discutir sobre hoteles y otros temas relacionados de manera privada.                                                                                                                                                  | **Scenario 1:** *Enviar mensaje* <br> **Given** estoy en la página de un usuario o mi perfil <br> **When** redacto un mensaje y lo envío <br> **Then** el mensaje se envía correctamente y el destinatario que se indicó lo recibe. <br><br> **Scenario 2:** *Error en el envío de mensajes* <br> **Given** estoy en la página de otro usuario o mi perfil <br> **When** hay un problema técnico con el sistema de mensajería <br> **Then** se muestra un mensaje de error y el mensaje no se envía. | Epic 3  | Sistema de envío de mensajes, Manejo de errores |
+| Story 010 | Recibir Notificaciones de Mensajes    | **Como** usuario, **quiero** recibir notificaciones cuando recibo nuevos mensajes **para** estar al tanto de las interacciones y respuestas que tenga tanto de los usuarios como de los hoteles.                                                                                                           | **Scenario 1:** *Recibir notificación* <br> **Given** recibo un nuevo mensaje <br> **When** se envía la notificación <br> **Then** veo una notificación en la interfaz y en mi correo electrónico, si está habilitado. <br><br> **Scenario 2:** *Error en la notificación* <br> **Given** recibo un nuevo mensaje <br> **When** hay un problema con el envío de notificaciones <br> **Then** no recibo la notificación y se muestra un mensaje de error en la interfaz. | Epic 3  | Sistema de notificaciones, Manejo de errores |
+| Epic 4    | Compra y reserva de hotel             | **Como** usuario, **quiero** comprar y crear reservaciones a un hotel **para** poder hospedarme en este.                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                   |          |                        |
+| Story 011 | Comprar una reservación de hotel      | **Como** usuario, **quiero** comprar una reservación de hotel **para** tener acceso a las vacantes y poder seguir el proceso de reserva.                                                                                                                                                                   | **Scenario 1:** *Compra exitosa* <br> **Given** estoy en la página de un hotel en la app <br> **When** selecciono la opción de compra y completo el proceso de pago <br> **Then** recibo una confirmación de compra y me deja seguir el proseso de reservación. <br><br> **Scenario 2:** *Error en la compra* <br> **Given** estoy en la página de un hotel en la app <br> **When** hay un problema con el pago <br> **Then** se muestra un mensaje de error indicando que la compra no pudo completarse y se cancela. | Epic 4  | Procesamiento de pagos, Confirmación de compra, Manejo de errores |
+| Story 012 | Reservar el hotel                     | **Como** usuario, **quiero** poder realizar una reserva en línea de manera rápida y sencilla **para** que pueda asegurar mi estancia sin complicaciones y recibir una confirmación instantánea.                                                                                                            | **Scenario 1:** *Reserva exitosa* <br> **Given** he comprado una reservación de un hotel en la aap <br> **When** termino de personalizar mi estadia en el proceso de reservación <br> **Then** la reservación se consolida en el registro del hotel. <br><br> **Scenario 2:** *Error en el proceso* <br> **Given** he comprado una reserva de un hotel en la app <br> **When** hay un problema con el proceso de reservción <br> **Then** se muestra un mensaje de error indicando que la reserva no se puede concluir en ese momente y que intente de nuevo más tarde. | Epic 4  | Procedimientos de reserva, Registro de reswerva, Manejo de errores |
+| Story 013 | Ver historial de hoteles              | **Como** usuario, **quiero** ver mi historial de compras **para** tener un registro de los hoteles donde me hopedé.                                                                                                                                                                                        | **Scenario 1:** *Ver historial* <br> **Given** estoy en la página de mi perfil <br> **When** accedo a la sección de historial de hoteles hozpedados <br> **Then** puedo ver una lista de todos los hoteles en los que he estado, incluyendo la fecha y precio de la compra. <br><br> **Scenario 2:** *Error en la visualización del historial* <br> **Given** estoy en la página de mi perfil <br> **When** intento acceder a la sección de historial y hay un problema con la carga de la información <br> **Then** se muestra un mensaje de error indicando que el historial no está disponible. | Epic 4  | Visualización de datos, Manejo de errores |
+| Epic 5    | Funcionalidades de Recomendaciones    | **Como** usuario, **quiero** recibir recomendaciones de hoteles **para** descubrir nuevas oportunidades de hospedajes.                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                   |          |                        |
+| Story 014 | Obtener Recomendaciones Personalizadas | **Como** usuario, **quiero** recibir recomendaciones personalizadas de hoteles según mis preferencias **para** encontrar nuevas estadias que se ajusten a mis gustos y comodidades.                                                                                                                       | **Scenario 1:** *Notificar Recomendaciones* <br> **Given** tengo un historial de hospesajes y preferencias <br> **When** accedo a mi dispositivo que tiene la app o a la misma aplicación <br> **Then** recibo una notificación de hoteles recomendados basados en los criterios anteriores. <br><br> **Scenario 2:** *Error en las recomendaciones* <br> **Given** tengo un historial de hospedajes y preferencias <br> **When** hay un problema técnico con el sistema de notificaciones y/o recomendaciones <br> **Then** no se le notificará nada al usuario y se muestra un mensaje de error indicando que las recomendaciones no están disponibles si se intenta visualizarlas manualmente. | Epic 5  | Algoritmos de recomendación, Manejo de errores |
+| Story 015 | Ver Tendencias en hoteles              | **Como** usuario, **quiero** ver las tendencias actuales de hoteles **para** encontrar los más buscados y deseados por los usuarios.                                                                                                                                                                      | **Scenario 1:** *Ver tendencias* <br> **Given** estoy en la página principal <br> **When** accedo a la sección de tendencias <br> **Then** puedo ver una lista de hoteles que están en tendencia, ya sea por sus altas calificaciones o su número de resevaciones acumuladas semanalmente. <br><br> **Scenario 2:** *Error en la visualización de tendencias* <br> **Given** estoy en la sección de tendencias <br> **When** hay un problema con la carga de la información <br> **Then** se muestra un mensaje de error indicando que la sección no están disponible. | Epic 5  | Visualización de datos, Manejo de errores |
+| Story 016 | Gestionar Preferencias de Recomendación | **Como** usuario, **quiero** gestionar mis preferencias de recomendación **para** ajustar el tipo de hoteles que me recomiendan o desactivar la función totalmente.                                                                                                                                      | **Scenario 1:** *Actualizar preferencias* <br> **Given** estoy en la página de preferencias de recomendación <br> **When** actualizo mis preferencias y las guardo <br> **Then** mis preferencias se actualizan y las recomendaciones futuras se ajustan a las nuevas preferencias. <br><br> **Scenario 2:** *Error en la actualización de preferencias* <br> **Given** estoy en la página de preferencias de recomendación <br> **When** hay un problema técnico <br> **Then** se muestra un mensaje de error indicando que las preferencias no se pudieron actualizar. | Epic 5  | Gestión de preferencias, Manejo de errores |
 
-- **Motivaciones y objetivos:**
-  - **Pregunta principal:** ¿Qué te motiva en la gestión de un hotel y cuáles son tus principales objetivos (e.g., maximización de ocupación, satisfacción del cliente, etc.)?
-  - **Complementaria:** ¿Cómo evalúas el éxito de tu gestión hotelera?
+## Impact Mapping
 
-- **Herramientas y plataformas:**
-  - **Pregunta principal:** ¿Qué sistemas o plataformas utilizas para gestionar reservas y operaciones hoteleras?
-  - **Complementaria:** ¿Has probado alguna solución integrada para la gestión hotelera? ¿Cuál ha sido tu experiencia?
+## Product Backlog
+| **Orden** | **User Story**                       | **Título**                         | **Descripción**                                                                 | **Story Points** |
+|-----------|--------------------------------------|------------------------------------|---------------------------------------------------------------------------------|------------------|
+| 1         | Story 001                            | Registro de Usuario                | Como usuario, quiero registrarme en la plataforma para crear una cuenta y acceder a sus funcionalidades.  | 2 |
+| 2         | Story 002                            | Gestión del Perfil de Usuario      | Como usuario, quiero gestionar mi perfil para actualizar mi información personal y preferencias. | 2  |
+| 3         | Story 003                            | Recuperación de Contraseña         | Como usuario, quiero recuperar mi contraseña en caso de olvido o robo para poder acceder a mi cuenta nuevamente. | 2 |
+| 4         | Story 004                            | Buscando hoteles por filtros       | Como usuario, quiero buscar hoteles según la ubicación, ranking y precio para facilitar mi elección. | 3 |
+| 5         | Story 005                            | Reseñas del hotel                  | Como usuario, quiero crear y leer reseñas y comentarios sobre los hoteles para identificar los puntos buenos y malos del mismo además de expresar mi experiencia personal. | 3 |
+| 6         | Story 006                            | Ver detalles del hotel             | Como usuario, quiero ver las especificaciones e información de un hotel para conocer más sobre su contenido, compararlo con el de otros hoteles y decidir si quiero reservar en este. | 2 |
+| 7         | Story 007                            | Crear y unirse a debates           | Como usuario, quiero participar en debates y crear unos propios para compartir mi opinión con otros usuarios sobre cualquier hotel o cadena hotelera. | 2 |
+| 8         | Story 008                            | Foros de preguntas y dudas         | Como usuario, quiero crear foros para resolver mis dudas y resolver las dudas de otros para ayudarnos entre todos al elegir los mejores hoteles para nuestras comodidades. | 1 |
+| 9         | Story 009                            | Enviar Mensajes a Otros Usuarios   | Como usuario, quiero enviar mensajes a otros usuarios para interactuar y discutir sobre hoteles y otros temas relacionados de manera privada. | 2 |
+| 10        | Story 010                            | Recibir Notificaciones de Mensajes | Como usuario, quiero recibir notificaciones cuando recibo nuevos mensajes para estar al tanto de las interacciones y respuestas que tenga tanto de los usuarios como de los hoteles. | 2 |
+| 11        | Story 011                            | Comprar una reservación de hotel   | Como usuario, quiero comprar una reservación de hotel para tener acceso a las vacantes y poder seguir el proceso de reserva. | 3 |
+| 12        | Story 012                            | Reservar el hotel                  | Como usuario, quiero poder realizar una reserva en línea de manera rápida y sencilla para que pueda asegurar mi estancia sin complicaciones y recibir una confirmación instantánea | 3 |
+| 13        | Story 013                            | Ver historial de hoteles           | Como usuario, quiero ver mi historial de compras para tener un registro de los hoteles donde me hopedé. | 1 |
+| 14        | Story 014                            | Obtener Recomendaciones Personalizadas | Como usuario, quiero recibir recomendaciones personalizadas de hoteles según mis preferencias para encontrar nuevas estadias que se ajusten a mis gustos y comodidades. | 2 |
+| 15        | Story 015                            | Ver Tendencias en hoteles              | Como usuario, quiero ver las tendencias actuales de hoteles para encontrar los más buscados y deseados por los usuarios. | 1 |
+| 16        | Story 016                            | Gestionar Preferencias de Recomendación | Como usuario, quiero gestionar mis preferencias de recomendación para ajustar el tipo de hoteles que me recomiendan o desactivar la función totalmente. | 3 |
 
-- **Retos y frustraciones:**
-  - **Pregunta principal:** ¿Cuáles son los principales desafíos que enfrentas en la gestión hotelera?
-  - **Complementaria:** ¿Cómo abordas estos desafíos? ¿Hay alguna área específica donde sientas que necesitas más apoyo o mejores herramientas?
-
-- **Expectativas tecnológicas:**
-  - **Pregunta principal:** ¿Qué características tecnológicas consideras esenciales en un sistema de gestión hotelera?
-  - **Complementaria:** ¿Qué te gustaría que una plataforma como KingReserve mejorara o incluyera para facilitar la gestión de tu hotel?
-
-### 2. Preguntas para Huéspedes:
-
-#### 2.1. Información Demográfica
-
-- **Edad y género:**
-  - **Pregunta principal:** ¿Podrías indicarme tu edad y género?
-  - **Complementaria:** ¿En qué rango de edad sueles realizar más reservas?
-
-- **Distrito de residencia:**
-  - **Pregunta principal:** ¿En qué distrito o ciudad resides actualmente?
-  - **Complementaria:** ¿Prefieres realizar reservas cerca de tu residencia o estás dispuesto a viajar?
-
-- **Ocupación:**
-  - **Pregunta principal:** ¿Cuál es tu ocupación actual?
-  - **Complementaria:** ¿Tu ocupación influye en la frecuencia con la que realizas reservas?
-
-#### 2.2. Características Personales y Preferencias
-
-- **Tipos de reservas preferidos:**
-  - **Pregunta principal:** ¿Qué tipo de servicios sueles reservar con mayor frecuencia (restaurantes, hoteles, eventos, etc.)?
-  - **Complementaria:** ¿Qué aspectos consideras al realizar una reserva (ubicación, precio, reputación, etc.)?
-
-- **Experiencia en reservas:**
-  - **Pregunta principal:** ¿Qué es lo que más valoras al realizar una reserva?
-  - **Complementaria:** ¿Hay algún aspecto que te haya frustrado o decepcionado en reservas anteriores?
-
-- **Uso de plataformas para realizar reservas:**
-  - **Pregunta principal:** ¿Qué plataformas o métodos usas para realizar reservas?
-  - **Complementaria:** ¿Prefieres realizar tus reservas en línea o en persona? ¿Por qué?
-
-- **Interacción con la tecnología:**
-  - **Pregunta principal:** ¿Qué tan cómodo te sientes usando aplicaciones móviles o plataformas web para buscar y realizar reservas?
-  - **Complementaria:** ¿Qué características tecnológicas te gustaría ver en una plataforma que gestione reservas?
-
-- **Comunicación con proveedores de servicios:**
-  - **Pregunta principal:** ¿Qué tan importante es para ti recibir actualizaciones o notificaciones del proveedor antes y durante el servicio reservado?
-  - **Complementaria:** ¿Te gustaría tener la opción de comunicarte directamente con el proveedor a través de la plataforma?
-
-#### Conclusión de la Entrevista
-- **Pregunta final:** ¿Hay algo más que consideras importante compartir sobre tu experiencia como organizador o usuario de reservas?
+| **Orden** | **User Story**                             | **Título**                               | **Descripción**                                                                                          | **Story Points** |
+|-----------|--------------------------------------------|------------------------------------------|----------------------------------------------------------------------------------------------------------|------------------|
+| 1         | TS001                                      | Crear Cuenta de Usuario                  | Permitir a los usuarios crear una cuenta para acceder a la aplicación.                                   | 1 |
+| 2         | TS002                                      | Iniciar Sesión                           | Permitir a los usuarios iniciar sesión con sus credenciales para acceder a sus cuentas.                  | 2 |
+| 3         | TS003                                      | Reconfigurar credenciales                | Permitir a los usuarios restaurar y cambiar sus credenciales e información personal.                     | 1 |
+| 4         | TS004                                      | Buscar hoteles                           | Implementar una funcionalidad de búsqueda de hoteles por nombre, propietario ubicación y precio.         | 3 |
+| 5         | TS005                                      | Agregar paginas de hotel                 | Permitir a las empresas hoteleras agregar nuevas páginas de hotel en la aplicación.                      | 2 |
+| 6         | TS006                                      | Actualizar Información de la página      | Permitir a las empresas hoteleras actualizar la información de sus hoteles en sus páginas.               | 1 |
+| 7         | TS007                                      | Eliminar página de hotel                 | Permitir a los administradores eliminar su página de hotel.                                              | 3 |
+| 8         | TS008                                      | Implementar Sistema de Valoración y reseñas | Implementar un sistema de valoración y opinión para que los usuarios puedan calificar los hoteles.    | 3 |
+| 9         | TS009                                      | Implementar Funcionalidad de guardado       | Permitir a los usuarios guardar una página de hotel en su cuenta y marcarlo según lo prefiera.        | 2 |
+| 10        | TS011                                      | Configurar Notificaciones de Nuevas Publicaciones | Notificar a los usuarios sobre nuevas recomedaciones de hotel, avisos del hotel que reservaron, mensajes de otros usuarios, etc. | 1 |
+| 11        | TS012                                      | Implementar Funcionalidad de Filtros en Búsqueda  | Añadir filtros a la búsqueda para refinar resultados de hoteles según sus criterios.                                             | 2 |
+| 12        | TS013                                      | Implementar Funcionalidad de Exportación de Datos | Permitir a los usuarios exportar datos de reservas y otros trámites en formatos como docx, pdf o xml.                            | 3 |
+| 13        | TS014                                      | Implementar Funcionalidad de tramites             | Permitir a los usuarios realizar trámites en la aplicación.                                                                      | 3 |
+| 14        | TS015                                      | Integrar API de Recomendaciones                   | Integrar una API externa para obtener recomendaciones de hoteles basadas en las preferencias del usuario y su información.       | 3 |
+| 15        | TS016                                      | Implementar Funcionalidad de comunidad            | Permitir a los usuarios crear y comentar en foros y circulos de discuciones.                                                     | 3 |
+| 16        | TS017                                      | Implementar Sistema de Mensajes Internos          | Implementar un sistema de mensajes internos para comunicación entre usuarios.                                                    | 2 |
