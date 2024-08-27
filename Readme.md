@@ -183,8 +183,8 @@ Criterio: Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan 
 
 | **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
 |-------------------------|------------------------|------------------|
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta |                        |                  |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos |   
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | 1.- Sergio André Gómez Vallejos: TB1: Participé activamente en el desarrollo del documento y la landing page, colaborando con el equipo en la división de tareas y asegurando que se completaran en el plazo establecido.                       |                  |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos |  1.- Sergio André Gómez Vallejos: TB1: Contribuí trabajando en equipo, enfocándome en mis tareas asignadas y apoyando a mis compañeros en sus áreas cuando fue necesario, manteniendo una actitud colaborativa para cumplir los objetivos establecidos.
 
 # CAPÍTULO I: Introducción
 ## Startup Profile
