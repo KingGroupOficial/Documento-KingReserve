@@ -351,81 +351,186 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
    </tr>
 </table>
 
-## 2.2 Entrevistas
+### Estrategias y tácticas frente a competidores
 
-### 2.2.1 Diseño de Entrevistas
+## Entrevistas
+
+### Diseño de Entrevistas
 
 ### 1. Preguntas para Gestores de Empresas Hoteleras
 
 #### 1.1. Información Demográfica
 
-- **Edad y género:**
-  - **Pregunta principal:** ¿Podrías indicarme tu edad y género?
-  - **Complementaria:** ¿Crees que tu edad influye en la forma en que gestionas un hotel?
-
-- **Ubicación del hotel:**
-  - **Pregunta principal:** ¿En qué ciudad o región se encuentra tu hotel?
-  - **Complementaria:** ¿Cómo influye la ubicación del hotel en la estrategia de gestión y reservas?
-
-- **Experiencia en el sector hotelero:**
-  - **Pregunta principal:** ¿Cuántos años de experiencia tienes en la gestión hotelera?
-  - **Complementaria:** ¿Cómo ha cambiado tu enfoque de gestión con el tiempo?
+<table class="min-w-full bg-white border border-gray-300 mb-6">  
+        <thead>  
+            <tr>  
+                <th class="border border-gray-300 p-2">Categoría</th>  
+                <th class="border border-gray-300 p-2">Preguntas</th>  
+            </tr>  
+        </thead>  
+        <tbody>  
+            <tr>  
+                <td class="border border-gray-300 p-2">Edad y género</td>  
+                <td class="border border-gray-300 p-2">  
+                    - ¿Podrías indicarme tu edad y género? <br>  
+                    - ¿Crees que tu edad influye en la forma en que gestionas un hotel?  
+                </td>  
+            </tr>  
+            <tr>  
+                <td class="border border-gray-300 p-2">Ubicación del hotel</td>  
+                <td class="border border-gray-300 p-2">  
+                    - ¿En qué ciudad o región se encuentra tu hotel? <br>  
+                    - ¿Cómo influye la ubicación del hotel en la estrategia de gestión y reservas?  
+                </td>  
+            </tr>  
+            <tr>  
+                <td class="border border-gray-300 p-2">Experiencia en el sector hotelero</td>  
+                <td class="border border-gray-300 p-2">  
+                    - ¿Cuántos años de experiencia tienes en la gestión hotelera? <br>  
+                    - ¿Cómo ha cambiado tu enfoque de gestión con el tiempo?  
+                </td>  
+            </tr>  
+        </tbody>  
+    </table>  
 
 #### 1.2. Características Personales y Profesionales
 
-- **Motivaciones y objetivos:**
-  - **Pregunta principal:** ¿Qué te motiva en la gestión de un hotel y cuáles son tus principales objetivos (e.g., maximización de ocupación, satisfacción del cliente, etc.)?
-  - **Complementaria:** ¿Cómo evalúas el éxito de tu gestión hotelera?
-
-- **Herramientas y plataformas:**
-  - **Pregunta principal:** ¿Qué sistemas o plataformas utilizas para gestionar reservas y operaciones hoteleras?
-  - **Complementaria:** ¿Has probado alguna solución integrada para la gestión hotelera? ¿Cuál ha sido tu experiencia?
-
-- **Retos y frustraciones:**
-  - **Pregunta principal:** ¿Cuáles son los principales desafíos que enfrentas en la gestión hotelera?
-  - **Complementaria:** ¿Cómo abordas estos desafíos? ¿Hay alguna área específica donde sientas que necesitas más apoyo o mejores herramientas?
-
-- **Expectativas tecnológicas:**
-  - **Pregunta principal:** ¿Qué características tecnológicas consideras esenciales en un sistema de gestión hotelera?
-  - **Complementaria:** ¿Qué te gustaría que una plataforma como KingReserve mejorara o incluyera para facilitar la gestión de tu hotel?
+<table class="min-w-full bg-white border border-gray-300 mb-6">  
+        <thead>  
+            <tr>  
+                <th class="border border-gray-300 p-2">Categoría</th>  
+                <th class="border border-gray-300 p-2">Preguntas</th>  
+            </tr>  
+        </thead>  
+        <tbody>  
+            <tr>  
+                <td class="border border-gray-300 p-2">Motivaciones y objetivos</td>  
+                <td class="border border-gray-300 p-2">  
+                    - ¿Qué te motiva en la gestión de un hotel y cuáles son tus principales objetivos (e.g., maximización de ocupación, satisfacción del cliente, etc.)? <br>  
+                    - ¿Cómo evalúas el éxito de tu gestión hotelera?  
+                </td>  
+            </tr>  
+            <tr>  
+                <td class="border border-gray-300 p-2">Herramientas y plataformas</td>  
+                <td class="border border-gray-300 p-2">  
+                    - ¿Qué sistemas o plataformas utilizas para gestionar reservas y operaciones hoteleras? <br>  
+                    - ¿Has probado alguna solución integrada para la gestión hotelera? ¿Cuál ha sido tu experiencia?  
+                </td>  
+            </tr>  
+            <tr>  
+                <td class="border border-gray-300 p-2">Retos y frustraciones</td>  
+                <td class="border border-gray-300 p-2">  
+                    - ¿Cuáles son los principales desafíos que enfrentas en la gestión hotelera? <br>  
+                    - ¿Cómo abordas estos desafíos? ¿Hay alguna área específica donde sientas que necesitas más apoyo o mejores herramientas?  
+                </td>  
+            </tr>  
+            <tr>  
+                <td class="border border-gray-300 p-2">Expectativas tecnológicas</td>  
+                <td class="border border-gray-300 p-2">  
+                    - ¿Qué características tecnológicas consideras esenciales en un sistema de gestión hotelera? <br>  
+                    - ¿Qué te gustaría que una plataforma como KingReserve mejorara o incluyera para facilitar la gestión de tu hotel?  
+                </td>  
+            </tr>  
+        </tbody>  
+    </table>  
 
 ### 2. Preguntas para Huéspedes:
 
 #### 2.1. Información Demográfica
 
-- **Edad y género:**
-  - **Pregunta principal:** ¿Podrías indicarme tu edad y género?
-  - **Complementaria:** ¿En qué rango de edad sueles realizar más reservas?
-
-- **Distrito de residencia:**
-  - **Pregunta principal:** ¿En qué distrito o ciudad resides actualmente?
-  - **Complementaria:** ¿Prefieres realizar reservas cerca de tu residencia o estás dispuesto a viajar?
-
-- **Ocupación:**
-  - **Pregunta principal:** ¿Cuál es tu ocupación actual?
-  - **Complementaria:** ¿Tu ocupación influye en la frecuencia con la que realizas reservas?
+<table class="min-w-full bg-white border border-gray-300 mb-6">  
+        <thead>  
+            <tr>  
+                <th class="border border-gray-300 p-2">Categoría</th>  
+                <th class="border border-gray-300 p-2">Preguntas</th>  
+            </tr>  
+        </thead>  
+        <tbody>  
+            <tr>  
+                <td class="border border-gray-300 p-2">Edad y género</td>  
+                <td class="border border-gray-300 p-2">  
+                    - ¿Podrías indicarme tu edad y género? <br>  
+                    - ¿En qué rango de edad sueles realizar más reservas?  
+                </td>  
+            </tr>  
+            <tr>  
+                <td class="border border-gray-300 p-2">Distrito de residencia</td>  
+                <td class="border border-gray-300 p-2">  
+                    - ¿En qué distrito o ciudad resides actualmente? <br>  
+                    - ¿Prefieres realizar reservas cerca de tu residencia o estás dispuesto a viajar?  
+                </td>  
+            </tr>  
+            <tr>  
+                <td class="border border-gray-300 p-2">Ocupación</td>  
+                <td class="border border-gray-300 p-2">  
+                    - ¿Cuál es tu ocupación actual? <br>  
+                    - ¿Tu ocupación influye en la frecuencia con la que realizas reservas?  
+                </td>  
+            </tr>  
+        </tbody>  
+    </table>  
 
 #### 2.2. Características Personales y Preferencias
 
-- **Tipos de reservas preferidos:**
-  - **Pregunta principal:** ¿Qué tipo de servicios sueles reservar con mayor frecuencia (restaurantes, hoteles, eventos, etc.)?
-  - **Complementaria:** ¿Qué aspectos consideras al realizar una reserva (ubicación, precio, reputación, etc.)?
-
-- **Experiencia en reservas:**
-  - **Pregunta principal:** ¿Qué es lo que más valoras al realizar una reserva?
-  - **Complementaria:** ¿Hay algún aspecto que te haya frustrado o decepcionado en reservas anteriores?
-
-- **Uso de plataformas para realizar reservas:**
-  - **Pregunta principal:** ¿Qué plataformas o métodos usas para realizar reservas?
-  - **Complementaria:** ¿Prefieres realizar tus reservas en línea o en persona? ¿Por qué?
-
-- **Interacción con la tecnología:**
-  - **Pregunta principal:** ¿Qué tan cómodo te sientes usando aplicaciones móviles o plataformas web para buscar y realizar reservas?
-  - **Complementaria:** ¿Qué características tecnológicas te gustaría ver en una plataforma que gestione reservas?
-
-- **Comunicación con proveedores de servicios:**
-  - **Pregunta principal:** ¿Qué tan importante es para ti recibir actualizaciones o notificaciones del proveedor antes y durante el servicio reservado?
-  - **Complementaria:** ¿Te gustaría tener la opción de comunicarte directamente con el proveedor a través de la plataforma?
-
+<table class="min-w-full bg-white border border-gray-300 mb-6">  
+        <thead>  
+            <tr>  
+                <th class="border border-gray-300 p-2">Categoría</th>  
+                <th class="border border-gray-300 p-2">Preguntas</th>  
+            </tr>  
+        </thead>  
+        <tbody>  
+            <tr>  
+                <td class="border border-gray-300 p-2">Tipos de reservas preferidos</td>  
+                <td class="border border-gray-300 p-2">  
+                    - ¿Qué tipo de servicios sueles reservar con mayor frecuencia (restaurantes, hoteles, eventos, etc.)? <br>  
+                    - ¿Qué aspectos consideras al realizar una reserva (ubicación, precio, reputación, etc.)?  
+                </td>  
+            </tr>  
+            <tr>  
+                <td class="border border-gray-300 p-2">Experiencia en reservas</td>  
+                <td class="border border-gray-300 p-2">  
+                    - ¿Qué es lo que más valoras al realizar una reserva? <br>  
+                    - ¿Hay algún aspecto que te haya frustrado o decepcionado en reservas anteriores?  
+                </td>  
+            </tr>  
+            <tr>  
+                <td class="border border-gray-300 p-2">Uso de plataformas para realizar reservas</td>  
+                <td class="border border-gray-300 p-2">  
+                    - ¿Qué plataformas o métodos usas para realizar reservas? <br>  
+                    - ¿Prefieres realizar tus reservas en línea o en persona? ¿Por qué?  
+                </td>  
+            </tr>  
+            <tr>  
+                <td class="border border-gray-300 p-2">Interacción con la tecnología</td>  
+                <td class="border border-gray-300 p-2">  
+                    - ¿Qué tan cómodo te sientes usando aplicaciones móviles o plataformas web para buscar y realizar reservas? <br>  
+                    - ¿Qué características tecnológicas te gustaría ver en una plataforma que gestione reservas?  
+                </td>  
+            </tr>  
+            <tr>  
+                <td class="border border-gray-300 p-2">Comunicación con proveedores de servicios</td>  
+                <td class="border border-gray-300 p-2">  
+                    - ¿Qué tan importante es para ti recibir actualizaciones o notificaciones del proveedor antes y durante el servicio reservado? <br>  
+                    - ¿Te gustaría tener la opción de comunicarte directamente con el proveedor a través de la plataforma?  
+                </td>  
+            </tr>  
+        </tbody>  
+    </table>  
+    
 #### Conclusión de la Entrevista
-- **Pregunta final:** ¿Hay algo más que consideras importante compartir sobre tu experiencia como organizador o usuario de reservas?
+
+<table class="min-w-full bg-white border border-gray-300 mb-6">  
+        <thead>  
+            <tr>  
+                <th class="border border-gray-300 p-2">Categoría</th>  
+                <th class="border border-gray-300 p-2">Pregunta</th>  
+            </tr>  
+        </thead>  
+        <tbody>  
+            <tr>  
+                <td class="border border-gray-300 p-2">Pregunta Final</td>  
+                <td class="border border-gray-300 p-2">  
+                    - ¿Hay algo más que consideras importante compartir sobre tu experiencia como organizador o usuario de reservas?  
+                </td>  
+            </tr>  
