@@ -24,6 +24,7 @@ UNIVERSIDAD PERUANA<br>
 - Gómez Vallejos Sergio André - U20221D401
 - Rojas Velasquez Maycol Jhordan - U202219984
 - Zevallos Linares Alessandro Netto - U202216035
+- Pedraza Maldonado Joaquin Andree - U202218514
 
 
 <p style="text-align: center;">
