@@ -264,6 +264,40 @@ Incentivar la Formalización:
 Crear programas de incentivos que animen a las empresas informales a regularizar su situación, ofreciéndoles beneficios como acceso a financiamiento, capacitación, y promoción en plataformas turísticas oficiales.
 Establecer sanciones y controles más estrictos para reducir la competencia desleal de las empresas informales.
 
+### Lean Ux Assumptions 
+
+### Buisness Assumptions
+-Creo que mis clientes (hoteles ) necesitan una mejora en la eficiencia y organización del proceso de reservas para reducir errores, mejorar la calidad del servicio y competir con las operaciones informales.
+-Estas necesidades se pueden resolver con una aplicación que centralice y automatice el proceso de reservas, integrando servicios como la reserva de habitaciones, excursiones, y restaurantes, y mejorando la comunicación entre hoteles
+-Mis clientes iniciales serán hoteles que enfrentan problemas de desorganización y errores en sus sistemas de reservas 
+-El valor número 1 que un cliente quiere obtener de mi producto es una gestión de reservas más eficiente y sin errores, lo que mejora la experiencia del cliente final y optimiza la ocupación hotelera.
+-Obteneré la mayoría de mis clientes a través de recomendaciones, asociaciones con agencias de viaje y publicidad dirigida en plataformas digitales.
+-Ganaré dinero mediante comisiones sobre cada reserva procesada a través de la aplicación, así como tarifas de suscripción para el uso de la plataforma por parte de los hoteles.
+-Mi competencia en el mercado serán las soluciones de gestión de reservas ya establecidas y las operaciones informales que ofrecen precios más bajos a costa de la calidad.
+-Los venceremos debido a nuestra capacidad de integrar múltiples servicios en una sola plataforma, mejorar la precisión en las reservas, y ofrecer soporte continuo a los usuarios.
+-Mi mayor riesgo es la resistencia al cambio por parte de los hoteles y agencias acostumbrados a métodos tradicionales o informales de gestión.
+-Resolveremos esto proporcionando formación y soporte continuo, demostrando las ventajas de la automatización y la mejora de la eficiencia.
+-Sabremos que tenemos éxito cuando veamos un aumento en la adopción de la plataforma, una reducción en los errores de reserva, y un incremento en la satisfacción del cliente final.
+
+### User Assumptios
+¿Quién es el usuario?
+Los usuarios incluyen hoteles que buscan mejorar la gestión de sus reservas, agencias de viaje que necesitan coordinar mejor los servicios turísticos y huéspedes que desean una experiencia de reserva más fluida y personalizada.
+
+¿Qué problemas resuelve nuestro producto?
+Nuestro producto resuelve problemas de desorganización, errores en la gestión de reservas, y la falta de coordinación entre hoteles, agencias de viaje y huéspedes. Además, mejora la experiencia de los huéspedes al ofrecer un proceso de reserva más transparente y eficiente.
+
+¿Qué características son importantes?
+Es crucial que el producto permita la gestión integral de reservas y servicios asociados en una sola plataforma de manera eficiente, confiable y sin errores. Para los huéspedes, es importante que puedan acceder fácilmente a la información de su reserva, opciones de servicios adicionales, y comunicarse con el hotel o la agencia en cualquier momento.
+
+¿Dónde encaja nuestro producto en su trabajo o vida?
+Para los hoteles y agencias de viaje, el producto encaja en su operación diaria, optimizando la gestión de reservas y mejorando la coordinación de servicios. Para los huéspedes, el producto se integra en su experiencia de viaje, facilitando la reserva y personalización de servicios antes y durante su estancia.
+
+¿Cuándo y cómo es nuestro producto usado?
+El producto es utilizado cada vez que los hoteles o agencias necesitan gestionar reservas y coordinar servicios turísticos, y cada vez que los huéspedes necesitan reservar alojamiento, personalizar su estancia o consultar su itinerario.
+
+¿Cómo debe verse nuestro producto y cómo debe comportarse?
+El producto debe ser intuitivo, fácil de usar y altamente funcional. Los usuarios deben poder gestionar reservas, coordinar servicios y realizar consultas de manera rápida, sencilla y precisa, mientras los huéspedes disfrutan de un proceso de reserva claro y una comunicación fluida con el hotel .
+
 
     
 ### Segmentos Objetivo
