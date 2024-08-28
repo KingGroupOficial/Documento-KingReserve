@@ -268,15 +268,25 @@ Establecer sanciones y controles más estrictos para reducir la competencia desl
 
 ### Buisness Assumptions
 -Creo que mis clientes (hoteles ) necesitan una mejora en la eficiencia y organización del proceso de reservas para reducir errores, mejorar la calidad del servicio y competir con las operaciones informales.
+
 -Estas necesidades se pueden resolver con una aplicación que centralice y automatice el proceso de reservas, integrando servicios como la reserva de habitaciones, excursiones, y restaurantes, y mejorando la comunicación entre hoteles
+
 -Mis clientes iniciales serán hoteles que enfrentan problemas de desorganización y errores en sus sistemas de reservas 
+
 -El valor número 1 que un cliente quiere obtener de mi producto es una gestión de reservas más eficiente y sin errores, lo que mejora la experiencia del cliente final y optimiza la ocupación hotelera.
+
 -Obteneré la mayoría de mis clientes a través de recomendaciones, asociaciones con agencias de viaje y publicidad dirigida en plataformas digitales.
+
 -Ganaré dinero mediante comisiones sobre cada reserva procesada a través de la aplicación, así como tarifas de suscripción para el uso de la plataforma por parte de los hoteles.
+
 -Mi competencia en el mercado serán las soluciones de gestión de reservas ya establecidas y las operaciones informales que ofrecen precios más bajos a costa de la calidad.
+
 -Los venceremos debido a nuestra capacidad de integrar múltiples servicios en una sola plataforma, mejorar la precisión en las reservas, y ofrecer soporte continuo a los usuarios.
+
 -Mi mayor riesgo es la resistencia al cambio por parte de los hoteles y agencias acostumbrados a métodos tradicionales o informales de gestión.
+
 -Resolveremos esto proporcionando formación y soporte continuo, demostrando las ventajas de la automatización y la mejora de la eficiencia.
+
 -Sabremos que tenemos éxito cuando veamos un aumento en la adopción de la plataforma, una reducción en los errores de reserva, y un incremento en la satisfacción del cliente final.
 
 ### User Assumptios
