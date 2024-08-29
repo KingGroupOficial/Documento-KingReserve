@@ -643,3 +643,13 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 | **Procedencia:**  Lima, Ate |
 | ![Entrevista]()|
 | **Resumen:** Pedro Fiñei, un estudiante universitario de 19 años que reside en San Isidro, Lima, realiza la mayoría de sus reservas entre los 18 y 20 años, principalmente para salidas con amigos y eventos sociales. Prefiere hacer reservas en línea utilizando aplicaciones como Rappi y Airbnb, valorando el precio, la ubicación y las opiniones de otros usuarios. Se siente cómodo usando su smartphone para realizar reservas, pero sugiere que las plataformas deberían ofrecer más opciones de personalización, recordatorios automáticos, y ser más transparentes con las tarifas adicionales. También considera importante recibir notificaciones y la posibilidad de comunicarse directamente con los proveedores a través de la plataforma. |
+
+
+#### Entrevista 2
+| **Datos del entrevistado** | 
+|--------------------------|
+| **Nombre:**  Ramiro Guzman |
+| **Edad:**  20 años |
+| **Procedencia:**  Lima, Lima |
+| ![Entrevista]()|
+| **Resumen:** Ramiro Guzmán, con 20 años, valora la conveniencia y calidad en sus reservas. Prefiere utilizar plataformas en línea por su accesibilidad y rapidez, y aprecia la transparencia en la información y las reseñas. Su ocupación y presupuesto afectan su frecuencia de reservas, y aunque prefiere hacer reservas cerca de su residencia, está dispuesto a viajar por experiencias únicas. Desea mejoras tecnológicas como chat en vivo y recomendaciones personalizadas para optimizar su experiencia de reserva. |
