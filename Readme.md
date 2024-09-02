@@ -663,3 +663,32 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 | ![Entrevista]() |
 | **Resumen:** Vasco Zagaceta, un estudiante de 20 años residente en San Miguel, Lima, suele reservar hoteles y valora principalmente las reseñas de otros usuarios y la ubicación del hotel al hacer sus reservas. Utiliza la aplicación Booking para realizar sus reservas y se siente cómodo utilizando aplicaciones móviles y plataformas web para este propósito. Vasco sugiere que la implementación de una inteligencia artificial que mejore las recomendaciones basadas en las preferencias del usuario sería una buena idea. Además, considera muy importante recibir actualizaciones y notificaciones del proveedor antes y durante el servicio reservado. También le gustaría tener la opción de comunicarse directamente con el proveedor a través de la plataforma para resolver dudas o recibir información adicional. |
 
+## User Task Matrix
+
+### Matriz de Tareas del Usuario
+
+| **Tareas**                           | **Frecuencia** | **Importancia** | **Frecuencia** | **Importancia** |
+|--------------------------------------|----------------|-----------------|----------------|-----------------|
+| Gestionar reservas de huéspedes      | Alta           | Alta            | -            | -             |
+| Coordinar y asignar tareas al personal| Media          | Alta            | -            | -             |
+| Automatizar la facturación           | Media          | Media           | -            | -             |
+| Monitorear rendimiento de operaciones| Alta           | Alta            | -            | -             |
+| Buscar y comparar opciones de alojamiento| -            | -             | Alta           | Alta            |
+| Realizar reservas en línea           | -            | -             | Alta           | Alta            |
+| Personalizar experiencia de estancia | -            | -             | Media          | Alta            |
+| Recibir notificaciones y actualizaciones| -            | -             | Alta           | Media           |
+| Comunicarse con el hotel             | -            | -             | Media          | Alta            |
+
+## Explicación de las Tareas
+
+- **Tareas con mayor frecuencia e importancia**:
+  - Para los **gestores de hoteles**, las tareas más frecuentes e importantes son "Gestionar reservas de huéspedes" y "Monitorear rendimiento de operaciones", ya que estas son críticas para la operación diaria y la satisfacción del cliente.
+  - Para los **viajeros**, las tareas más frecuentes e importantes son "Buscar y comparar opciones de alojamiento" y "Realizar reservas en línea", dado que son esenciales para planificar y asegurar sus viajes.
+
+- **Principales diferencias**:
+  - Los gestores de hotel se centran en la administración y eficiencia operativa.
+  - Los viajeros se enfocan en la personalización y conveniencia de la experiencia de alojamiento.
+
+- **Coincidencias**:
+  - Ambos segmentos valoran la **comunicación eficiente** y la **automatización** para mejorar la experiencia general.
+
