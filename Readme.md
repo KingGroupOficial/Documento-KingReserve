@@ -308,6 +308,20 @@ El producto es utilizado cada vez que los hoteles o agencias necesitan gestionar
 ¿Cómo debe verse nuestro producto y cómo debe comportarse?
 El producto debe ser intuitivo, fácil de usar y altamente funcional. Los usuarios deben poder gestionar reservas, coordinar servicios y realizar consultas de manera rápida, sencilla y precisa, mientras los huéspedes disfrutan de un proceso de reserva claro y una comunicación fluida con el hotel .
 
+### Lean Ux Proccess Hypothesis Statement
+Usuario Huésped
+Creemos que, al desarrollar una aplicación que centralice y automatice el proceso de reservas y servicios turísticos, mejoraremos la experiencia de los huéspedes al ofrecerles un proceso de reserva más sencillo, rápido y personalizado.
+
+Lograremos que los huéspedes disfruten de una experiencia de viaje más fluida, sin complicaciones en las reservas y con opciones personalizadas según sus necesidades.
+
+Sabremos que hemos tenido éxito cuando el número de reservas realizadas a través de la aplicación haya incrementado en un 40% durante los primeros tres meses posteriores al lanzamiento.
+
+Usuario Empresa (Hoteles y Agencias de Viaje)
+Creemos que, al optimizar la gestión de reservas y la coordinación de servicios a través de nuestra plataforma, reduciremos los errores y desorganización, mejorando la ocupación y la satisfacción del cliente.
+
+Lograremos evitar problemas de desorganización y comunicación que resultan en cancelaciones y bajas tasas de ocupación, además de reducir los costos asociados con estos errores.
+
+Sabremos que hemos tenido éxito cuando la totalidad de las reservas gestionadas a través de la plataforma hayan sido procesadas sin errores, y los hoteles y agencias reporten una mejora en su eficiencia operativa.
 
     
 ### Segmentos Objetivo
