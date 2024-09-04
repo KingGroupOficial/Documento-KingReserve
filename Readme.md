@@ -677,9 +677,17 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 | ![Entrevista]() |
 | **Resumen:** Vasco Zagaceta, un estudiante de 20 años residente en San Miguel, Lima, suele reservar hoteles y valora principalmente las reseñas de otros usuarios y la ubicación del hotel al hacer sus reservas. Utiliza la aplicación Booking para realizar sus reservas y se siente cómodo utilizando aplicaciones móviles y plataformas web para este propósito. Vasco sugiere que la implementación de una inteligencia artificial que mejore las recomendaciones basadas en las preferencias del usuario sería una buena idea. Además, considera muy importante recibir actualizaciones y notificaciones del proveedor antes y durante el servicio reservado. También le gustaría tener la opción de comunicarse directamente con el proveedor a través de la plataforma para resolver dudas o recibir información adicional. |
 
+## User Persona
+
+### Huesped
+![Pedro Nanfuñay](https://github.com/user-attachments/assets/ab4c35e7-10af-41b0-aa2f-da507985c93d)
+
+### Empresas Hoteleras
+
 ## User Task Matrix
 
 ### Matriz de Tareas del Usuario
+
 
 | **Tareas**                           | **Frecuencia** | **Importancia** | **Frecuencia** | **Importancia** |
 |--------------------------------------|----------------|-----------------|----------------|-----------------|
@@ -693,7 +701,7 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 | Recibir notificaciones y actualizaciones| -            | -             | Alta           | Media           |
 | Comunicarse con el hotel             | -            | -             | Media          | Alta            |
 
-## Explicación de las Tareas
+### Explicación de las Tareas
 
 - **Tareas con mayor frecuencia e importancia**:
   - Para los **gestores de hoteles**, las tareas más frecuentes e importantes son "Gestionar reservas de huéspedes" y "Monitorear rendimiento de operaciones", ya que estas son críticas para la operación diaria y la satisfacción del cliente.
@@ -706,3 +714,9 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 - **Coincidencias**:
   - Ambos segmentos valoran la **comunicación eficiente** y la **automatización** para mejorar la experiencia general.
 
+## User Journey Map
+
+### Huesped
+![Huesped journey map 1](https://github.com/user-attachments/assets/b86de9fa-6d10-425d-81db-89e3a6dc1742)
+
+### Empresas Hoteleras
