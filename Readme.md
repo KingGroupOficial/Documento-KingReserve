@@ -726,9 +726,6 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 
 
 # Capitulo IV: Product Design
-## 4.8. Database Design
-#### 4.8.1. Database Diagram
-![KingReserve-diagram](/assets/KingReserve-diagram.png)
 
 ## 4.3 Landing Page UI Design
 ### 4.3.1 Landing Page Wireframe
@@ -747,3 +744,22 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 6. **Principios de Diseño**: El diseño es consistente, bien alineado y sigue una estructura clara que facilita la experiencia de usuario.
 
 ### 4.3.2 Landing Page Mock-Up
+![LandingPageMockUps](/assets/Landing-Page-MockUps.PNG)
+### Mock-ups del Landing Page
+
+1. **Diseño Responsivo**: Los mock-ups muestran una clara adaptación del diseño a diferentes dispositivos, como móviles, portátiles y monitores de escritorio. Esto asegura una experiencia de usuario coherente y accesible en cualquier formato.
+
+2. **Uso de Imágenes de Impacto**: La imagen principal en el sitio web de escritorio y portátil resalta la experiencia visual. La combinación de la fotografía nocturna con el texto "Revolución Hotelera" crea un efecto atractivo que captura la atención del usuario.
+
+3. **Coherencia Visual**: El diseño mantiene una identidad visual consistente en todos los dispositivos, con el logotipo de **King Reserve** en la parte superior izquierda y una paleta de colores marrón y dorado que refleja un estilo elegante y moderno.
+
+4. **Tipografía Legible**: Los textos grandes y bien contrastados permiten una lectura fácil tanto en dispositivos móviles como en pantallas grandes. El título principal en la pantalla de escritorio se resalta de manera prominente.
+
+5. **Navegación Clara**: El menú superior visible en los mock-ups para escritorio y portátil está bien organizado, facilitando la navegación rápida entre las secciones del sitio.
+
+6. **Llamadas a la Acción (CTA)**: En la versión móvil, se destacan los botones "Reservar" y "Ver más", lo que fomenta la interacción directa del usuario, asegurando que los elementos interactivos son fácilmente accesibles.
+
+
+## 4.8. Database Design
+#### 4.8.1. Database Diagram
+![KingReserve-diagram](/assets/KingReserve-diagram.png)
