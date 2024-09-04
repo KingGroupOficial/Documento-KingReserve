@@ -729,3 +729,21 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 ## 4.8. Database Design
 #### 4.8.1. Database Diagram
 ![KingReserve-diagram](/assets/KingReserve-diagram.png)
+
+## 4.3 Landing Page UI Design
+### 4.3.1 Landing Page Wireframe
+![LandingPageWireframe](/assets/Landing-Page-Wireframe.jpg)
+
+1. **Jerarquía Visual**: El título grande y las imágenes dominantes guían la atención del usuario, destacando los elementos más importantes.
+
+2. **Distribución del Contenido**: El diseño divide el contenido en bloques bien definidos, lo que facilita una navegación intuitiva y progresiva.
+
+3. **Espacio en Blanco**: El uso adecuado del espacio en blanco mejora la legibilidad y evita sobrecargar visualmente al usuario.
+
+4. **Accesibilidad**: El diseño se adapta bien a diferentes dispositivos (responsive), asegurando una navegación fluida tanto en escritorio como en móviles.
+
+5. **Elementos Interactivos**: Existen áreas claramente dedicadas a botones, promoviendo la interacción de forma sencilla.
+
+6. **Principios de Diseño**: El diseño es consistente, bien alineado y sigue una estructura clara que facilita la experiencia de usuario.
+
+### 4.3.2 Landing Page Mock-Up
