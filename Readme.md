@@ -644,6 +644,8 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
                     - ¿Hay algo más que consideras importante compartir sobre tu experiencia como organizador o usuario de reservas?  
                 </td>  
             </tr>  
+
+         
 ## Registro de entrevistas
 ### Segmento: Huespedes
 
