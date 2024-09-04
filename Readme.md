@@ -720,3 +720,10 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 ![Huesped journey map 1](https://github.com/user-attachments/assets/b86de9fa-6d10-425d-81db-89e3a6dc1742)
 
 ### Empresas Hoteleras
+
+
+
+# Capitulo IV: Product Design
+## 4.8. Database Design
+#### 4.8.1. Database Diagram
+![KingReserve-diagram](/assets/KingReserve-diagram.png)
