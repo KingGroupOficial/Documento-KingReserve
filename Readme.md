@@ -45,6 +45,7 @@
 | TB1         | 05/09/2024  | Maycol Jhordan Rojas Velasquez    | CAPÍTULO IV: Product Design Style Guidelines<br>General Style Guidelines <br> Web Style Guidelines <br> 2 entrevistas de empresas hoteleras |
 |TB1 | 05/09/2024|Maycol Jhordan Rojas Velasquez| Registro de 2 entrevistas del sector Empresa Hotelera|
 |TB1|05/09/2024|Maycol Jhordan Rojas Velasquez| Agregar el Ubiquitous Language para conocer los terminos de los segmentos. |
+|TB1| 05/09/2024 | Maycol Jhordan Rojas Velasquez| Hacer el Software Configuration Management|
 
 
 
