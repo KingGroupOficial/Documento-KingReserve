@@ -1144,3 +1144,161 @@ Nuestro enfoque en las "Web Style Guidelines" de KingReserve se centra en la cre
 ## 4.8. Database Design
 #### 4.8.1. Database Diagram
 ![KingReserve-diagram](/assets/KingReserve-diagram.png)
+
+# CAPÍTULO V: Product Implementation, Validation & Deployment
+
+## Software Configuration Management
+En este apartado se resume todo el contenido recopilado, examinando los procedimientos a seguir y evaluando el estado emocional.
+### Software Development Environment Configuration
+En la siguiente sección se detalla la ruta de acceso de cada uno de los productos de software, facilitando a cualquier miembro del equipo el desarrollo de cada aspecto del trabajo:
+* **Visual Studio Code:** Entorno de desarrollo.\
+![image](https://hackmd.io/_uploads/Hy8d2y7lR.png)
+* **HTML5:** Lenguaje de marcado para la elaboración de páginas web.\
+![image](https://hackmd.io/_uploads/BJYDn17l0.png)
+* **CSS3:** Tecnología para dar estilo a nuestras páginas web.\
+![image](https://hackmd.io/_uploads/B1gDhkXgC.png)
+* **JavaScript:** Lenguaje de programación orientado a objetos utilizado para implementar funcionalidades en nuestra Landing Page.\
+![image](https://hackmd.io/_uploads/SJLU317xC.png)
+* **GitHub:** Repositorio colaborativo en la nube.\
+![image](https://hackmd.io/_uploads/ryiVhJXxC.png)
+* **Netifly:** Plataforma que facilita implementar despliegues sencillos para nuestras páginas web.\
+![image](./assets/netifly.png)
+* **LucidChart:** Aplicación web dedicada a la elaboración de Wireflows, User Flows y diagramas de clases.\
+![image](https://hackmd.io/_uploads/H1QG2JXeC.png)
+
+* **Vertabelo:** Plataforma colaborativa para la creación de diagramas de base de datos.\
+![image](https://hackmd.io/_uploads/r1BjjyQgC.png)
+* **Figma:** Herramienta colaborativa que permite elaborar wireframes y mockups.\
+![image](https://hackmd.io/_uploads/BJ99okXeR.png)
+### Source Code Management
+**Repositorio de la Landing Page:** 
+**Implementación de GitFlow:**
+Para nuestra estrategia de gestión de versiones con Git, nos hemos inspirado en el artículo "A successful Git branching model" de Vincent Driessen, adoptando el modelo de ramificación GitFlow. Este enfoque nos permite establecer claramente las convenciones de ramificación que aplicamos en nuestro proyecto.
+![image](https://hackmd.io/_uploads/rJt95BobA.png)
+* **Rama Principal (Main branch):** Contiene el código en producción y se conoce como la Master branch o Main branch.
+    * Notación: main
+* **Rama de Desarrollo (Develop branch):** Acumula las últimas actualizaciones y cambios para la próxima versión. Funciona como un entorno de integración y prueba continua.
+    * Notación: develop
+* **Rama de Lanzamiento (Release branch):** Facilita la preparación de una nueva versión del producto, permitiendo correcciones de errores y recibiendo más actualizaciones de Develop.
+    * Debe derivarse de: develop
+    * Debe fusionarse con: develop y master/main
+    * Notación: release
+* **Rama de Características (Feature branch):** Se utiliza para desarrollar nuevas funcionalidades para la siguiente versión o futuras iteraciones.
+    * Debe derivarse de: develop
+    * Debe fusionarse de vuelta a: develop
+    * Notación: feature
+* **Rama de Corrección Rápida (Hotfix branch):** Aborda errores críticos en producción, permitiendo la implementación rápida de soluciones.
+    * Debe derivarse de: master/main
+    * Debe fusionarse con: develop y master/main
+    * Notación: hotfix
+
+**Conventional Commits:** 
+Adoptamos esta metodología para estructurar los mensajes de confirmación de cambios de manera estándar y semántica, lo que facilita la comunicación y la automatización de registros de cambios.
+**Tipos de Commits Convencionales:**
+* feat: Nuevas características o funcionalidades.
+* fix: Correcciones de errores.
+* docs: Cambios o mejoras en la documentación.
+* style: Cambios de formato que no afectan la funcionalidad.
+* refactor: Mejoras en la estructura o legibilidad del código.
+* test: Adición o modificación de pruebas.
+* chore: Cambios en el proceso de construcción o tareas de mantenimiento.
+* perf: Mejoras de rendimiento en el código.
+### Source Code Style Guide & Conventions
+En la redacción de nuestro código, hemos adoptado el uso exclusivo de la nomenclatura en inglés para todos los lenguajes mencionados.
+**HTML**
+* **Uso de minúsculas en elementos HTML:**
+```html
+
+<header>
+  <nav>Navigation Menu</nav>
+</header>
+<!-- Cierre correcto de elementos HTML -->
+<section>
+  <article>This is an article</article>
+  <article>This is another article</article>
+</section>
+```
+* **Atributos en minúsculas:**
+```html
+<input type="text" placeholder="Enter your name">
+```
+* **Especificación de atributos para imágenes:**
+```html
+<img src="landscape.jpg" alt="A beautiful landscape" width="300" height="200">
+```
+**CSS**
+* **Nombres significativos para ID y clases:**
+```css
+#main {}
+#accessForm {}
+.mainButton {}
+```
+* **Nombres cortos y descriptivos para ID y clases:**
+```css
+#menu {}
+.userProfile {}
+Uso de propiedades abreviadas en CSS:
+margin: 10px 5px;
+background: url('background.jpg') no-repeat center center;
+```
+* **Omisión de unidades después de cero:**
+```css
+margin: 0;
+padding: 0;
+Orden alfabético en las declaraciones CSS:
+.content {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+```
+**JavaScript**
+* **Funciones con sintaxis expandida:**
+```javascript
+function updateCounter() {
+  // Code to update the counter
+}
+```
+* **Nombres de variables en lowercamelCase:**
+```javascript
+let visitCounter = 0;
+let remainingTime = 120;
+```
+* **Uso de let y const en lugar de var:**
+```javascript
+const API_URL = 'https://api.example.com';
+let operationResult = sum(5, 3);
+function sum(a, b) {
+  return a + b;
+}
+```
+### Software Deployment Configuration
+En esta sección, detallamos el proceso de implementación de nuestra landing page en la plataforma de GitHub.
+
+1. Se crea un repositorio en GitHub para alojar el código de nuestra landing page.
+
+![image](./assets/1git.jpg)
+
+2. Agregamos a los participantes:
+
+![image](./assets/2git.jpg)
+
+3. Habilitamos Netlifly para poder importar nuestro proyecto:
+
+![image](./assets/3git.jpg)
+
+4. Seleccionamos el repositorio donde alojamos la landing page de nuestro proyecto
+
+![image](./assets/4git.jpg)
+
+5. Seleccionamos la opcion de deploy para empezar el despleigue de la landing page
+
+![image](./assets/5git.jpg)
+
+6. Finalmente, se confirma el despliegue de nuestra página web después de completar todo el procedimiento.
+
+![image](./assets/6git.jpg)
+
+Este proceso garantiza el despliegue satisfactorio de nuestra landing page en la plataforma de Netlifly, siguiendo las especificaciones y requisitos de nuestro proyecto.
+**Enlace de la Landing Page: https://kingreserve.netlify.app/**
