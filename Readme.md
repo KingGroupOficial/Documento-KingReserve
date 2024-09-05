@@ -33,16 +33,18 @@ UNIVERSIDAD PERUANA<br>
 
 
 
-| Entregables | Fecha       | Autor                          | Descripción de modificación                                           |  
-|-------------|-------------|--------------------------------|---------------------------------------------------------------------|  
-| TB1         | 23/08/2024  | Sergio André Gómez Vallejos    | Implementación de contenido en el Student Outcome Desarrollo del Contenido II Competidores  Perfil de integrante |  
-| TB1         | 23/08/2024  | Joaquin Pedraza Maldonado      | Antecedentes y problemática   Perfil de integrante                  |  
-| TB1         | 24/03/2024  | Maycol Jhordan Rojas Velasquez | Implementación de la descripción de la Startup                       |  
-| TB1         | 24/08/2024  | Joaquin Pedraza Maldonado      | Lean UX Process                                                      |  
-| TB1         | 26/08/2024  | Alessandro Zevallos Linares     | Perfil de integrante                                                 |  
-| TB1         | 26/08/2024  | Alessandro Zevallos Linares     | Diseño de Entrevistas                                               |  
-| TB1         | 25/03/2024  | Maycol Jhordan Rojas Velasquez | Desarrollo del perfil de integrante, estructuración del informe índice, cuadros, carátula |  
-| TB1         | 27/08/2024  | Maycol Jhordan Rojas Velasquez | Desarrollo del perfil de integrante, Creación del logo               |
+| Entregables | Fecha       | Autor                             | Descripción de modificación                                                                                      |  
+|-------------|-------------|-----------------------------------|------------------------------------------------------------------------------------------------------------------|  
+| TB1         | 23/08/2024  | Sergio André Gómez Vallejos       | Implementación de contenido en el Student Outcome Desarrollo del Contenido II Competidores  Perfil de integrante |  
+| TB1         | 23/08/2024  | Joaquin Pedraza Maldonado         | Antecedentes y problemática   Perfil de integrante                                                               |  
+| TB1         | 24/03/2024  | Maycol Jhordan Rojas Velasquez    | Implementación de la descripción de la Startup                                                                   |  
+| TB1         | 24/08/2024  | Joaquin Pedraza Maldonado         | Lean UX Process                                                                                                  |  
+| TB1         | 26/08/2024  | Alessandro Zevallos Linares       | Perfil de integrante                                                                                             |  
+| TB1         | 26/08/2024  | Alessandro Zevallos Linares       | Diseño de Entrevistas                                                                                            |  
+| TB1         | 25/03/2024  | Maycol Jhordan Rojas Velasquez    | Desarrollo del perfil de integrante, estructuración del informe índice, cuadros, carátula                        |  
+| TB1         | 27/08/2024  | Maycol Jhordan Rojas Velasquez    | Desarrollo del perfil de integrante, Creación del logo                                                           |
+| TB1         | 04/09/2024  | Russell Stephen Romero Qwistgaard | User Stories, Product Backlog                                                                                    |
+
 
 
 
@@ -219,6 +221,7 @@ Nos esforzamos por proporcionar una plataforma que conecte a los hoteles con her
 | ![Sergio](https://hackmd.io/_uploads/SkU_5d9cR.png) | Sergio André Gómez Vallejos – Ingeniería de Software – u20221d401 <br> Soy una persona resiliente que, sin importar cuántas veces caiga, siempre encuentra la manera de levantarse. Tengo habilidades sociales sólidas y una amplia experiencia en la resolución de problemas de código. Suelo ser el miembro más activo de mi equipo de trabajo. Me apasionan los lenguajes de programación y la tecnología, y constantemente me esfuerzo por alcanzar mis objetivos y contribuir al desarrollo del startup. |
 |  |Joaquín Andree Pedraza Maldonado <br> Mi nombre es Joaquín Andreé Pedraza Maldonado , tengo 20 años y actualmente me encuentro en 6to ciclo de la carrera de Ingeniería de Software , en la UPC , sede San Miguel. Al terminar mi carrera desearía dedicarme al rubro de desarrollo Web o cyberseguridad.Soy una persona centrada , perseverante , tranquila  , optimista y efectiva.|
 |<img src="https://hackmd.io/_uploads/B1F_iuso0.jpg" alt="yo-3" style="width: 600px ; height: 200px;">|Maycol Jhordan Rojas Velasquez – Ingeniería de Software – u202219984<br>Elegí la carrera de Ingeniería de Software debido a mi gusto por la innovación y la implementación de la tecnología en cualquier rubro  social, de una manera creativa y en todos los aspectos. Me considero una persona creativa, en busca de ideas, estrategias con mente nueva. También me gusta escuchar ideas de mi equipo, dar ideas de mejora, evaluar las ventajas y desventajas . Además, tengo conocimientos de programación en C + +, HTML, Python,Angular,Backend en Java. Además, Tengo un enfoque responsable y dedicado mediante un aprendizaje rápido así puedo ayudar a mis compañeros en sus dudas. Por otro lado, mis hobbies son ver series, jugar , escuchar música, nadar y  manejar.|
+| ![Captura de pantalla 2024-08-15 121605](https://hackmd.io/_uploads/ByWzO2icC.png)| Russell Stephen Romero Qwistgaard - Ingeniería de Software - U202211043 <br> Tengo 19 y estudió la carrera de ingeniería de software, actualmente en el 6 ciclo de esta. Me apasiona crear programas en entornos distintos para poder ampliar mi conocimiento en las muchas áreas que dependen de mi formación. Estoy dispuesto a cooperar y ser puntual en mis trabajos individuales y grupales. |
 
 ### Alessandro Zevallos
 
