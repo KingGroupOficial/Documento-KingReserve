@@ -759,6 +759,9 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 ![Pedro Nanfuñay](https://github.com/user-attachments/assets/ab4c35e7-10af-41b0-aa2f-da507985c93d)
 
 ##### Empresas Hoteleras
+![María Delia Martínez](/assets/User-Person2.png)
+
+
 
 #### User Task Matrix
 
