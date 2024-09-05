@@ -1,31 +1,29 @@
-UNIVERSIDAD PERUANA<br>
- DE CIENCIAS APLICADAS
+<div style="text-align:center;">
+    <h1>UNIVERSIDAD PERUANA<br> DE CIENCIAS APLICADAS</h1>
+    <img src="https://hackmd.io/_uploads/ryJoz7YcR.png" alt="Logo" style="width:200px;height:auto;">
+    <h2>SI730 Aplicaciones Web</h2>
+    <p><strong>Sección:</strong> WS51</p>
+    <p><strong>Carrera:</strong> Ingeniería de Software</p>
+    <p><strong>Ciclo:</strong> 5-6</p>
+    <p><strong>Profesor:</strong> Hugo Allan Mori Paiva</p>
+    <h3>"Informe de Trabajo Final"</h3>
+    <h4>TB1</h4>
+    <p><strong>Tema:</strong> Reservas</p>
+    <p><strong>Producto:</strong> KingReserve de KingGroup</p>
+    <p><strong>Agosto 2024</strong></p>
+</div>
 
+<div style="text-align:left;">
+    <h3>Integrantes:</h3>
+    <ul>
+        <li>Gómez Vallejos Sergio André - U20221D401</li>
+        <li>Rojas Velasquez Maycol Jhordan - U202219984</li>
+        <li>Zevallos Linares Alessandro Netto - U202216035</li>
+        <li>Pedraza Maldonado Joaquin Andree - U202218514</li>
+        <li>Romero Qwistgaard Russell Stephen - U202211043</li>
+    </ul>
+</div>
 
-
-  <img src="https://hackmd.io/_uploads/ryJoz7YcR.png" alt="Logo" />
-
-
-
-  **SI730 Apliaciones Web** <br>
-    **Sección: WS51**<br>
-    **Carrera: Ingeniería de Software**<br>
-    **Ciclo: 5-6**<br>
-    **Profesor:**<br>
-    **Hugo Allan Mori Paiva**<br>
-    **"Informe de Trabajo Final"**<br>
-    **Tema:Reservas**<br>
-    **Producto: KingReserve de KingGroup**<br>
-    **Agosto 2024**<br>
-
-**Integrantes:**
-
-
-- Gómez Vallejos Sergio André - U20221D401
-- Rojas Velasquez Maycol Jhordan - U202219984
-- Zevallos Linares Alessandro Netto - U202216035
-- Pedraza Maldonado Joaquin Andree - U202218514
-- Romero Qwistgaard Russell Stephen - U202211043
 
 <p style="text-align: center;">
   <strong>Registro de versiones de informe:</strong><br>
@@ -46,6 +44,7 @@ UNIVERSIDAD PERUANA<br>
 | TB1         | 04/09/2024  | Russell Stephen Romero Qwistgaard | User Stories, Product Backlog                                                                                    |  
 | TB1         | 05/09/2024  | Maycol Jhordan Rojas Velasquez    | CAPÍTULO IV: Product Design Style Guidelines<br>General Style Guidelines <br> Web Style Guidelines <br> 2 entrevistas de empresas hoteleras |
 |TB1 | 05/09/2024|Maycol Jhordan Rojas Velasquez| Registro de 2 entrevistas del sector Empresa Hotelera|
+|TB1|05/09/2024|Maycol Jhordan Rojas Velasquez| Agregar el Ubiquitous Language para conocer los terminos de los segmentos. |
 
 
 
