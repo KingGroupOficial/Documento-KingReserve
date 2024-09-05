@@ -43,9 +43,8 @@ UNIVERSIDAD PERUANA<br>
 | TB1         | 26/08/2024  | Alessandro Zevallos Linares       | Diseño de Entrevistas                                                                                            |  
 | TB1         | 25/03/2024  | Maycol Jhordan Rojas Velasquez    | Desarrollo del perfil de integrante, estructuración del informe índice, cuadros, carátula                        |  
 | TB1         | 27/08/2024  | Maycol Jhordan Rojas Velasquez    | Desarrollo del perfil de integrante, Creación del logo                                                           |
-| TB1         | 04/09/2024  | Russell Stephen Romero Qwistgaard | User Stories, Product Backlog                                                                                    |
-
-
+| TB1         | 04/09/2024  | Russell Stephen Romero Qwistgaard | User Stories, Product Backlog                                                                                    |  
+| TB1         | 05/09/2024  | Maycol Jhordan Rojas Velasquez    | CAPÍTULO IV: Product Design Style Guidelines<br>General Style Guidelines <br> Web Style Guidelines <br> 2 entrevistas de empresas hoteleras |
 
 
 
@@ -238,7 +237,7 @@ Fuente: https://revistasinvestigacion.unmsm.edu.pe/index.php/quipu/article/view/
 ### 1.2.1 Lean Ux Procces
 
 ###  Problem Statement 
-##Ciudadanos Peruanos
+## Ciudadanos Peruanos
 El crecimiento acelerado del turismo en Perú ha generado la creación de numerosas agencias de viajes y hoteles, impulsados por la alta demanda del sector. Sin embargo, la informalidad y la desorganización dentro del sector han llevado a una disminución en la productividad, afectando tanto a turistas como a trabajadores del sector. Además, la falta de coordinación y estándares de servicio en las agencias informales provoca una experiencia deficiente para los turistas, lo que puede impactar negativamente la reputación del turismo en el país.
 
 ¿Cómo podemos mejorar la eficiencia y organización en el sector hotelero y turístico, garantizando al mismo tiempo que los servicios ofrecidos cumplan con altos estándares de calidad?
@@ -292,7 +291,7 @@ Establecer sanciones y controles más estrictos para reducir la competencia desl
 
 -Sabremos que tenemos éxito cuando veamos un aumento en la adopción de la plataforma, una reducción en los errores de reserva, y un incremento en la satisfacción del cliente final.
 
-### User Assumptios
+### User Assumptions
 ¿Quién es el usuario?
 Los usuarios incluyen hoteles que buscan mejorar la gestión de sus reservas, agencias de viaje que necesitan coordinar mejor los servicios turísticos y huéspedes que desean una experiencia de reserva más fluida y personalizada.
 
@@ -326,6 +325,16 @@ Lograremos evitar problemas de desorganización y comunicación que resultan en 
 
 Sabremos que hemos tenido éxito cuando la totalidad de las reservas gestionadas a través de la plataforma hayan sido procesadas sin errores, y los hoteles  reporten una mejora en su eficiencia operativa.
 
+### Lean UX Canvas
+
+<div style="text-align:justify;">
+</div>
+<div style="text-align:center;">
+    <br>
+    <img src="./assets/canvas.jpg" alt="arial">
+    <div><b>Lean UX Canvas</b></div>
+</div>
+<br>
     
 ### Segmentos Objetivo
 
@@ -336,6 +345,43 @@ Este segmento se enfoca en cadenas hoteleras, hoteles boutique y resorts que bus
 #### 2. Huéspedes:
 
 Este segmento está compuesto por viajeros que buscan una experiencia de alojamiento personalizada y de alta calidad. Los huéspedes valoran una experiencia que se ajuste a sus preferencias individuales, desde la facilidad de reserva hasta la atención personalizada durante su estancia. Están interesados en un proceso de reserva intuitivo que simplifique la planificación de su viaje y en recibir un servicio al cliente eficiente que pueda resolver cualquier inconveniente de manera rápida. Además, aprecian servicios y comodidades que mejoren su confort y hagan su estancia más placentera. La capacidad de personalizar su experiencia y acceder a un servicio excepcional son factores clave para su satisfacción y fidelización.
+
+<div class="segmento">
+    <h3>Datos Cuantitativos del Problema:</h3>
+    <p><strong>Empresas Hoteleras:</strong></p>
+    <p>Las empresas hoteleras, incluidas cadenas hoteleras, hoteles boutique y resorts, enfrentan desafíos significativos en la gestión de sus operaciones debido a la falta de integración de soluciones tecnológicas avanzadas. Se estima que al menos el 30% de estas empresas reportan ineficiencias operativas que afectan la experiencia del huésped y la rentabilidad del negocio. La falta de automatización en la gestión de reservas y la coordinación del personal puede resultar en una carga administrativa elevada y una comunicación interna deficiente, lo que impacta negativamente en la calidad del servicio ofrecido.</p>
+    <p><strong>Huéspedes:</strong></p>
+    <p>Los huéspedes, compuestos por viajeros que buscan una experiencia de alojamiento personalizada y de alta calidad, enfrentan desafíos relacionados con la falta de opciones de alojamiento que se ajusten a sus preferencias individuales. Se estima que al menos el 40% de los huéspedes tienen dificultades para encontrar hoteles que ofrezcan servicios personalizados y de alta calidad, lo que resulta en una experiencia de alojamiento menos satisfactoria. Además, la falta de transparencia y confiabilidad en el proceso de reserva puede generar incertidumbre y estrés en los huéspedes, afectando su bienestar emocional durante su estancia.</p>
+</div>
+
+<div class="segmento">
+    <h3>Variables geográficas, demográficas y psicológicas:</h3>
+    <p><strong>Variable geográfica:</strong></p>
+    <ul>
+        <li>País: Peru</li>
+        <li>Ciudad: Zonas urbanas y turísticas</li>
+    </ul>
+    <p><strong>Variable demográfica:</strong></p>
+    <ul>
+        <li>Género: Femenino / Masculino</li>
+        <li>Ocupación: Todas las ocupaciones</li>
+        <li>Estado civil: Todos los estados</li>
+        <li>Edad y etapa de ciclo de vida: Ciudadanos mayores a 18 años</li>
+    </ul>
+    <p><strong>Variable psicográfica:</strong></p>
+    <ul>
+        <li>Nivel Socioeconómico (NSE): Todos los niveles</li>
+        <li>Características de personalidad:
+            <ul>
+                <li>Altruismo</li>
+                <li>Perseverancia</li>
+                <li>Honestidad</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+<br>
+<br>
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## Competidores
@@ -652,7 +698,6 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 ## Registro de entrevistas
 ### Segmento: Huespedes
 
-### Análisis de entrevistas
     
 #### Entrevista 1
 | **Datos del entrevistado** | 
@@ -681,6 +726,30 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 | **Procedencia:** San Miguel, Lima |
 | ![Entrevista]() |
 | **Resumen:** Vasco Zagaceta, un estudiante de 20 años residente en San Miguel, Lima, suele reservar hoteles y valora principalmente las reseñas de otros usuarios y la ubicación del hotel al hacer sus reservas. Utiliza la aplicación Booking para realizar sus reservas y se siente cómodo utilizando aplicaciones móviles y plataformas web para este propósito. Vasco sugiere que la implementación de una inteligencia artificial que mejore las recomendaciones basadas en las preferencias del usuario sería una buena idea. Además, considera muy importante recibir actualizaciones y notificaciones del proveedor antes y durante el servicio reservado. También le gustaría tener la opción de comunicarse directamente con el proveedor a través de la plataforma para resolver dudas o recibir información adicional. |
+
+
+#### Entrevista 4
+| **Datos del entrevistado** | 
+|--------------------------|
+| **Nombre:** María Delia Martínez |
+| **Edad:** 22 años |
+| **Procedencia:** Miraflores, Lima |
+| ![EntrevistaDelia](./assets/entreDelia.jpg) |
+| **Resumen:** María Delia Martínez, gerente de un hotel boutique en Miraflores, Lima, enfrenta desafíos en la gestión de reservas y la coordinación del personal. Valora principalmente la eficiencia operativa y la satisfacción del huésped. Utiliza varias plataformas de gestión hotelera, pero encuentra que la falta de integración entre ellas dificulta la operación diaria. María Delia sugiere que la implementación de una inteligencia artificial que optimice la asignación de habitaciones y gestione las solicitudes de los huéspedes en tiempo real sería muy beneficiosa. Además, considera crucial recibir actualizaciones y notificaciones sobre el estado de las reservas y la ocupación del hotel. También le gustaría tener la opción de comunicarse directamente con los huéspedes a través de la plataforma para resolver dudas o proporcionar información adicional. |
+
+#### Entrevista 5
+| **Datos del entrevistado** | 
+|--------------------------|
+| **Nombre:** María José Canahualpa |
+| **Edad:** 23 años |
+| **Procedencia:** Cusco, Perú |
+| ![EntrevistaMaria](./assets/entreMaria.jpg) |
+| **Resumen:** María José Canahualpa, administradora de un resort en Cusco, Perú, se enfrenta a desafíos relacionados con la gestión de grandes volúmenes de reservas y la coordinación de eventos. Valora principalmente la capacidad de la plataforma para manejar múltiples tareas simultáneamente y la facilidad de uso. Utiliza varias herramientas de gestión, pero encuentra que la falta de automatización en la gestión de eventos y reservas complica su trabajo. María José sugiere que la implementación de una inteligencia artificial que pueda predecir la demanda y optimizar la asignación de recursos sería muy útil. Además, considera muy importante recibir actualizaciones y notificaciones en tiempo real sobre las reservas y eventos. También le gustaría tener la opción de comunicarse directamente con los proveedores y clientes a través de la plataforma para resolver dudas o recibir información adicional. |
+
+
+
+### Análisis de entrevistas
+
 
 ## User Persona
 
@@ -732,7 +801,7 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 
 ### Empresas Hoteleras
 
-## 3.2 User Stories #User-Stories
+## User Stories
 | **ID**    | **Título**                              | **Historia**                                                                                                                                                                                               | **Escenarios**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | **Epic** |
 |-----------|-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
 | Epic 1    | Funcionalidades de Registro y Perfil    | **Como** usuario, **quiero** registrarme y gestionar mi perfil **para** acceder a la plataforma y personalizarla a mi gusto                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |          |
