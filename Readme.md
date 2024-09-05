@@ -25,7 +25,7 @@ UNIVERSIDAD PERUANA<br>
 - Rojas Velasquez Maycol Jhordan - U202219984
 - Zevallos Linares Alessandro Netto - U202216035
 - Pedraza Maldonado Joaquin Andree - U202218514
-
+- Romero Qwistgaard Russell Stephen - U202211043
 
 <p style="text-align: center;">
   <strong>Registro de versiones de informe:</strong><br>
