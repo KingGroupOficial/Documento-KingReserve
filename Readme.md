@@ -801,8 +801,6 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 
 ## Ubiquitous Language
 
-## Ubiquitous Language
-
 | **Término (Inglés)** | **Término (Español)** | **Definición** |
 |----------------------|-----------------------|----------------|
 | Reservation          | Reserva               | Proceso mediante el cual un huésped asegura una habitación en el hotel para una fecha específica. |
@@ -823,9 +821,9 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 
 # Capítulo III: Requirements Specification
 ## 3.1 To-Be Scenario Mapping
-### Huespedes
+#### Huespedes
 
-### Empresas Hoteleras
+#### Empresas Hoteleras
 
 ## User Stories
 | **ID**    | **Título**                              | **Historia**                                                                                                                                                                                               | **Escenarios**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | **Epic** |
