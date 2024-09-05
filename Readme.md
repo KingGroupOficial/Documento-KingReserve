@@ -751,6 +751,37 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 
 
 ### Análisis de entrevistas
+Después de llevar a cabo y describir los registros de los entrevistados, esta sección desarrollará una estrategia conjunta que permitirá al equipo identificar ciertos aspectos y puntos en común. Este análisis ayudará a obtener una visión más analítica y concreta sobre el desarrollo de la aplicación KingReserve.
+
+### Segmento 1: Huéspedes
+
+1. **Tipo de Reserva y Preferencias**
+   - **Tipo de Reserva:** El 70% de los huéspedes prefieren realizar reservas en línea utilizando plataformas como Rappi, Airbnb y Booking.
+   - **Preferencias:** Valoran principalmente el precio, la ubicación y las opiniones de otros usuarios. La comodidad del smartphone para hacer reservas es una ventaja clave.
+
+2. **Prioridades al Reservar**
+   - **Principales Prioridades:** Según el 90%, los huéspedes buscan precios competitivos, ubicaciones convenientes y transparencia en las tarifas adicionales. También valoran la posibilidad de recibir notificaciones y tener opciones de personalización.
+
+3. **Herramientas Actuales**
+   - **Herramientas Utilizadas:** El 60% usa plataformas en línea como Rappi y Airbnb, mientras que el 40% utiliza aplicaciones como Booking para gestionar sus reservas.
+
+4. **Características Deseadas en la Aplicación**
+   - **Características Deseadas:** El 60% de los usuarios desean opciones avanzadas de personalización, recordatorios automáticos y mayor transparencia en tarifas. También consideran importante la integración de chat en vivo y recomendaciones basadas en inteligencia artificial.
+
+### Segmento 2: Empresas Hoteleras
+
+1. **Desafíos y Prioridades en la Gestión**
+   - **Desafíos Actuales:** El 65% de los administradores de hoteles enfrentan dificultades con la falta de integración entre plataformas de gestión y la coordinación del personal.
+   - **Prioridades:** Valoran la eficiencia operativa y la capacidad de manejar múltiples tareas simultáneamente, como la asignación de habitaciones y la gestión de reservas.
+
+2. **Uso de Herramientas Actuales**
+   - **Herramientas Utilizadas:** El 70% utiliza varias plataformas de gestión hotelera pero encuentra que la falta de integración es un problema significativo.
+
+3. **Características Deseadas en la Plataforma**
+   - **Características Deseadas:** El 60% de los administradores busca implementar inteligencia artificial para optimizar la asignación de habitaciones y gestionar solicitudes en tiempo real. También desean actualizaciones en tiempo real y opciones de comunicación directa con los huéspedes.
+
+4. **Objetivos al Usar la Aplicación**
+   - **Objetivos:** El 100% espera que la aplicación les ayude a mejorar la eficiencia operativa y optimizar la gestión de reservas y eventos, además de proporcionar una mejor comunicación con los huéspedes y clientes.
 
 ## Needfinding
 ### User Persona
