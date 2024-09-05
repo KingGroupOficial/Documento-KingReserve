@@ -732,7 +732,7 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 
 ### Empresas Hoteleras
 
-## 3.2 User Stories
+## 3.2 User Stories #User-Stories
 | **ID**    | **Título**                              | **Historia**                                                                                                                                                                                               | **Escenarios**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | **Epic** |
 |-----------|-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
 | Epic 1    | Funcionalidades de Registro y Perfil    | **Como** usuario, **quiero** registrarme y gestionar mi perfil **para** acceder a la plataforma y personalizarla a mi gusto                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |          |
@@ -847,6 +847,174 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 | 18        | TS018          | Implementar editor de páginas web básico          | **Como** desarrollador, **quiero** implementar un editor de páginas web básico para las empresas de hoteles                                                                              | 3                |                                                           
  
 # Capitulo IV: Product Design
+## Style Guidelines
+Las Style Guidelines son esenciales para garantizar una comunicación coherente y profesional en todos los aspectos de nuestra marca o proyecto, ya sea en publicaciones impresas, en línea o en cualquier otro medio de difusión. En esta sección, estableceremos un conjunto de directrices que nuestro equipo seguirá para diseñar el proyecto KingReserve, desarrollado por KingGroup. Estas pautas abarcarán aspectos clave como la selección de colores, tipografía, estructura del documento y otros elementos fundamentales.
+<br>
+Para el diseño de KingReserve, utilizaremos la plataforma Figma, que nos permitirá crear tanto la aplicación web como la página de inicio de manera efectiva. En ambas, implementaremos una paleta de colores que incluirá tonalidades de crema y marrón, evocando la naturaleza y la confianza que se asocian con el concepto de reservas. A continuación, se presentará un análisis más detallado de cada uno de los aspectos mencionados.
+
+
+### General Style Guidelines
+
+**Branding:** El logotipo de KingReserve es mucho más que una simple imagen; es la manifestación visual de nuestra identidad. En el centro, el símbolo único que nos representa es nuestro nombre, "KingReserve", que fusiona el concepto de realeza con la idea de reservas. Esta combinación resalta la calidad y el prestigio que ofrecemos en el sector de reservas para los huespedes y profesionales que buscan los mejores lugares para vivir durante sus vacaciones.
+
+Nuestro logotipo incluye un león, un símbolo de fuerza, nobleza y liderazgo, que refuerza nuestra misión de ofrecer un servicio de primera clase. Este diseño es versátil y se adapta a una variedad de plataformas y aplicaciones, asegurando que nuestra marca se destaque en cualquier entorno. El león y el concepto de realeza reflejan la confianza y la excelencia que queremos transmitir a nuestros usuarios, estableciendo una imagen de prestigio y confianza en el proceso de reserva.
+
+<div style="text-align:center;">
+    <img src="./assets/logo1.png" alt="Logo1" height="250" width="250">
+    <div><b>Horizontal layout</b></div>
+</div>
+
+<div style="text-align:center;">
+    <img src="./assets/logo2.png" alt="Logo2" height="250" width="250">
+    <div><b>Inverted Colors</b></div>
+</div>
+
+<div style="text-align:center;">
+    <img src="./assets/logo3.png" alt="Logo3" height="250" width="250">
+    <div><b>Logo mark only</b></div>
+</div>
+
+**Typography**
+
+La tipografía de KingReserve encapsula la esencia de nuestra innovadora startup, que busca revolucionar el proceso de gestión y operación de hoteles. Con un estilo moderno, ordenado y minimalista, se alinea perfectamente con la imagen que deseamos proyectar: una plataforma fácil de usar y confiable para la gestión de reservas, planillas y personal. Nuestra elección de tipografía refleja nuestro compromiso con la simplicidad y la accesibilidad, utilizando un lenguaje casual y sencillo que invita a nuestros usuarios a sentirse cómodos y empoderados al utilizar nuestra aplicación.
+
+**Tipos de letras a usar:**
+- **Hatton:** Para el logo de nuestro proyecto.
+<div style="text-align:center;">
+    <br>
+    <img src="./assets/Hatton.jpg" alt="Hatton" >
+</div>
+<br>
+
+<div style="text-align:justify;">
+- <b>Poppins (encabezados):</b> Poppins es una tipografía moderna y legible que puede ser ideal para los encabezados y títulos de su plataforma. Transmite confianza y es fácil de leer en pantallas digitales.
+</div>
+<div style="text-align:center;">
+    <br>
+    <img src="./assets/poppins.png" alt="Poppins" >
+</div>
+<br>
+
+<div style="text-align:justify;">
+- <b>Noto Sans (cuerpo de texto):</b> Noto Sans es una tipografía versátil que funciona bien para el cuerpo de texto en su plataforma. Su calidad ayudará a que la información sea fácil de absorber.
+</div>
+<div style="text-align:center;">
+    <br>
+    <img src="./assets/notoSans.jpg" alt="Noto Sans" >
+</div>
+<br>
+
+<div style="text-align:justify;">
+- <b>Roboto (botones):</b> Roboto es una tipografía limpia que puede funcionar bien para los botones y llamados a la acción. Ayuda a crear un aspecto moderno y atractivo que alienta a los usuarios a participar.
+</div>
+<div style="text-align:center;">
+    <br>
+    <img src="./assets/roboto.png" alt="Roboto">
+</div>
+<br>
+
+<div style="text-align:justify;">
+- <b>Raleway (detalles):</b> Raleway puede usarse para resaltar detalles importantes o elementos de diseño. Su aspecto contemporáneo y elegante puede añadir un toque de sofisticación a su plataforma.
+</div>
+<div style="text-align:center;">
+    <br>
+    <img src="./assets/raleway.png" alt="Raleway" >
+</div>
+<br>
+
+<div style="text-align:justify;">
+- <b>Arial (texto legal y pie de página):</b> Para el texto legal y el pie de página, Arial es una elección segura. Es altamente legible y transmite profesionalismo.
+</div>
+<div style="text-align:center;">
+    <br>
+    <img src="./assets/arial.png" alt="arial">
+</div>
+<br>
+
+
+**Colors**
+
+La selección de colores en KingReserve se ha llevado a cabo de manera estratégica, utilizando una paleta que refleja nuestra visión y valores. Los tonos #5b1f00, #ffd398 y #ffffff han sido elegidos meticulosamente para transmitir la esencia de nuestra innovadora plataforma de gestión hotelera. Estos colores no solo crean una armonía visual, sino que también establecen un equilibrio entre la gestión de reservas (representada por el marrón oscuro), la integridad (encarnada en el tono dorado claro) y la transparencia (reflejada en el blanco puro). Esta combinación refuerza nuestra identidad como una solución moderna y confiable en el ámbito de la gestión hotelera, destacándose por nuestra singularidad y compromiso con la eficiencia y la satisfacción del cliente.
+
+
+**Gama de colores:**
+
+<div style="display: flex; justify-content: space-around; align-items: center; text-align: center;">
+    <div>
+        <b>#5b1f00</b>
+        <br>
+        <img src="./assets/5b1f00.png" alt="marrón oscuro">
+    </div>
+    <div>
+        <b>#ffd398</b>
+        <br>
+        <img src="./assets/FFD398.png" alt="dorado claro">
+    </div>
+    <div>
+        <b>#ffffff</b>
+        <br>
+        <img src="./assets/ffffff.png" alt="blanco puro">
+    </div>
+</div>
+
+**Spacing**
+
+El espaciado ideal en la plataforma web de KingReserve, dedicada a la gestión hotelera, debe priorizar la legibilidad y la comodidad del usuario.
+
+Para una Plataforma Web:
+
+<div style="display: flex; justify-content: space-around; align-items: flex-start; text-align: left;">
+    <div>
+        - <b>Espaciado entre líneas (line-height):</b>
+        <br>
+        Texto de cuerpo: 1.4 a 1.6 veces el tamaño de la fuente.
+        <br><br>
+        - <b>Espaciado entre párrafos:</b>
+        <br>
+        Margen inferior de al menos el 120% del tamaño de fuente entre párrafos.
+        <br><br>
+        - <b>Margen y espaciado alrededor de elementos de la interfaz:</b>
+        <br>
+        Al menos 20 píxeles de espacio entre elementos de la interfaz.
+    </div>
+    <div>
+        - <b>Espaciado entre secciones o módulos:</b>
+        <br>
+        Margen superior e inferior de al menos 45 píxeles.
+        <br><br>
+        - <b>Espaciado entre elementos de menú y navegación:</b>
+        <br>
+        Al menos 15 píxeles de espacio entre elementos de navegación.
+        <br><br>
+        - <b>Espaciado alrededor de imágenes y gráficos:</b>
+        <br>
+        Al menos 20 píxeles de margen alrededor de las imágenes.
+        <br><br>
+        - <b>Espaciado en el pie de página:</b>
+        <br>
+        Margen superior e inferior de alrededor de 40 a 60 píxeles.
+    </div>
+</div>
+
+**Lenguaje y tono de la comunicación**
+
+El tono de comunicación y lenguaje ideal para KingReserve, nuestra plataforma de gestión hotelera, se caracteriza por ser profesional, confiable, claro y comprometido. En KingReserve, estamos dedicados a transformar la experiencia de gestión hotelera, haciendo que sea eficiente, segura y satisfactoria para todos nuestros usuarios. Creemos firmemente en la importancia de establecer una conexión de confianza con los administradores de hoteles y en comunicar de manera efectiva nuestro compromiso con la transparencia y la satisfacción del cliente en el proceso de gestión hotelera. Nuestro tono es profesional y accesible, reflejando nuestra misión de proporcionar una experiencia completa y personalizada en la gestión de reservas, planillas y personal. Nos esforzamos por diseñar nuestra plataforma de manera intuitiva y fácil de usar, especialmente para aquellos que pueden no estar familiarizados con la tecnología de gestión hotelera.
+
+### Web Style Guidelines
+Nuestro enfoque en las "Web Style Guidelines" de KingReserve se centra en la creación de una experiencia de usuario consistente y atractiva en la gestión hotelera. Esto implica el uso de una paleta de colores cohesiva, tipografía legible y un diseño responsivo que se adapte a una variedad de dispositivos y tamaños de pantalla. Nos aseguramos de que cada elemento visual y funcional de nuestra plataforma contribuya a una navegación intuitiva y eficiente, facilitando la gestión de reservas, planillas y personal de manera efectiva y profesional.
+<br>
+
+<div style="text-align:justify;">
+</div>
+<div style="text-align:center;">
+    <br>
+    <img src="./assets/homekingreserve.png" alt="arial">
+    <div><b>Primera vista de KingReserve page</b></div>
+</div>
+<br>
+
+
+
 
 ## 4.3 Landing Page UI Design
 ### 4.3.1 Landing Page Wireframe
