@@ -45,6 +45,7 @@ UNIVERSIDAD PERUANA<br>
 | TB1         | 27/08/2024  | Maycol Jhordan Rojas Velasquez    | Desarrollo del perfil de integrante, Creación del logo                                                           |
 | TB1         | 04/09/2024  | Russell Stephen Romero Qwistgaard | User Stories, Product Backlog                                                                                    |  
 | TB1         | 05/09/2024  | Maycol Jhordan Rojas Velasquez    | CAPÍTULO IV: Product Design Style Guidelines<br>General Style Guidelines <br> Web Style Guidelines <br> 2 entrevistas de empresas hoteleras |
+|TB1 | 05/09/2024|Maycol Jhordan Rojas Velasquez| Registro de 2 entrevistas del sector Empresa Hotelera|
 
 
 
@@ -184,8 +185,8 @@ Criterio: Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan 
 
 | **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
 |-------------------------|------------------------|------------------|
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta | 1.- Sergio André Gómez Vallejos: TB1: Participé activamente en el desarrollo del documento y la landing page, colaborando con el equipo en la división de tareas y asegurando que se completaran en el plazo establecido.                       |                  |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos |  1.- Sergio André Gómez Vallejos: TB1: Contribuí trabajando en equipo, enfocándome en mis tareas asignadas y apoyando a mis compañeros en sus áreas cuando fue necesario, manteniendo una actitud colaborativa para cumplir los objetivos establecidos.
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | 1.- <b>Sergio André Gómez Vallejos TB1:</b> Participé activamente en el desarrollo del documento y la landing page, colaborando con el equipo en la división de tareas y asegurando que se completaran en el plazo establecido.<br>2.-<b>Maycol Jhordan Rojas Velasquez TB1:</b> Participe activamente en el desarrolo del documento y la landing page coolaborando en el tipo de colores y estilos para la web page.                       |                  |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos |  1.- Sergio André Gómez Vallejos: TB1: Contribuí trabajando en equipo, enfocándome en mis tareas asignadas y apoyando a mis compañeros en sus áreas cuando fue necesario, manteniendo una actitud colaborativa para cumplir los objetivos establecidos.<br>2.-<b>Maycol Jhordan Rojas Velasquez TB1:</b> Cree duversas sub tareas para el grupo par apoder cumplir a momento todos los entregables para hacer una entorno mas dianmico y amigable para el grupo. 
 
 # CAPÍTULO I: Introducción
 ## Startup Profile
@@ -727,6 +728,7 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 | ![Entrevista]() |
 | **Resumen:** Vasco Zagaceta, un estudiante de 20 años residente en San Miguel, Lima, suele reservar hoteles y valora principalmente las reseñas de otros usuarios y la ubicación del hotel al hacer sus reservas. Utiliza la aplicación Booking para realizar sus reservas y se siente cómodo utilizando aplicaciones móviles y plataformas web para este propósito. Vasco sugiere que la implementación de una inteligencia artificial que mejore las recomendaciones basadas en las preferencias del usuario sería una buena idea. Además, considera muy importante recibir actualizaciones y notificaciones del proveedor antes y durante el servicio reservado. También le gustaría tener la opción de comunicarse directamente con el proveedor a través de la plataforma para resolver dudas o recibir información adicional. |
 
+### Segmento: Empresas Hoteleras
 
 #### Entrevista 4
 | **Datos del entrevistado** | 
@@ -750,17 +752,17 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 
 ### Análisis de entrevistas
 
+## Needfinding
+### User Persona
 
-## User Persona
-
-### Huesped
+##### Huesped
 ![Pedro Nanfuñay](https://github.com/user-attachments/assets/ab4c35e7-10af-41b0-aa2f-da507985c93d)
 
-### Empresas Hoteleras
+##### Empresas Hoteleras
 
-## User Task Matrix
+#### User Task Matrix
 
-### Matriz de Tareas del Usuario
+##### Matriz de Tareas del Usuario
 
 
 | **Tareas**                           | **Frecuencia** | **Importancia** | **Frecuencia** | **Importancia** |
@@ -788,12 +790,36 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 - **Coincidencias**:
   - Ambos segmentos valoran la **comunicación eficiente** y la **automatización** para mejorar la experiencia general.
 
-## User Journey Map
+### User Journey Mapping
 
-### Huesped
+#### Huesped
 ![Huesped journey map 1](https://github.com/user-attachments/assets/b86de9fa-6d10-425d-81db-89e3a6dc1742)
 
-### Empresas Hoteleras
+#### Empresas Hoteleras
+
+### As-is Scenario Mapping
+
+## Ubiquitous Language
+
+## Ubiquitous Language
+
+| **Término (Inglés)** | **Término (Español)** | **Definición** |
+|----------------------|-----------------------|----------------|
+| Reservation          | Reserva               | Proceso mediante el cual un huésped asegura una habitación en el hotel para una fecha específica. |
+| Check-in             | Registro de entrada   | Proceso de recepción y registro de un huésped en el hotel al inicio de su estancia. |
+| Check-out            | Registro de salida    | Proceso de salida y finalización de la estancia de un huésped en el hotel. |
+| Guest                | Huésped               | Persona que se aloja en el hotel. |
+| Room Service         | Servicio de habitaciones | Servicio proporcionado por el hotel para entregar alimentos y bebidas directamente a la habitación del huésped. |
+| Housekeeping         | Limpieza              | Departamento encargado de la limpieza y mantenimiento de las habitaciones y áreas comunes del hotel. |
+| Front Desk           | Recepción             | Área del hotel donde se realizan las funciones de check-in, check-out y atención al cliente. |
+| Concierge            | Conserje              | Empleado del hotel que proporciona asistencia y servicios especiales a los huéspedes, como reservas en restaurantes, organización de tours, etc. |
+| Occupancy Rate       | Tasa de ocupación     | Porcentaje de habitaciones ocupadas en el hotel en un período de tiempo específico. |
+| No-show              | No presentación       | Situación en la que un huésped no se presenta para su reserva sin haberla cancelado previamente. |
+| Overbooking          | Sobreventa            | Práctica de aceptar más reservas de las que hay disponibles, anticipando que algunas reservas no se presentarán. |
+| Revenue Management   | Gestión de ingresos   | Estrategia para optimizar los ingresos del hotel mediante el ajuste de precios y la gestión de la disponibilidad de habitaciones. |
+| Loyalty Program      | Programa de fidelidad | Programa diseñado para recompensar a los huéspedes frecuentes con beneficios y descuentos especiales. |
+| Banquet              | Banquete              | Servicio de organización de eventos y comidas especiales en el hotel. |
+| Conference Room      | Sala de conferencias  | Espacio en el hotel destinado a reuniones y eventos corporativos. |
 
 # Capítulo III: Requirements Specification
 ## 3.1 To-Be Scenario Mapping
