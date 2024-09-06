@@ -1255,8 +1255,41 @@ Enlaces Rápidos: Ofrece acceso rápido a funciones críticas como gestión de r
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
+![WebApplicationsWireframe](/assets/WebApplicationsWireframe1.PNG)
+
+![WebApplicationsWireframe](/assets/WebApplicationsWireframe2.PNG)
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
+User Goal 1: Iniciar sesión <br>
+![USERGOAL1](/assets/USERGOAL1.PNG)
+
+User Goal 2: Asignar una tarea a un empleado <br>
+![USERGOAL2](/assets/USERGOAL2.PNG)
+
+User Goal 3: Modificar el horario de un empleado <br>
+![USERGOAL3](/assets/USERGOAL3.PNG)
+
+User Goal 4: Añadir una reserva <br>
+![USERGOAL4](/assets/USERGOAL4.PNG)
+
+User Goal 5: Modificar una reserva existente <br>
+![USERGOAL5](/assets/USERGOAL5.PNG)
+
+User Goal 6: Cancelar una reserva <br>
+![USERGOAL6](/assets/USERGOAL6.PNG)
+
+User Goal 7: Generar reportes de estadísticas personalizadas <br>
+![USERGOAL7](/assets/USERGOAL7.PNG)
+
+User Goal 8: Enviar una notificación al personal <br>
+![USERGOAL8](/assets/USERGOAL8.PNG)
+
 ### 4.4.3. Web Applications Mock-ups.
+
+![WebApplicationsMockUp1](/assets/WebApplicationsMockUp1.PNG)
+
+![WebApplicationsMockUp2](/assets/WebApplicationsMockUp2.PNG)
+
 ### 4.4.3. Web Applications User Flow Diagrams.
 ## 4.8. Database Design
 #### 4.8.1. Database Diagram
