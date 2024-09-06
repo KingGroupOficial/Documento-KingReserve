@@ -1490,4 +1490,4 @@ En esta sección, detallamos el proceso de implementación de nuestra landing pa
 ![image](./assets/6git.jpg)
 
 Este proceso garantiza el despliegue satisfactorio de nuestra landing page en la plataforma de Netlifly, siguiendo las especificaciones y requisitos de nuestro proyecto.
-**Enlace de la Landing Page: https://kingreserve.netlify.app/**
+**Enlace de la Landing Page: [https://kingreserve.netlify.app/](https://kingreserve.netlify.app/)**
