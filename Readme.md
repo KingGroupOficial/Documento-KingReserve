@@ -1167,7 +1167,8 @@ Nuestro enfoque en las "Web Style Guidelines" de KingReserve se centra en la cre
 6. **Principios de Diseño**: El diseño es consistente, bien alineado y sigue una estructura clara que facilita la experiencia de usuario.
 
 ### 4.3.2 Landing Page Mock-Up
-![LandingPageMockUps](/assets/Landing-Page-MockUps.PNG)
+![LandingPageMockUps](/assets/Landing_Page_Mock.jpg)
+
 ### Mock-ups del Landing Page
 
 1. **Diseño Responsivo**: Los mock-ups muestran una clara adaptación del diseño a diferentes dispositivos, como móviles, portátiles y monitores de escritorio. Esto asegura una experiencia de usuario coherente y accesible en cualquier formato.
