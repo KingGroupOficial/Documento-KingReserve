@@ -47,6 +47,7 @@
 |TB1|05/09/2024|Maycol Jhordan Rojas Velasquez| Agregar el Ubiquitous Language para conocer los terminos de los segmentos. |
 |TB1| 05/09/2024 | Maycol Jhordan Rojas Velasquez| Hacer el Software Configuration Management|
 |TB1|06/092024|Maycol Jhordan Rojas Velasquez | Hacer las User Stories|
+|TB1|06/06/2024|Maycol Jhordan Rojas Velasquez| Se agrego descripciones generales, como el diagrama de C4 contexto, componentes y contenedores. |
 
 
 
@@ -1145,9 +1146,9 @@ Nuestro enfoque en las "Web Style Guidelines" de KingReserve se centra en la cre
 </div>
 <br>
 
-## 4.2 Information Architecture
+## Information Architecture
 
-##  4.2.1 Organization System
+##  Organization Systems
 
 -Segmento Huésped
 
@@ -1171,7 +1172,7 @@ Sistema de Gestión de Reservas: Los hoteles pueden manejar de manera eficiente 
 
 Gestión de Perfil del Hotel: Los hoteles pueden mantener un perfil detallado con información sobre comodidades, servicios y opiniones de clientes, lo cual ayuda a construir confianza y atraer a nuevos huéspedes.
 
-## 4.2.2 Labeling System 
+## Labeling Systems
 
 -Segmento Huésped
 
@@ -1191,7 +1192,7 @@ Etiqueta de Pedidos: Rastrear los pedidos de servicios o comodidades adicionales
 
 Etiqueta de Promociones y Ofertas: Resalta promociones y ofertas actuales tanto para huéspedes como para el personal, fomentando las ventas adicionales y aumentando el compromiso de los huéspedes.
 
-##  4.2.3 Searching System
+##  Searching Systems
 
 ## Segmento Huésped
 
@@ -1205,7 +1206,7 @@ Búsqueda por Palabras Clave: El personal del hotel puede buscar reservas espec�
 
 Búsqueda por Filtros: Los filtros ayudan al personal a refinar los resultados de búsqueda por estado de reserva, tipo de habitación o preferencias de huéspedes, mejorando la eficiencia operativa.
 
-## 4.2.4 Navegation System 
+## Navigation Systems
 
 -Segmento Huésped
 
@@ -1220,8 +1221,8 @@ Menú de Navegación: Un menú superior permite al personal del hotel navegar ef
 Enlaces Rápidos: Ofrece acceso rápido a funciones críticas como gestión de reservas, actualizaciones de inventario y configuración de promociones, aumentando la velocidad operativa.
 
 
-## 4.3 Landing Page UI Design
-### 4.3.1 Landing Page Wireframe
+## Landing Page UI Design
+### Landing Page Wireframe
 ![LandingPageWireframe](/assets/Landing-Page-Wireframe.jpg)
 
 1. **Jerarquía Visual**: El título grande y las imágenes dominantes guían la atención del usuario, destacando los elementos más importantes.
@@ -1236,7 +1237,7 @@ Enlaces Rápidos: Ofrece acceso rápido a funciones críticas como gestión de r
 
 6. **Principios de Diseño**: El diseño es consistente, bien alineado y sigue una estructura clara que facilita la experiencia de usuario.
 
-### 4.3.2 Landing Page Mock-Up
+### Landing Page Mock-up
 ![LandingPageMockUps](/assets/Landing_Page_Mock.jpg)
 
 ### Mock-ups del Landing Page
@@ -1253,13 +1254,13 @@ Enlaces Rápidos: Ofrece acceso rápido a funciones críticas como gestión de r
 
 6. **Llamadas a la Acción (CTA)**: En la versión móvil, se destacan los botones "Reservar" y "Ver más", lo que fomenta la interacción directa del usuario, asegurando que los elementos interactivos son fácilmente accesibles.
 
-## 4.4. Web Applications UX/UI Design
-### 4.4.1. Web Applications Wireframes
+## Web Applications UX/UI Design
+### Web Applications Wireframes
 ![WebApplicationsWireframe](/assets/WebApplicationsWireframe1.PNG)
 
 ![WebApplicationsWireframe](/assets/WebApplicationsWireframe2.PNG)
 
-### 4.4.2. Web Applications Wireflow Diagrams.
+### Web Applications Wireflow Diagrams
 User Goal 1: Iniciar sesión <br>
 ![USERGOAL1](/assets/USERGOAL1.PNG)
 
@@ -1284,15 +1285,41 @@ User Goal 7: Generar reportes de estadísticas personalizadas <br>
 User Goal 8: Enviar una notificación al personal <br>
 ![USERGOAL8](/assets/USERGOAL8.PNG)
 
-### 4.4.3. Web Applications Mock-ups.
+### Web Applications Mock-ups
 
 ![WebApplicationsMockUp1](/assets/WebApplicationsMockUp1.PNG)
 
 ![WebApplicationsMockUp2](/assets/WebApplicationsMockUp2.PNG)
 
-### 4.4.3. Web Applications User Flow Diagrams.
-## 4.8. Database Design
-#### 4.8.1. Database Diagram
+### Web Applications User Flow Diagrams
+
+### Web Applications Prototyping
+
+## Domain-Driven Software Architecture
+Los diseños C4 son una forma efectiva de representar la arquitectura de un sistema de software de manera clara y concisa. En el caso del proyecto King Reserve, los diseños C4 nos permiten visualizar la estructura y las interacciones entre los diferentes componentes del sistema. 
+
+En el nivel más alto, el diseño C4 nos muestra el contexto del sistema, identificando los actores externos y los sistemas con los que interactúa King Reserve. A medida que descendemos en los niveles de detalle, podemos ver los contenedores que componen el sistema, como la aplicación web, la base de datos y los servicios externos. Además, los diagramas C4 nos permiten visualizar los componentes internos de cada contenedor, como los módulos y las clases.
+
+Estos diseños proporcionan una visión clara de la arquitectura del sistema, lo que facilita la comunicación entre los miembros del equipo y ayuda a identificar posibles problemas o mejoras. Al utilizar los diseños C4 en el proyecto King Reserve, podemos asegurarnos de que todos los involucrados tengan una comprensión común de la arquitectura y puedan colaborar de manera efectiva en su implementación y evolución. 
+### Software Architecture Context Diagram
+![KingReserve-diagram-context](/assets/Context-Diagram.png)
+### Software Architecture Container Diagrams
+![KingReserve-diagram-containers](/assets/Container-Diagrams.png)
+### Software Architecture Components Diagrams
+![KingReserve-diagram-components](/assets/Components-Diagrams.png)
+
+## Database Design
+
+La base de datos de King Reserve es un componente crucial del sistema, responsable de almacenar y gestionar todos los datos relacionados con reservas, huéspedes, habitaciones y otra información esencial. Diseñada con escalabilidad y rendimiento en mente, la base de datos garantiza la recuperación y manipulación eficiente de datos, brindando una experiencia fluida tanto para los huéspedes como para el personal del hotel.
+
+El esquema de la base de datos está cuidadosamente diseñado para capturar las entidades necesarias y sus relaciones, permitiendo una representación precisa de las operaciones del hotel. Tablas como "Reservas", "Huéspedes" y "Habitaciones" almacenan información relevante, mientras que tablas adicionales manejan datos auxiliares como comodidades, promociones y disponibilidad.
+
+Para garantizar la integridad y consistencia de los datos, se implementan restricciones e índices adecuados. Las restricciones de clave primaria y clave externa mantienen la integridad referencial, mientras que las restricciones únicas evitan entradas duplicadas. Los índices optimizan el rendimiento de las consultas, permitiendo una recuperación rápida de datos incluso en conjuntos de datos grandes.
+
+Además, el diseño de la base de datos incorpora medidas de seguridad para proteger la información confidencial. Se implementan controles de acceso, cifrado y mecanismos de autenticación adecuados para proteger los datos de los huéspedes y del hotel contra accesos no autorizados.
+
+Con una base de datos robusta y bien estructurada, King Reserve puede gestionar eficientemente las reservas, proporcionar información precisa de disponibilidad y ofrecer una experiencia fluida a sus huéspedes. La base de datos sirve como el soporte del sistema, respaldando el funcionamiento sin problemas de los procesos de gestión hotelera.
+### Diagrama de la Base de Datos
 ![KingReserve-diagram](/assets/KingReserve-diagram.png)
 
 # CAPÍTULO V: Product Implementation, Validation & Deployment
