@@ -48,12 +48,13 @@
 |TB1| 05/09/2024 | Maycol Jhordan Rojas Velasquez| Hacer el Software Configuration Management|
 |TB1|06/092024|Maycol Jhordan Rojas Velasquez | Hacer las User Stories|
 |TB1|06/06/2024|Maycol Jhordan Rojas Velasquez| Se agrego descripciones generales, como el diagrama de C4 contexto, componentes y contenedores. |
-| TB1         | 03/09/2024  | Joaquin Pedraza Maldonado         |Software Architecture Context Diagram  /                                                                                                  | 
-| TB1         | 02/09/2024  | Joaquin Pedraza Maldonado         | Organization Systems /                                                                                                  | 
-| TB1         | 02/09/2024  | Joaquin Pedraza Maldonado         | Labeling  Systems /                                                                                                  | 
-| TB1         | 02/09/2024  | Joaquin Pedraza Maldonado         | SEO and Meta Tags /                                                                                                  | 
-| TB1         | 02/09/2024  | Joaquin Pedraza Maldonado         | Searching   Systems /                                                                                                  | 
-| TB1         | 02/09/2024  | Joaquin Pedraza Maldonado         | Navegation  Systems /                                                                                                  | 
+| TB1         | 03/09/2024  | Joaquin Pedraza Maldonado         |Software Architecture Context Diagram                                                                                                    | 
+| TB1         | 03/09/2024  | Joaquin Pedraza Maldonado         |Software Architecture Container Diagram                                                                                                    | 
+| TB1         | 02/09/2024  | Joaquin Pedraza Maldonado         | Organization Systems                                                                                                  | 
+| TB1         | 02/09/2024  | Joaquin Pedraza Maldonado         | Labeling  Systems                                                                                                   | 
+| TB1         | 02/09/2024  | Joaquin Pedraza Maldonado         | SEO and Meta Tags                                                                                                   | 
+| TB1         | 02/09/2024  | Joaquin Pedraza Maldonado         | Searching   Systems                                                                                                  | 
+| TB1         | 02/09/2024  | Joaquin Pedraza Maldonado         | Navegation  Systems                                                                                                   | 
 **Project Report Collaboration Insights**
 
 ### URL del Repositorio 
