@@ -861,10 +861,10 @@ Después de llevar a cabo y describir los registros de los entrevistados, esta s
 #### Empresas Hoteleras
 
 ### As-is Scenario Mapping
-##### Empresas Hoteleras:
+#### Empresas Hoteleras:
 ![image](/assets/AS- IS MAPPING - EMPRESAS HOTELERAS 1.png)
 ![image](/assets/AS- IS MAPPING - EMPRESAS HOTELERAS 2.png)
-Huéspedes:
+#### Huéspedes:
 ![image](/assets/AS- IS MAPPING - HUESPEDES 1.png)
 ![image](/assets/AS- IS MAPPING - HUESPEDES 2.png)
 
@@ -962,6 +962,10 @@ Requisitos definidos junto con el conjunto de User Stories y Epics para los requ
 | TS038               | Obtener Personal                        | Como desarrollador, quiero crear un endpoint para obtener la lista de empleados registrados.          | **Escenario 1:** Dado que un desarrollador envía una solicitud GET a `/api/staff`, cuando la solicitud es válida, entonces el sistema debe devolver una lista de empleados y un código de estado 200.<br> **Escenario 2:** Dado que un desarrollador envía una solicitud GET a `/api/staff`, cuando no hay empleados registrados, entonces el sistema debe devolver una lista vacía y un código de estado 200. | EPIC013                      |
 
 ## 3.3 Impact Mapping
+#### Empresas Hoteleras:
+
+#### Huéspedes:
+
 ## 3.4 Product Backlog
 
 | **Orden** | **User Story** | **Título**                              | **Descripción**                                                                                                                                                                                            | **Story Points** |
