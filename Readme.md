@@ -1502,6 +1502,136 @@ En esta sección, detallamos el proceso de implementación de nuestra landing pa
 Este proceso garantiza el despliegue satisfactorio de nuestra landing page en la plataforma de Netlifly, siguiendo las especificaciones y requisitos de nuestro proyecto.
 **Enlace de la Landing Page: [https://kingreserve.netlify.app/](https://kingreserve.netlify.app/)**
 
+## Landing Page, Services & Applications Implementation
+
+### Sprint 1 
+Este informe documenta el progreso realizado durante la fase de definición de requisitos del proyecto, que incluye entrevistas con los interesados y creación de artefactos antes y después de la implementación de la aplicación web estática. Proporcionar una visión clara del avance y garantizar una comunicación efectiva entre el equipo de desarrollo y los interesados son los objetivos principales.
+
+Durante esta etapa, se realizaron extensas entrevistas con los interesados para comprender sus necesidades, expectativas y requisitos particulares para la aplicación. Las entrevistas proporcionaron información útil que ayudó a definir los requisitos del proyecto.
+
+
+
+Se realizaron actividades de creación de artefactos antes y después de la implementación de la aplicación web estática, además de entrevistas. Estos objetos fueron
+
+#### Sprint Planning 1
+
+| Sprint # | Sprint 1  | 
+|--------------------|------------|
+| Sprint Planning Background | 
+| Date | 2024-09-02 | 
+| Time |  10:00 AM |
+| Location |  UPC - Campus San Miguel |
+| Preparate by| Maycol Jhordan Rojas Velasquez | 
+|  Attendees (to planning meeting) | Gómez Vallejos Sergio André ,Zevallos Linares Alessandro Netto ,Pedraza Maldonado Joaquin Andree ,Romero Qwistgaard Russell Stephen  | 
+| Sprint n-1 Review Summary | --- | 
+| Sprint Planning Background | Durante esta etapa, se llevó a cabo una exhaustiva verificación de la funcionalidad de la landing page diseñada para el proyecto. El objetivo principal fue asegurar que la landing page cumpla con los estándares de calidad y proporcionar una experiencia óptima para los visitantes. |
+| Sprint Goal & User Stories | 
+| Sprint 1 Goal | Desarrolar la funcionalidad de la página web con i18n. Se considerará que el objetivo del sprint se ha cumplido si todas las historias de usuario relacionadas con la landing page están implementadas y hecho con las entrevistas de segmentos objetivos.|  
+| Sprint Velocity | Se establece un Velocity de 20 Story Points para este Sprint. | 
+| Sum of Story Points | 20 Story Points | 
+
+#### Sprint Backlog 1
+
+<table align="center" border="1" width="90%" style="text-align:center">
+ <tr>
+    <td colspan="2"><b>User Story</b></td>
+    <td colspan="6"><b>Work-Item / Task</b></td>
+  </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Estimation</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+  </tr>
+  <tr>
+    <td>US001</td>
+    <td>Acceso a la sección de Resumen</td>
+    <td>T01</td>
+    <td>Implementar acceso a la sección de Resumen</td>
+    <td>2</td>
+    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>US002</td>
+    <td>Acceso a la sección de Características</td>
+    <td>T02</td>
+    <td>Implementar acceso a la sección de Características</td>
+    <td>1</td>
+    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>US003</td>
+    <td>Envío de Correos a los CEO de KingGroup</td>
+    <td>T03</td>
+    <td>Implementar envío de correos</td>
+    <td>2</td>
+    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>US004</td>
+    <td>Registro de Nuevos Usuarios</td>
+    <td>T04</td>
+    <td>Implementar registro de nuevos usuarios</td>
+    <td>3</td>
+    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>US005</td>
+    <td>Información de Funcionalidades</td>
+    <td>T05</td>
+    <td>Implementar sección de funcionalidades</td>
+    <td>2</td>
+    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>US006</td>
+    <td>Sector de Planes Disponibles</td>
+    <td>T06</td>
+    <td>Implementar sector de planes disponibles</td>
+    <td>3</td>
+    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>US007</td>
+    <td>Sector de Preguntas Frecuentes</td>
+    <td>T07</td>
+    <td>Implementar sector de preguntas frecuentes</td>
+    <td>2</td>
+    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>US008</td>
+    <td>Conexión de King Group con la Aplicación</td>
+    <td>T08</td>
+    <td>Implementar conexión de King Group con la aplicación</td>
+    <td>3</td>
+    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>US009</td>
+    <td>Conexión de Datos del Formulario a Firebase</td>
+    <td>T09</td>
+    <td>Implementar conexión de datos del formulario a Firebase</td>
+    <td>2</td>
+    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Done</td>
+ </tr>
+</table>
+
+
+
+
 
 ## Bibliografía
 
