@@ -1501,3 +1501,21 @@ En esta sección, detallamos el proceso de implementación de nuestra landing pa
 
 Este proceso garantiza el despliegue satisfactorio de nuestra landing page en la plataforma de Netlifly, siguiendo las especificaciones y requisitos de nuestro proyecto.
 **Enlace de la Landing Page: [https://kingreserve.netlify.app/](https://kingreserve.netlify.app/)**
+
+
+## Bibliografía
+
+1. The C4 model for visualising software architecture (2024) Recuperado de: https://c4model.com
+2. Naming Conventions for java (2024) Recuperado de: https://www.oracle.com/java/technologies/javase/codeconventions-namingconventions.html#:~:text=Except%20for%20variables%2C%20all%20instance,should%20be%20short%20yet%20meaningful.
+
+## Anexos
+
+**Enlaces**
+
+</center>
+
+ |Segmento del trabajo|Link de repositorio|
+|---------|---------|
+| LandingPage (Anexo A)    | https://kingreserve.netlify.app/ |
+| Diagramas de clases (Anexo B)   |    |
+| Diagramas de base de datos (Anexo C)   |    |
