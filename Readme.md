@@ -862,11 +862,11 @@ Después de llevar a cabo y describir los registros de los entrevistados, esta s
 
 ### As-is Scenario Mapping
 #### Empresas Hoteleras:
-![image](/assets/AS- IS MAPPING - EMPRESAS HOTELERAS 1.png)
-![image](/assets/AS- IS MAPPING - EMPRESAS HOTELERAS 2.png)
+![image](/assets/AS-IS_MAPPING-EMPRESAS_HOTELERAS_1.png)
+![image](/assets/AS-IS_MAPPING-EMPRESAS_HOTELERAS_2.png)
 #### Huéspedes:
-![image](/assets/AS- IS MAPPING - HUESPEDES 1.png)
-![image](/assets/AS- IS MAPPING - HUESPEDES 2.png)
+![image](/assets/AS-IS_MAPPING-HUESPEDES_1.png)
+![image](/assets/AS-IS_MAPPING-HUESPEDES_2.png)
 
 ## Ubiquitous Language
 
