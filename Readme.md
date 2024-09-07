@@ -68,6 +68,12 @@
 |TB1|04/06/2024|Alessandro Zevallos Linares| Landing Page UI Design |
 |TB1|06/06/2024|Alessandro Zevallos Linares| Web Applications UX/UI Design |
 |TB1|06/06/2024|Alessandro Zevallos Linares| Web Applications Prototyping |
+|TB1|06/06/2024|Maycol Jhordan Rojas Velasquez| Se hizo  Software Configuration Management.  |
+|TB1|06/06/2024|Maycol Jhordan Rojas Velasquez| Se hizo  Landing Page, Services & Applications Implementation.  |
+|TB1|06/06/2024|Maycol Jhordan Rojas Velasquez| Se hizo  Sprint 1 ,Sprint Planning 1. Sprint Backlog 1. Development Evidence for Sprint Review. Testing Suite Evidence for Sprint Review. Execution Evidence for Sprint Review. Services Documentation Evidence for Sprint Review. Software Deployment Evidence for Sprint Review. Team Collaboration Insights during Sprint. |
+
+
+
 **Project Report Collaboration Insights**
 
 ### URL del Repositorio 
