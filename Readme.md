@@ -1711,6 +1711,40 @@ Para una demostración completa de la visualización y navegación logradas en e
 
 
 
+
+## Software Deployment Evidence for Sprint Review
+
+Durante este Sprint, se han realizado varias actividades relacionadas con el despliegue de los productos de King Reserve, incluyendo la Landing Page El despliegue se ha llevado a cabo utilizando Netlify, un proveedor de servicios en la nube que facilita la implementación continua y la automatización del despliegue. A continuación, se detallan los pasos realizados y se presentan capturas de pantalla que ilustran el proceso.
+
+### Actividades de Despliegue
+
+1. **Creación de Cuenta en Netlify**
+   - Se creó una cuenta en Netlify para gestionar el despliegue de los proyectos.
+   - Captura de pantalla de la cuenta creada:
+
+     ![Netlify Account1](https://i.imgur.com/EpSBtUP.png)
+     ![Netlify Account1](https://i.imgur.com/KXhERgf.png)
+
+2. **Configuración de Repositorios**
+   - Se configuraron los repositorios de GitHub para la integración continua con Netlify.
+   - Captura de pantalla de la configuración del repositorio:
+     
+     ![Repository Configuration](https://i.imgur.com/ZokhWM7.png)
+
+
+3. **Configuración de Proyectos en Netlify**
+   - Se configuraron los proyectos de desarrollo en Netlify para la automatización del despliegue.
+   - Captura de pantalla de la configuración del proyecto:
+     ![Project Configuration](https://i.imgur.com/ChUCQFZ.png)
+
+
+4. **Despliegue de la Landing Page**
+   - Se desplegó la Landing Page utilizando Netlify.
+   - Captura de pantalla de la Landing Page desplegada:
+     ![Landing Page Deployment](https://i.imgur.com/3X6n0Bc.png)
+    - Enlace: https://kingreserve.netlify.app/
+
+
 ## Bibliografía
 
 1. The C4 model for visualising software architecture (2024) Recuperado de: https://c4model.com
