@@ -1793,7 +1793,11 @@ A continuación, se presenta una tabla con los commits realizados por los miembr
 
 El equipo ha trabajado de manera efectiva y colaborativa durante este Sprint, asegurando que todos los miembros participen activamente en la implementación de la Landing Page. Los analíticos de colaboración y los commits en GitHub reflejan el esfuerzo conjunto y la dedicación del equipo para alcanzar los objetivos del Sprint.
 
+## Conclusiones Generales
 
+1. Durante este Sprint, el equipo ha demostrado una colaboración efectiva y una distribución equitativa de las tareas. Todos los miembros del equipo han participado activamente en la implementación de la Landing Page, contribuyendo con commits significativos y trabajando en conjunto para resolver problemas y mejorar la calidad del producto. La utilización de herramientas como GitHub y Netlify ha facilitado la integración continua y el despliegue automatizado, permitiendo un flujo de trabajo más eficiente y coordinado.
+
+2. Se han logrado avances significativos en la implementación de la Landing Page de King Reserve. El equipo ha completado con éxito varias tareas clave, incluyendo el diseño y maquetación de la página, la implementación de secciones importantes como el encabezado, el pie de página y el contenido principal, así como la configuración de la integración continua y el despliegue en Netlify. Estos logros han sentado una base sólida para futuras iteraciones y mejoras, asegurando que la Landing Page cumpla con los requisitos y expectativas del proyecto.
 
 ## Bibliografía
 
