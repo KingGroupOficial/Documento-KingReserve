@@ -1629,6 +1629,21 @@ Se realizaron actividades de creación de artefactos antes y después de la impl
  </tr>
 </table>
 
+## Development Evidence for Sprint Review
+
+Durante este sprint, se han realizado avances significativos en la implementación de la Landing Page. Se han completado varias historias de usuario de la landing page y se han realizado múltiples commits en los repositorios correspondientes. A continuación, se presenta una tabla que incluye los commits relacionados con la implementación para el repositorio de la landing page.
+
+### Commits
+
+| Repository |Branch| Commit Id | Commit Message| Commit Message Body| Commited on (Date)|
+|--------|-----------|--------|-------|---------------------------------|-------|
+| KingGroupOficial/Landing-Page---KingReserve   | developer | 1786b49d0209c936e067dcd2e97fb6734b390fa1   | feat: add version 1 landing page | Se creo una primera version preliminar base de la landing page      | 2024-08-30|
+| KingGroupOficial/Landing-Page---KingReserve   | developer | e83f2ff35b69c8a4d4ba1f84f8ea7e1c9db5aec8  | feat: update logo and add her seccion preliminar base de la landing page |Se agrego la parte del hero y una cambio de logo de la pagina| 2024-08-30|
+| KingGroupOficial/Landing-Page---KingReserve   | developer | db72dee2f94cf8003d0e3ddab081bddd74697b4e  | feat: update plan |Se mejora la vizualizacion del apartado de planes de suscripción | 2024-08-30|
+| KingGroupOficial/Landing-Page---KingReserve   | developer | db72dee2f94cf8003d0e3ddab081bddd74697b4e  | feat: update plan |Se mejora la vizualizacion del apartado de planes de suscripción | 2024-08-30|
+| KingGroupOficial/Landing-Page---KingReserve   | developer | 5d8ce03a2eeaa912b0db04e40da51da38f3aa4fb  | Feat: Update Send Email A CEO kINGGROUP, ARREGLO DE BUGS |Se arreglo el problema de envio de correo electronico, ademas de busgs con el logo y tipos de tipografia | 2024-09-03|
+| KingGroupOficial/Landing-Page---KingReserve   | developer | 58f345de2b81a334890dc8f01f4b420c119aa178  | feat: update links de la landing page | Se le dio destino a los botones de redes sociales, direcciones de subcripciones. | 2024-09-03|
+| KingGroupOficial/Landing-Page---KingReserve   | developer | b67299811f0435e3bb3ea04d14a7a223508873de  | Feat: add I18n | Se le dio la internazionalizacion a la pagina.| 2024-09-03|
 
 
 
