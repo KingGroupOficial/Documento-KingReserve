@@ -33,7 +33,11 @@
 
 | Entregables | Fecha       | Autor                             | Descripción de modificación                                                                                      |  
 |-------------|-------------|-----------------------------------|------------------------------------------------------------------------------------------------------------------|  
-| TB1         | 23/08/2024  | Sergio André Gómez Vallejos       | Implementación de contenido en el Student Outcome Desarrollo del Contenido II Competidores  Perfil de integrante |  
+| TB1         | 23/08/2024  | Sergio André Gómez Vallejos       | Implementación de contenido en el Student Outcome   | 
+| TB1         | 23/08/2024  | Sergio André Gómez Vallejos       |  Competidores y Desarrollo del perfil de integrante  | 
+| TB1         | 23/08/2024  | Sergio André Gómez Vallejos       |  Analisis Competitivo  |  
+| TB1         | 23/08/2024  | Sergio André Gómez Vallejos       |  Estrategias y tácticas frente a competidores | 
+| TB1         | 24/08/2024  | Sergio André Gómez Vallejos       | Registro de 2 entrevistas del sector Huespedes, Diseño de Entrevista |  
 | TB1         | 23/08/2024  | Joaquin Pedraza Maldonado         | Antecedentes y problemática   Perfil de integrante                                                               |  
 | TB1         | 24/03/2024  | Maycol Jhordan Rojas Velasquez    | Implementación de la descripción de la Startup                                                                   |  
 | TB1         | 24/08/2024  | Joaquin Pedraza Maldonado         | Lean UX Process/                                                                                                  |  
@@ -41,13 +45,16 @@
 | TB1         | 26/08/2024  | Alessandro Zevallos Linares       | Diseño de Entrevistas                                                                                            |  
 | TB1         | 25/03/2024  | Maycol Jhordan Rojas Velasquez    | Desarrollo del perfil de integrante, estructuración del informe índice, cuadros, carátula                        |  
 | TB1         | 27/08/2024  | Maycol Jhordan Rojas Velasquez    | Desarrollo del perfil de integrante, Creación del logo                                                           |
-| TB1         | 04/09/2024  | Russell Stephen Romero Qwistgaard | User Stories, Product Backlog                                                                                    |  
+| TB1         | 04/09/2024  | Russell Stephen Romero Qwistgaard | User Stories, Product Backlog                                                                                    |
+| TB1         | 04/08/2024  | Sergio André Gómez Vallejos       | Diagrama de base de datos|  
 | TB1         | 05/09/2024  | Maycol Jhordan Rojas Velasquez    | CAPÍTULO IV: Product Design Style Guidelines<br>General Style Guidelines <br> Web Style Guidelines <br> 2 entrevistas de empresas hoteleras |
 |TB1 | 05/09/2024|Maycol Jhordan Rojas Velasquez| Registro de 2 entrevistas del sector Empresa Hotelera|
 |TB1|05/09/2024|Maycol Jhordan Rojas Velasquez| Agregar el Ubiquitous Language para conocer los terminos de los segmentos. |
+| TB1         | 05/09/2024  | Sergio André Gómez Vallejos       | Agregación de User Persona del sector Empresa Hotelera|  
 |TB1| 05/09/2024 | Maycol Jhordan Rojas Velasquez| Hacer el Software Configuration Management|
 |TB1|06/092024|Maycol Jhordan Rojas Velasquez | Hacer las User Stories|
-|TB1|06/06/2024|Maycol Jhordan Rojas Velasquez| Se agrego descripciones generales, como el diagrama de C4 contexto, componentes y contenedores. |
+|TB1|06/09/2024|Maycol Jhordan Rojas Velasquez| Se agrego descripciones generales, como el diagrama de C4 contexto, componentes y contenedores. |
+| TB1         | 06/09/2024  | Sergio André Gómez Vallejos       | Implementación del  Landing Page Mock-up|  
 | TB1         | 03/09/2024  | Joaquin Pedraza Maldonado         |Software Architecture Context Diagram                                                                                                    | 
 | TB1         | 03/09/2024  | Joaquin Pedraza Maldonado         |Software Architecture Container Diagram                                                                                                    | 
 | TB1         | 02/09/2024  | Joaquin Pedraza Maldonado         | Organization Systems                                                                                                  | 
