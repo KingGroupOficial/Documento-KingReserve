@@ -727,6 +727,7 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 | **Datos del entrevistado** | 
 |--------------------------|
 | **Nombre:**  Nanfuñay Liza Pedro Jesús |
+| **Minuto del video:**  00:00 |
 | **Edad:**  19 años |
 | **Procedencia:**  Lima, Ate |
 | ![Entrevista](/assets/Entrevista_web1.png)|
@@ -737,6 +738,7 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 | **Datos del entrevistado** | 
 |--------------------------|
 | **Nombre:**  Ramiro Guzman |
+| **Minuto del video:**  04:41 |
 | **Edad:**  20 años |
 | **Procedencia:**  Lima, Lima |
 | ![Entrevista](/assets/Entrevista_web2.png)|
@@ -747,6 +749,7 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 |--------------------------|
 | **Nombre:** Vasco Zagaceta |
 | **Edad:** 20 años |
+| **Minuto del video:**  10:23 |
 | **Procedencia:** San Miguel, Lima |
 | ![Entrevista]() |
 | **Resumen:** Vasco Zagaceta, un estudiante de 20 años residente en San Miguel, Lima, suele reservar hoteles y valora principalmente las reseñas de otros usuarios y la ubicación del hotel al hacer sus reservas. Utiliza la aplicación Booking para realizar sus reservas y se siente cómodo utilizando aplicaciones móviles y plataformas web para este propósito. Vasco sugiere que la implementación de una inteligencia artificial que mejore las recomendaciones basadas en las preferencias del usuario sería una buena idea. Además, considera muy importante recibir actualizaciones y notificaciones del proveedor antes y durante el servicio reservado. También le gustaría tener la opción de comunicarse directamente con el proveedor a través de la plataforma para resolver dudas o recibir información adicional. |
@@ -758,6 +761,7 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 |--------------------------|
 | **Nombre:** María Delia Martínez |
 | **Edad:** 22 años |
+| **Minuto del video:**  14:27 |
 | **Procedencia:** Miraflores, Lima |
 | ![EntrevistaDelia](./assets/entreDelia.jpg) |
 | **Resumen:** María Delia Martínez, gerente de un hotel boutique en Miraflores, Lima, enfrenta desafíos en la gestión de reservas y la coordinación del personal. Valora principalmente la eficiencia operativa y la satisfacción del huésped. Utiliza varias plataformas de gestión hotelera, pero encuentra que la falta de integración entre ellas dificulta la operación diaria. María Delia sugiere que la implementación de una inteligencia artificial que optimice la asignación de habitaciones y gestione las solicitudes de los huéspedes en tiempo real sería muy beneficiosa. Además, considera crucial recibir actualizaciones y notificaciones sobre el estado de las reservas y la ocupación del hotel. También le gustaría tener la opción de comunicarse directamente con los huéspedes a través de la plataforma para resolver dudas o proporcionar información adicional. |
@@ -767,6 +771,7 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 |--------------------------|
 | **Nombre:** María José Canahualpa |
 | **Edad:** 23 años |
+| **Minuto del video:**  21:36 |
 | **Procedencia:** Cusco, Perú |
 | ![EntrevistaMaria](./assets/entreMaria.jpg) |
 | **Resumen:** María José Canahualpa, administradora de un resort en Cusco, Perú, se enfrenta a desafíos relacionados con la gestión de grandes volúmenes de reservas y la coordinación de eventos. Valora principalmente la capacidad de la plataforma para manejar múltiples tareas simultáneamente y la facilidad de uso. Utiliza varias herramientas de gestión, pero encuentra que la falta de automatización en la gestión de eventos y reservas complica su trabajo. María José sugiere que la implementación de una inteligencia artificial que pueda predecir la demanda y optimizar la asignación de recursos sería muy útil. Además, considera muy importante recibir actualizaciones y notificaciones en tiempo real sobre las reservas y eventos. También le gustaría tener la opción de comunicarse directamente con los proveedores y clientes a través de la plataforma para resolver dudas o recibir información adicional. |
