@@ -1669,6 +1669,46 @@ En esta sección se explica y presenta el conjunto de Unit Tests, Integration Te
 ## Imagenes
 ![Testing](./assets/testing.jpg)
 
+## Execution Evidence for Sprint Review
+
+Durante este Sprint, se han alcanzado varios hitos importantes en la implementación de la Landing Page, las aplicaciones web y los servicios web de King Reserve. Se han completado las siguientes tareas:
+
+- Implementación de la sección de Resumen.
+- Implementación de la sección de Características.
+- Envío de correos a los CEO de KingGroup.
+- Registro de nuevos usuarios.
+- Visualización de funcionalidades.
+- Visualización de planes disponibles.
+- Implementación de la sección de Preguntas Frecuentes.
+- Conexión de King Group con la aplicación.
+- Conexión de datos del formulario a Firebase.
+- Implementacion de la Internacionalizacion
+
+### Screenshots
+
+#### Landing Page
+![Landing Page](./assets/execution1.jpg)
+
+#### Sección de Características
+![Características](./assets/execution2.jpg)
+
+#### Sección de Planes Disponibles
+![Planes Disponibles](./assets/execution3.jpg)
+
+#### Sección de Preguntas Frecuentes
+![Preguntas Frecuentes](./assets/execution4.jpg)
+
+### Seccion de cambio de idioma 
+![I18n](./assets/execution5.jpg)
+
+### Video de Demostración
+
+Para una demostración completa de la visualización y navegación logradas en este Sprint, por favor vea el siguiente video:
+
+|Nombre|Link|
+|--------------------|------------|
+|Video de Demostración | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219984_upc_edu_pe/EVt0Nx5B_7tCvOJOQPutx4MB3DofKynew2_pIgkDRkttSg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Qbz30y |
+
 
 
 ## Bibliografía
