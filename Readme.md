@@ -55,8 +55,12 @@
 | TB1         | 02/09/2024  | Joaquin Pedraza Maldonado         | SEO and Meta Tags                                                                                                   | 
 | TB1         | 02/09/2024  | Joaquin Pedraza Maldonado         | Searching   Systems                                                                                                  | 
 | TB1         | 02/09/2024  | Joaquin Pedraza Maldonado         | Navegation  Systems                                                                                                   | 
-
-
+|TB1|02/06/2024|Alessandro Zevallos Linares| User Task Matrix |
+|TB1|04/06/2024|Alessandro Zevallos Linares| User Persona |
+|TB1|04/06/2024|Alessandro Zevallos Linares| User Journey Mapping |
+|TB1|04/06/2024|Alessandro Zevallos Linares| Landing Page UI Design |
+|TB1|06/06/2024|Alessandro Zevallos Linares| Web Applications UX/UI Design |
+|TB1|06/06/2024|Alessandro Zevallos Linares| Web Applications Prototyping |
 **Project Report Collaboration Insights**
 
 ### URL del Repositorio 
