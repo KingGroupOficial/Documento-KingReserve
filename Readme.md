@@ -1744,6 +1744,56 @@ Durante este Sprint, se han realizado varias actividades relacionadas con el des
      ![Landing Page Deployment](https://i.imgur.com/3X6n0Bc.png)
     - Enlace: https://kingreserve.netlify.app/
 
+## Team Collaboration Insights during Sprint
+
+
+Durante este Sprint, el equipo ha trabajado de manera colaborativa por 2 alumnos en el diseño y programacion en la implementación de la Landing Page de King Reserve. A continuación, se presenta un resumen de cómo se han desarrollado las actividades de implementación, junto con capturas de pantalla de los analíticos de colaboración y commits en GitHub realizados por los miembros del equipo.
+
+### Actividades de Implementación
+
+El equipo ha dividido las tareas de implementación de la Landing Page en varias actividades clave, asegurando que todos los miembros del equipo participen activamente en el desarrollo. Las actividades incluyen:
+
+- Diseño y maquetación de la Landing Page.
+- Implementación de secciones clave como el encabezado, pie de página, y contenido principal.
+- Configuración de la integración continua y despliegue en Netlify.
+- Pruebas y ajustes finales para asegurar la calidad del producto.
+
+### Analíticos de Colaboración
+
+A continuación, se presentan capturas de pantalla de los analíticos de colaboración en GitHub, mostrando la participación de cada miembro del equipo en términos de commits y contribuciones.
+
+#### Captura de Analíticos de Colaboración en GitHub
+-En el repositorio de la Landing Page 
+
+![GitHub Collaboration Analytics1](https://i.imgur.com/NercgW0.png)
+
+![GitHub Collaboration Analytics2](https://i.imgur.com/n1eUM8a.png)
+
+![GitHub Collaboration Analytics3](https://i.imgur.com/STxQ1KJ.png)
+
+![GitHub Collaboration Analytics4](https://i.imgur.com/cimPeJ1.png)
+
+![GitHub Collaboration Analytics5](https://i.imgur.com/xt3pTYk.png)
+
+![GitHub Collaboration Analytics6](https://i.imgur.com/yB5EvRY.png)
+
+
+### Commits en GitHub
+
+A continuación, se presenta una tabla con los commits realizados por los miembros del equipo durante este Sprint.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) | Autor |
+|------------|--------|-----------|----------------|---------------------|--------------------|-------|
+| KingGroupOficial/Landing-Page---KingReserve | developer | 1786b49d0209c936e067dcd2e97fb6734b390fa1 | feat: add version 1 landing page | Se creó una primera versión preliminar base de la landing page | 2024-08-30 | Maycol Jhordan Rojas Velasquez |
+| KingGroupOficial/Landing-Page---KingReserve | developer | e83f2ff35b69c8a4d4ba1f84f8ea7e1c9db5aec8 | feat: update logo and add hero section | Se agregó la parte del hero y un cambio de logo de la página | 2024-08-30 | Maycol Jhordan Rojas Velasquez |
+| KingGroupOficial/Landing-Page---KingReserve | developer | db72dee2f94cf8003d0e3ddab081bddd74697b4e | feat: update plan | Se mejora la visualización del apartado de planes de suscripción | 2024-08-30 | Maycol Jhordan Rojas Velasquez |
+| KingGroupOficial/Landing-Page---KingReserve | developer | 5d8ce03a2eeaa912b0db04e40da51da38f3aa4fb | feat: update send email to CEO KingGroup, fix bugs | Se arregló el problema de envío de correo electrónico, además de bugs con el logo y tipos de tipografía | 2024-09-03 | Maycol Jhordan Rojas Velasquez |
+| KingGroupOficial/Landing-Page---KingReserve | developer | 58f345de2b81a334890dc8f01f4b420c119aa178 | feat: update links on the landing page | Se le dio destino a los botones de redes sociales, direcciones de suscripciones | 2024-09-03 | Maycol Jhordan Rojas Velasquez |
+| KingGroupOficial/Landing-Page---KingReserve | developer | b67299811f0435e3bb3ea04d14a7a223508873de | feat: add i18n | Se le dio la internacionalización a la página | 2024-09-03 | Maycol Jhordan Rojas Velasquez |
+
+El equipo ha trabajado de manera efectiva y colaborativa durante este Sprint, asegurando que todos los miembros participen activamente en la implementación de la Landing Page. Los analíticos de colaboración y los commits en GitHub reflejan el esfuerzo conjunto y la dedicación del equipo para alcanzar los objetivos del Sprint.
+
+
 
 ## Bibliografía
 
