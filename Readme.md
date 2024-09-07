@@ -1645,6 +1645,29 @@ Durante este sprint, se han realizado avances significativos en la implementaci�
 | KingGroupOficial/Landing-Page---KingReserve   | developer | 58f345de2b81a334890dc8f01f4b420c119aa178  | feat: update links de la landing page | Se le dio destino a los botones de redes sociales, direcciones de subcripciones. | 2024-09-03|
 | KingGroupOficial/Landing-Page---KingReserve   | developer | b67299811f0435e3bb3ea04d14a7a223508873de  | Feat: add I18n | Se le dio la internazionalizacion a la pagina.| 2024-09-03|
 
+### Imagenes 
+
+![Development](./assets/development%20.jpg)
+
+## Testing Suite Evidence for Sprint Review
+
+En esta sección se explica y presenta el conjunto de Unit Tests, Integration Tests y Acceptance Tests automatizados, desarrollados para la landing page asociados con las User Stories especificadas en el Sprint.
+
+### Commits
+
+| Repository |Branch| Commit Id | Commit Message| Commit Message Body| Commited on (Date)|
+|--------|-----------|--------|-------|---------------------------------|-------|
+| KingGroupOficial/Landing-Page---KingReserve   | developer | 7f3c2874287552489b28ff2a84744f0fe0f18b75 | feat: add Descripcion de landing page | Se agrego la parte de resumen nombrando al grupo y idea del proyecto      | 2024-08-30|
+| KingGroupOficial/Landing-Page---KingReserve   | developer|e83f2ff35b69c8a4d4ba1f84f8ea7e1c9db5aec8  |  feat: update logo and add her seccion|Se desarrolo el hero y las caracteristicas del Web Application  | 2024-08-30|
+| KingGroupOficial/Landing-Page---KingReserve   | developer| 5d8ce03a2eeaa912b0db04e40da51da38f3aa4fb | Feat: Update Send Email A CEO kINGGROUP, ARREGLO DE BUGS  |  Aqui hace la funcion donde podremos enviar correo de los registros. | 2024-09-03 |
+| KingGroupOficial/Landing-Page---KingReserve   | developer | ad047b4e1660faf1d8e0187dcadbe0570613bf2a  |Feat: update a contact, save data in database  |Aqui se hizo el apartado de un nuevo formulario de contacto y una administracion de los datos usados en Firebase | 2024-08-30|
+| KingGroupOficial/Landing-Page---KingReserve   | developer |   aebc0a4c8428f77150983aaaa449a4a347fc0a6a |  feat: Update Funciones |Se agrego las funcionalidades que ofrece nuestro aplicativo |2024-08-30 |
+| KingGroupOficial/Landing-Page---KingReserve   | developer |  aebc0a4c8428f77150983aaaa449a4a347fc0a6a  |feat: Update Funciones   | Se agrego una visualizacion mas dinamica de los planes que ofrezemos | 2024-08-30 |
+| KingGroupOficial/Landing-Page---KingReserve   | developer | 9bdc211d3c022974457c975452aa94fbb1e23e5f   | feat: update seccion de pubicidad de king reserve  | Se desarrollo la parte de pregutnas frecuentes, enlaces publicos y sociales.|2024-08-30 |
+| KingGroupOficial/Landing-Page---KingReserve   | developer | 58f345de2b81a334890dc8f01f4b420c119aa178   |  feat: update links de la landing page |Se desarollo la conexcion de KingGroup y la aplicación  | 2024-09-03 |
+
+## Imagenes
+![Testing](./assets/testing.jpg)
 
 
 
