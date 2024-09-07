@@ -1825,6 +1825,8 @@ El equipo ha trabajado de manera efectiva y colaborativa durante este Sprint, as
 
 ## Anexos
 **Link de las Entrsvistas:** ![Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221d401_upc_edu_pe/EUv9OiiAZgtKgkO9fzCMedUBkaxSq29Emvi84Fn6uYdO3A?e=jC6bjZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+**Link de las DataBase Diagram** ![DataBaseDiagram](https://my.vertabelo.com/doc/GeHrKz6hgPvFhSH4XkuEu95kq78E4Eab)
 **Enlaces**
 
 </center>
