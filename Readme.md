@@ -62,16 +62,17 @@
 | TB1         | 02/09/2024  | Joaquin Pedraza Maldonado         | SEO and Meta Tags                                                                                                   | 
 | TB1         | 02/09/2024  | Joaquin Pedraza Maldonado         | Searching   Systems                                                                                                  | 
 | TB1         | 02/09/2024  | Joaquin Pedraza Maldonado         | Navegation  Systems                                                                                                   | 
-|TB1|02/06/2024|Alessandro Zevallos Linares| User Task Matrix |
-|TB1|04/06/2024|Alessandro Zevallos Linares| User Persona |
-|TB1|04/06/2024|Alessandro Zevallos Linares| User Journey Mapping |
-|TB1|04/06/2024|Alessandro Zevallos Linares| Landing Page UI Design |
-|TB1|06/06/2024|Alessandro Zevallos Linares| Web Applications UX/UI Design |
-|TB1|06/06/2024|Alessandro Zevallos Linares| Web Applications Prototyping |
-|TB1|06/06/2024|Maycol Jhordan Rojas Velasquez| Se hizo  Software Configuration Management.  |
-|TB1|06/06/2024|Maycol Jhordan Rojas Velasquez| Se hizo  Landing Page, Services & Applications Implementation.  |
-|TB1|06/06/2024|Maycol Jhordan Rojas Velasquez| Se hizo  Sprint 1 ,Sprint Planning 1. Sprint Backlog 1. Development Evidence for Sprint Review. Testing Suite Evidence for Sprint Review. Execution Evidence for Sprint Review. Services Documentation Evidence for Sprint Review. Software Deployment Evidence for Sprint Review. Team Collaboration Insights during Sprint. |
-
+|TB1|02/09/2024|Alessandro Zevallos Linares| User Task Matrix |
+|TB1|04/09/2024|Alessandro Zevallos Linares| User Persona |
+|TB1|04/09/2024|Alessandro Zevallos Linares| User Journey Mapping |
+|TB1|04/09/2024|Alessandro Zevallos Linares| Landing Page UI Design |
+|TB1|06/09/2024|Alessandro Zevallos Linares| Web Applications UX/UI Design |
+|TB1|06/09/2024|Alessandro Zevallos Linares| Web Applications Prototyping |
+|TB1|06/09/2024|Maycol Jhordan Rojas Velasquez| Se hizo  Software Configuration Management.  |
+|TB1|06/09/2024|Maycol Jhordan Rojas Velasquez| Se hizo  Landing Page, Services & Applications Implementation.  |
+|TB1|06/09/2024|Maycol Jhordan Rojas Velasquez| Se hizo  Sprint 1 ,Sprint Planning 1. Sprint Backlog 1. Development Evidence for Sprint Review. Testing Suite Evidence for Sprint Review. Execution Evidence for Sprint Review. Services Documentation Evidence for Sprint Review. Software Deployment Evidence for Sprint Review. Team Collaboration Insights during Sprint. |
+|TB1|06/09/2024|Russell Stephen Romero Qwistgaard| AS - IS MAPPING, TO - BE MAPPING, Impact Mapping|
+| TB1         | 08/09/2024  | Sergio André Gómez Vallejos       |  Implementación de user story, product backlog y sprint 1 | 
 
 
 **Project Report Collaboration Insights**
@@ -210,8 +211,9 @@ Criterio: Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan 
 
 | **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
 |-------------------------|------------------------|------------------|
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta | 1.- <b>Sergio André Gómez Vallejos TB1:</b> Participé activamente en el desarrollo del documento y la landing page, colaborando con el equipo en la división de tareas y asegurando que se completaran en el plazo establecido.<br>2.-<b>Maycol Jhordan Rojas Velasquez TB1:</b> Participé activamente en el desarrollo del documento y la landing page colaborando en el tipo de colores y estilos para la web page.<br>3.-<b>Joaquín Pedraza Maldonado:</b> Participé frecuentemente en el documento y las funcionalidades de la landing page apoyando a mis compañeros a que puedan resolver problemas que se les presentaban a la hora de resolver sus partes. | La colaboración y el liderazgo conjunto permitieron una distribución eficiente de las tareas y aseguraron que se cumplieran los plazos establecidos. La participación activa de todos los miembros del equipo fue crucial para el éxito del proyecto. |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | 1.- <b>Sergio André Gómez Vallejos TB1:</b> Contribuí trabajando en equipo, enfocándome en mis tareas asignadas y apoyando a mis compañeros en sus áreas cuando fue necesario, manteniendo una actitud colaborativa para cumplir los objetivos establecidos.<br>2.-<b>Maycol Jhordan Rojas Velasquez TB1:</b> Creé diversas sub tareas para el grupo para poder cumplir a tiempo todos los entregables, haciendo un entorno más dinámico y amigable para el grupo.<br>3.-<b>Joaquín Pedraza Maldonado TB1:</b> Contribuí trabajando en equipo, realizando mis tareas asignadas y escuchando a mis compañeros para así generar un buen ambiente de trabajo como grupo. | La creación de un entorno colaborativo e inclusivo, junto con la planificación y establecimiento de metas claras, permitió al equipo cumplir con los objetivos del proyecto de manera eficiente. La división de tareas y el apoyo mutuo fueron fundamentales para el éxito del Sprint. |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | 1.- <b>Sergio André Gómez Vallejos TB1:</b> Participé activamente en el desarrollo del documento y la landing page, colaborando con el equipo en la división de tareas y asegurando que se completaran en el plazo establecido.<br>2.-<b>Maycol Jhordan Rojas Velasquez TB1:</b> Participé activamente en el desarrollo del documento y la landing page colaborando en el tipo de colores y estilos para la web page.<br>3.-<b>Joaquín Pedraza Maldonado:</b> Participé frecuentemente en el documento y las funcionalidades de la landing page apoyando a mis compañeros a que puedan resolver problemas que se les presentaban a la hora de resolver sus partes.<br>4.-<b> Alessandro Netto Zevallos Linares TB1:</b> Participé activamente en la creación del documento, asegurando una correcta coordinación y cumpliendo con los plazos establecidos.<br>5.-<b>Russell Stephen Romero Qwistgaard TB1:</b> Trabaje en coordinación con mi equipo, siempre estando atento a sus llamadas e intentando entregar mis partes a tiempo| La colaboración y el liderazgo conjunto permitieron una distribución eficiente de las tareas y aseguraron que se cumplieran los plazos establecidos. La participación activa de todos los miembros del equipo fue crucial para el éxito del proyecto. |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | 1.- <b>Sergio André Gómez Vallejos TB1:</b> Contribuí trabajando en equipo, enfocándome en mis tareas asignadas y apoyando a mis compañeros en sus áreas cuando fue necesario, manteniendo una actitud colaborativa para cumplir los objetivos establecidos.<br>2.-<b>Maycol Jhordan Rojas Velasquez TB1:</b> Creé diversas sub tareas para el grupo para poder cumplir a tiempo todos los entregables, haciendo un entorno más dinámico y amigable para el grupo.<br>3.-<b>Joaquín Pedraza Maldonado TB1:</b> Contribuí trabajando en equipo, realizando mis tareas asignadas y escuchando a mis compañeros para así generar un buen ambiente de trabajo como grupo.<br>4.-<b> Alessandro Netto Zevallos Linares TB1:</b> Me encargué realizar las tareas asignadas para que el equipo pudiera avanzar de manera eficiente y coordinada, asegurando que los objetivos del proyecto se alcanzaran en los tiempos previstos.<br>5.-<b>Russell Stephen Romero Qwistgaard TB1:</b> Impuse mi trabajo en el proyecto con perseverancia y dedicación, buscando mejorar mi desempeño con cada entrega| La creación de un entorno colaborativo e inclusivo, junto con la planificación y establecimiento de metas claras, permitió al equipo cumplir con los objetivos del proyecto de manera eficiente. La división de tareas y el apoyo mutuo fueron fundamentales para el éxito del Sprint. |
+
 
 # CAPÍTULO I: Introducción
 ## Startup Profile
@@ -731,7 +733,7 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 | **Edad:**  19 años |
 | **Procedencia:**  Lima, Ate |
 | ![Entrevista](/assets/Entrevista_web1.png)|
-| **Resumen:** Pedro Fiñei, un estudiante universitario de 19 años que reside en San Isidro, Lima, realiza la mayoría de sus reservas entre los 18 y 20 años, principalmente para salidas con amigos y eventos sociales. Prefiere hacer reservas en línea utilizando aplicaciones como Rappi y Airbnb, valorando el precio, la ubicación y las opiniones de otros usuarios. Se siente cómodo usando su smartphone para realizar reservas, pero sugiere que las plataformas deberían ofrecer más opciones de personalización, recordatorios automáticos, y ser más transparentes con las tarifas adicionales. También considera importante recibir notificaciones y la posibilidad de comunicarse directamente con los proveedores a través de la plataforma. |
+| **Resumen:** Pedro Fiñei, un estudiante universitario de 19 años que reside en San Isidro, Lima, realiza la mayoría de sus reservas entre los 18 y 20 años, principalmente para salidas con amigos y eventos sociales. Prefiere hacer reservas en línea utilizando aplicaciones como  Airbnb, valorando el precio, la ubicación y las opiniones de otros usuarios. Se siente cómodo usando su smartphone para realizar reservas, pero sugiere que las plataformas deberían ofrecer más opciones de personalización, recordatorios automáticos, y ser más transparentes con las tarifas adicionales. También considera importante recibir notificaciones y la posibilidad de comunicarse directamente con los proveedores a través de la plataforma. |
 
 
 #### Entrevista 2
@@ -784,14 +786,14 @@ Después de llevar a cabo y describir los registros de los entrevistados, esta s
 ### Segmento 1: Huéspedes
 
 1. **Tipo de Reserva y Preferencias**
-   - **Tipo de Reserva:** El 70% de los huéspedes prefieren realizar reservas en línea utilizando plataformas como Rappi, Airbnb y Booking.
+   - **Tipo de Reserva:** El 70% de los huéspedes prefieren realizar reservas en línea utilizando plataformas como Airbnb y Booking.
    - **Preferencias:** Valoran principalmente el precio, la ubicación y las opiniones de otros usuarios. La comodidad del smartphone para hacer reservas es una ventaja clave.
 
 2. **Prioridades al Reservar**
    - **Principales Prioridades:** Según el 90%, los huéspedes buscan precios competitivos, ubicaciones convenientes y transparencia en las tarifas adicionales. También valoran la posibilidad de recibir notificaciones y tener opciones de personalización.
 
 3. **Herramientas Actuales**
-   - **Herramientas Utilizadas:** El 60% usa plataformas en línea como Rappi y Airbnb, mientras que el 40% utiliza aplicaciones como Booking para gestionar sus reservas.
+   - **Herramientas Utilizadas:** El 60% usa plataformas en línea como Airbnb, mientras que el 40% utiliza aplicaciones como Booking para gestionar sus reservas.
 
 4. **Características Deseadas en la Aplicación**
    - **Características Deseadas:** El 60% de los usuarios desean opciones avanzadas de personalización, recordatorios automáticos y mayor transparencia en tarifas. También consideran importante la integración de chat en vivo y recomendaciones basadas en inteligencia artificial.
@@ -858,8 +860,15 @@ Después de llevar a cabo y describir los registros de los entrevistados, esta s
 ![Huesped journey map 1](https://github.com/user-attachments/assets/b86de9fa-6d10-425d-81db-89e3a6dc1742)
 
 #### Empresas Hoteleras
+![Hotel journey map](/assets/Hoteles-journey-map.png)
 
 ### As-is Scenario Mapping
+#### Empresas Hoteleras:
+![image](/assets/AS-IS_MAPPING-EMPRESAS_HOTELERAS_1.png)
+![image](/assets/AS-IS_MAPPING-EMPRESAS_HOTELERAS_2.png)
+#### Huéspedes:
+![image](/assets/AS-IS_MAPPING-HUESPEDES_1.png)
+![image](/assets/AS-IS_MAPPING-HUESPEDES_2.png)
 
 ## Ubiquitous Language
 
@@ -883,10 +892,12 @@ Después de llevar a cabo y describir los registros de los entrevistados, esta s
 
 # Capítulo III: Requirements Specification
 ## 3.1 To-Be Scenario Mapping
-#### Huespedes
-
 #### Empresas Hoteleras
-
+![image](/assets/TO-BE_MAPPING-EMPRESAS_HOTELERAS_1.png)
+![image](/assets/TO-BE_MAPPING-EMPRESAS_HOTELERAS_2.png)
+#### Huéspedes:
+![image](/assets/TO-BE_MAPPING-HUESPEDES_1.png)
+![image](/assets/TO-BE_MAPPING-HUESPEDES_2.png)
 ## User Stories
 Las User Stories son una herramienta fundamental para definir los requisitos del proyecto. Cada User Story incluye criterios de aceptación que deben ser comprobables y redactados en tiempo presente, tercera persona, siguiendo la estructura de Gherkin (Given-When-Then). Además, se consideran User Stories para el sitio web estático (Landing Page) y Technical Stories para los features del RESTful API.
 
@@ -929,6 +940,7 @@ Las User Stories son una herramienta fundamental para definir los requisitos del
 | US027               | Eliminar Eventos                        | Como usuario, quiero poder eliminar eventos del calendario para mantener mi agenda actualizada.       | **Escenario 1:** Dado que un usuario accede a la página de calendario, cuando selecciona un evento existente, entonces debe ver una opción para eliminar el evento.<br> **Escenario 2:** Dado que un usuario confirma la eliminación de un evento, cuando lo hace, entonces el evento debe ser eliminado del calendario y ya no debe ser visible en la vista del calendario.<br> **Escenario 3:** Dado que un usuario intenta eliminar un evento sin permisos adecuados, cuando lo hace, entonces debe recibir un mensaje de error indicando que no tiene permisos para eliminar el evento. | EPIC007                      |
 | EPIC008             | Página de Inicio                        | Como visitante, quiero poder acceder a la página de inicio para obtener una visión general de la aplicación. | N/A                                                                                                                                                                           | N/A                           |
 | US028               | Acceso a la Página de Inicio            | Como visitante, quiero poder acceder a la página de inicio para obtener información clara sobre la aplicación. | **Escenario 1:** Dado que un visitante accede al sitio web, cuando hace clic en el enlace "Inicio", entonces debe ser dirigido a la página de inicio.<br> **Escenario 2:** Dado que un visitante está en la página de inicio, cuando lo hace, entonces debe ver información clara y concisa sobre la aplicación.<br> **Escenario 3:** Dado que un visitante intenta acceder a la página de inicio desde un enlace roto, cuando lo hace, entonces debe recibir un mensaje de error indicando que la página no está disponible. | EPIC008 |
+| US029| Incluir el cambio de idioma (I18n) | Como visitante, quiero que la aplicación soporte los idiomas español e inglés para poder utilizarla en mi idioma preferido.                               | **Escenario 1:** Dado que un usuario accede a la página de inicio, cuando selecciona español o inglés de la lista de opciones, entonces el contenido de la página debe cambiar automáticamente al idioma seleccionado.<br> **Escenario 2:** Dado que un usuario accede a la aplicación por primera vez, cuando lo hace, entonces debe ver la opción de seleccionar español o inglés como idioma preferido.<br> **Escenario 3:** Dado que un usuario selecciona un idioma que no está soportado, cuando lo hace, entonces debe recibir un mensaje de error indicando que el idioma no está disponible. | EPIC008 |
 
 ## Technical Stories for RESTful API Features
 
@@ -955,6 +967,10 @@ Requisitos definidos junto con el conjunto de User Stories y Epics para los requ
 | TS038               | Obtener Personal                        | Como desarrollador, quiero crear un endpoint para obtener la lista de empleados registrados.          | **Escenario 1:** Dado que un desarrollador envía una solicitud GET a `/api/staff`, cuando la solicitud es válida, entonces el sistema debe devolver una lista de empleados y un código de estado 200.<br> **Escenario 2:** Dado que un desarrollador envía una solicitud GET a `/api/staff`, cuando no hay empleados registrados, entonces el sistema debe devolver una lista vacía y un código de estado 200. | EPIC013                      |
 
 ## 3.3 Impact Mapping
+#### Empresas Hoteleras:
+![image](/assets/Impact_map_Empresas_Hoteleras.png)
+#### Huéspedes:
+![image](/assets/Impact_map_Huespedes.png)
 ## 3.4 Product Backlog
 
 | **Orden** | **User Story** | **Título**                              | **Descripción**                                                                                                                                                                                            | **Story Points** |
@@ -986,7 +1002,8 @@ Requisitos definidos junto con el conjunto de User Stories y Epics para los requ
 | 25        | US025          | Agregar Eventos al Calendario           | Como usuario, quiero poder agregar eventos al calendario para planificar mis actividades.             | 3               |
 | 26        | US026          | Editar Eventos                          | Como usuario, quiero poder editar eventos en el calendario para actualizar la información de mis actividades. | 2               |
 | 27        | US027          | Eliminar Eventos                        | Como usuario, quiero poder eliminar eventos del calendario para mantener mi agenda actualizada.       | 3               |
-| 28        | US028          | Acceso a la Página de Inicio            | Como visitante, quiero poder acceder a la página de inicio para obtener información clara sobre la aplicación. | 2                |
+| 28        | US028          | Acceso a la Página de Inicio            | Como visitante, quiero poder acceder a la página de inicio para obtener información clara sobre la aplicación. | 2                | 
+|29        | US029          | Incluir el cambio de idioma (I18n)            | Como visitante, quiero que la aplicación soporte los idiomas español e inglés para poder utilizarla en mi idioma preferido. | 2                |
 
 
 
@@ -1332,9 +1349,12 @@ User Goal 8: Enviar una notificación al personal <br>
 ![WebApplicationsUserDiagram5](/assets/WebApplicationsUserDiagram5.PNG)
 ### Web Applications Prototyping
 ![PrototypeDesktop](/assets/PrototypeDesktop.PNG) <br>
-[Prototype Desktop Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216035_upc_edu_pe/EZKwDgE2b5BInXQA0C8ijZEB4kZaJLE6x_Xuq7fkeph8WA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=PhGVZ9) <br>
 ![PrototypeMobile](/assets/PrototypeMobile.PNG) <br>
-[Prototype Mobile Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216035_upc_edu_pe/EeJf2XgJW2JAsXFWZ_0UOrgBlizX862fVw5mXH_YAoXDNQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=37tJZ3) <br>
+| Tipo de Video                 | Enlace                                                                                                  |
+|-------------------------------|---------------------------------------------------------------------------------------------------------|
+| Prototype Desktop Video       | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216035_upc_edu_pe/EZKwDgE2b5BInXQA0C8ijZEB4kZaJLE6x_Xuq7fkeph8WA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=PhGVZ9 |
+| Prototype Mobile Video        | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216035_upc_edu_pe/EeJf2XgJW2JAsXFWZ_0UOrgBlizX862fVw5mXH_YAoXDNQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=37tJZ3 |
+
 ## Domain-Driven Software Architecture
 Los diseños C4 son una forma efectiva de representar la arquitectura de un sistema de software de manera clara y concisa. En el caso del proyecto King Reserve, los diseños C4 nos permiten visualizar la estructura y las interacciones entre los diferentes componentes del sistema. 
 
@@ -1349,17 +1369,9 @@ Estos diseños proporcionan una visión clara de la arquitectura del sistema, lo
 ![KingReserve-diagram-components](/assets/Components-Diagrams.png)
 
 ## Software Object-Oriented Design
-
-El diseño orientado a objetos (OOD) es una metodología de diseño de software que utiliza "objetos" para representar datos y métodos. Estos objetos son instancias de clases, que definen las propiedades y comportamientos que los objetos pueden tener. El enfoque orientado a objetos facilita la creación de sistemas de software modular, reutilizable y fácil de mantener.
-
-En el contexto del proyecto King Reserve, hemos aplicado principios de diseño orientado a objetos para estructurar y organizar el código de manera eficiente. Esto nos ha permitido desarrollar una Landing Page robusta y escalable, así como los servicios web asociados. Al utilizar OOD, hemos podido dividir el sistema en componentes más pequeños y manejables, cada uno con responsabilidades claramente definidas. Esto no solo mejora la legibilidad y mantenibilidad del código, sino que también facilita la colaboración entre los miembros del equipo.
-
-
-### Class Diagrams
-
-![KingReserve-diagram-class](/assets/classdiagramas%20.jpg)
+### Class Diagram
+![image](./assets/Class_Diagram.jpeg)
 ### Class Dictionary
-
 
 ## Database Design
 
@@ -1658,6 +1670,15 @@ Se realizaron actividades de creación de artefactos antes y después de la impl
     <td>Rojas Velasquez, Maycol Jhordan</td>
     <td>Done</td>
  </tr>
+     <tr>
+    <td>US010</td>
+    <td>Incluir Internacionalización (i18n)</td>
+    <td>T10</td>
+    <td>Implementar el cambio de idioma</td>
+    <td>2</td>
+    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Done</td>
+ </tr>
 </table>
 
 ## Development Evidence for Sprint Review
@@ -1836,7 +1857,9 @@ El equipo ha trabajado de manera efectiva y colaborativa durante este Sprint, as
 2. Naming Conventions for java (2024) Recuperado de: https://www.oracle.com/java/technologies/javase/codeconventions-namingconventions.html#:~:text=Except%20for%20variables%2C%20all%20instance,should%20be%20short%20yet%20meaningful.
 
 ## Anexos
-**Link de las Entrsvistas:** ![Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221d401_upc_edu_pe/EUv9OiiAZgtKgkO9fzCMedUBkaxSq29Emvi84Fn6uYdO3A?e=jC6bjZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
+
 **Enlaces**
 
 </center>
@@ -1844,5 +1867,5 @@ El equipo ha trabajado de manera efectiva y colaborativa durante este Sprint, as
  |Segmento del trabajo|Link de repositorio|
 |---------|---------|
 | LandingPage (Anexo A)    | https://kingreserve.netlify.app/ |
-| Diagramas de clases (Anexo B)   |    |
-| Diagramas de base de datos (Anexo C)   |    |
+| Diagramas de clases (Anexo B)   |  https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221d401_upc_edu_pe/EUv9OiiAZgtKgkO9fzCMedUBkaxSq29Emvi84Fn6uYdO3A?e=jC6bjZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D  |
+| Diagramas de base de datos (Anexo C)   | https://my.vertabelo.com/doc/GeHrKz6hgPvFhSH4XkuEu95kq78E4Eab   |
