@@ -860,6 +860,7 @@ Después de llevar a cabo y describir los registros de los entrevistados, esta s
 ![Huesped journey map 1](https://github.com/user-attachments/assets/b86de9fa-6d10-425d-81db-89e3a6dc1742)
 
 #### Empresas Hoteleras
+![Hotel journey map](/assets/Hoteles-journey-map.png)
 
 ### As-is Scenario Mapping
 #### Empresas Hoteleras:
