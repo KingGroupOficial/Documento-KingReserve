@@ -1369,10 +1369,26 @@ Estos diseños proporcionan una visión clara de la arquitectura del sistema, lo
 ![KingReserve-diagram-components](/assets/Components-Diagrams.png)
 
 ## Software Object-Oriented Design
-### Class Diagram
+### Class Diagrams
 ![image](./assets/Class_Diagram.jpeg)
 ### Class Dictionary
+Service: Contiene los atributos StatusService, description, DateStart, DateEnd y price. Los métodos asociados permiten iniciar (initService), finalizar (endService), cancelar (cancelService), y cambiar el estado (changeStatus) de un servicio. Está relacionada con la clase Order, indicando que los servicios pueden estar vinculados a órdenes, y con la clase Controlador, que gestiona los servicios.
 
+Reservation: Incluye los atributos reservationID, reservationDate, tableID, numberOfPeople, y tableID. Los métodos asociados son createReservation para crear una reserva, cancelReservation para cancelarla, y updateReservation para actualizarla. Está relacionada con la clase Customer, ya que los clientes pueden hacer y gestionar reservas, y con la clase Worker, que puede administrar las reservas.
+
+Notification: Contiene los atributos id, price, type y status. El método CreateMessage permite crear un mensaje de notificación. Está vinculada con la clase Controlador, sugiriendo que las notificaciones son manejadas centralmente.
+
+PaymentMethod: Sus atributos son paymentID, amount y paymentDate. Su método processPayment permite procesar un pago. Está relacionada con la clase Customer, indicando que los métodos de pago están asociados a los clientes y a las reservas que ellos realizan.
+
+Suscription: Incluye los atributos id, price, type y status. Aunque no tiene métodos explícitos, está relacionada con la clase User, sugiriendo que los usuarios pueden tener suscripciones dentro del sistema.
+
+User: Tiene los atributos id, name, password, username, orderList, email, y role. Los métodos asociados son login para iniciar sesión, logout para cerrar sesión y checkReservation para revisar las reservas del usuario. Está vinculada con las clases Reservation y Order, lo que indica que los usuarios pueden hacer y gestionar reservas y órdenes.
+
+Customer: Sus atributos incluyen paymentMethod y reservationList. Los métodos son register para registrarse, placeReserve para realizar una reserva, y cancelReservation para cancelar una reserva. Está relacionada con las clases Reservation y PaymentMethod, lo que indica que los clientes pueden gestionar tanto las reservas como los métodos de pago.
+
+Worker: Los atributos de esta clase son position. Los métodos asociados incluyen manageReserve para gestionar órdenes y reservas. Está vinculada con las clases Order y Reservation, sugiriendo que los trabajadores son responsables de gestionar las reservas y servicios.
+
+Controlador: Contiene los atributos service, orderList, y users. Los métodos asociados son manageReserve para gestionar órdenes, manageService para gestionar servicios, assignOrderToWorker para asignar órdenes a trabajadores, y DeliverMessage para entregar mensajes. Está vinculado con las clases Service, Order, y Worker, indicando que este controlador gestiona el flujo general de órdenes, servicios y asignación de trabajadores.
 ## Database Design
 
 La base de datos de King Reserve es un componente crucial del sistema, responsable de almacenar y gestionar todos los datos relacionados con reservas, huéspedes, habitaciones y otra información esencial. Diseñada con escalabilidad y rendimiento en mente, la base de datos garantiza la recuperación y manipulación eficiente de datos, brindando una experiencia fluida tanto para los huéspedes como para el personal del hotel.
