@@ -1670,7 +1670,7 @@ Se realizaron actividades de creación de artefactos antes y después de la impl
     <td>T10</td>
     <td>Implementar el cambio de idioma</td>
     <td>2</td>
-    <td>Gómez Vallejos, Sergio André</td>
+    <td>Rojas Velasquez, Maycol Jhordan</td>
     <td>Done</td>
  </tr>
 </table>
