@@ -1408,6 +1408,18 @@ Para garantizar la integridad y consistencia de los datos, se implementan restri
 Además, el diseño de la base de datos incorpora medidas de seguridad para proteger la información confidencial. Se implementan controles de acceso, cifrado y mecanismos de autenticación adecuados para proteger los datos de los huéspedes y del hotel contra accesos no autorizados.
 
 Con una base de datos robusta y bien estructurada, King Reserve puede gestionar eficientemente las reservas, proporcionar información precisa de disponibilidad y ofrecer una experiencia fluida a sus huéspedes. La base de datos sirve como el soporte del sistema, respaldando el funcionamiento sin problemas de los procesos de gestión hotelera.
+
+| Clase | Atributos | Métodos | Relaciones |
+|-------|-----------|---------|------------|
+| Service | StatusService, description, DateStart, DateEnd, price | initService, endService, cancelService, changeStatus | Order, Controlador |
+| Reservation | reservationID, reservationDate, tableID, numberOfPeople, tableID | createReservation, cancelReservation, updateReservation | Customer, Worker |
+| Notification | id, price, type, status | CreateMessage | Controlador |
+| PaymentMethod | paymentID, amount, paymentDate | processPayment | Customer, Reservation |
+| Suscription | id, price, type, status | | User |
+| User | id, name, password, username, orderList, email, role | login, logout, checkReservation | Reservation, Order |
+| Customer | paymentMethod, reservationList | register, placeReserve, cancelReservation | Reservation, PaymentMethod |
+| Worker | position | manageReserve | Order, Reservation |
+| Controlador | service, orderList, users | manageReserve, manageService, assignOrderToWorker, DeliverMessage | Service, Order, Worker |
 ### Diagrama de la Base de Datos
 ![KingReserve-diagram](/assets/KingReserve-diagram.png)
 
