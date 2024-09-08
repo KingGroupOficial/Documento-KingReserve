@@ -1781,10 +1781,10 @@ Durante este Sprint, se han alcanzado varios hitos importantes en la implementac
 
 Para una demostración completa de la visualización y navegación logradas en este Sprint, por favor vea el siguiente video:
 
-|Nombre|Link|
-|--------------------|------------|
-|Video de Demostración | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219984_upc_edu_pe/EVt0Nx5B_7tCvOJOQPutx4MB3DofKynew2_pIgkDRkttSg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Qbz30y |
 
+| Nombre               | Link                                                                                           |
+|----------------------|------------------------------------------------------------------------------------------------|
+| Video de Demostración | [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219984_upc_edu_pe/EVt0Nx5B_7tCvOJOQPutx4MB3DofKynew2_pIgkDRkttSg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Qbz30y](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219984_upc_edu_pe/EVt0Nx5B_7tCvOJOQPutx4MB3DofKynew2_pIgkDRkttSg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Qbz30y) |
 
 
 
