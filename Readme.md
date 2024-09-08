@@ -862,6 +862,14 @@ Después de llevar a cabo y describir los registros de los entrevistados, esta s
 #### Empresas Hoteleras
 ![Hotel journey map](/assets/Hoteles-journey-map.png)
 
+### Empathy Mapping
+
+#### Huesped
+![Huesped empathy map](/assets/Empathy-map-Huesped.png)
+
+#### Empresas Hoteleras
+![Hotel empathy map](/assets/Empathy-map-Hoteles.png)
+
 ### As-is Scenario Mapping
 #### Empresas Hoteleras:
 ![image](/assets/AS-IS_MAPPING-EMPRESAS_HOTELERAS_1.png)
