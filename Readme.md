@@ -1348,6 +1348,19 @@ Estos diseños proporcionan una visión clara de la arquitectura del sistema, lo
 ### Software Architecture Components Diagrams
 ![KingReserve-diagram-components](/assets/Components-Diagrams.png)
 
+## Software Object-Oriented Design
+
+El diseño orientado a objetos (OOD) es una metodología de diseño de software que utiliza "objetos" para representar datos y métodos. Estos objetos son instancias de clases, que definen las propiedades y comportamientos que los objetos pueden tener. El enfoque orientado a objetos facilita la creación de sistemas de software modular, reutilizable y fácil de mantener.
+
+En el contexto del proyecto King Reserve, hemos aplicado principios de diseño orientado a objetos para estructurar y organizar el código de manera eficiente. Esto nos ha permitido desarrollar una Landing Page robusta y escalable, así como los servicios web asociados. Al utilizar OOD, hemos podido dividir el sistema en componentes más pequeños y manejables, cada uno con responsabilidades claramente definidas. Esto no solo mejora la legibilidad y mantenibilidad del código, sino que también facilita la colaboración entre los miembros del equipo.
+
+
+### Class Diagrams
+
+![KingReserve-diagram-class](/assets/classdiagramas%20.jpg)
+### Class Dictionary
+
+
 ## Database Design
 
 La base de datos de King Reserve es un componente crucial del sistema, responsable de almacenar y gestionar todos los datos relacionados con reservas, huéspedes, habitaciones y otra información esencial. Diseñada con escalabilidad y rendimiento en mente, la base de datos garantiza la recuperación y manipulación eficiente de datos, brindando una experiencia fluida tanto para los huéspedes como para el personal del hotel.
