@@ -1397,17 +1397,6 @@ Customer: Sus atributos incluyen paymentMethod y reservationList. Los métodos s
 Worker: Los atributos de esta clase son position. Los métodos asociados incluyen manageReserve para gestionar órdenes y reservas. Está vinculada con las clases Order y Reservation, sugiriendo que los trabajadores son responsables de gestionar las reservas y servicios.
 
 Controlador: Contiene los atributos service, orderList, y users. Los métodos asociados son manageReserve para gestionar órdenes, manageService para gestionar servicios, assignOrderToWorker para asignar órdenes a trabajadores, y DeliverMessage para entregar mensajes. Está vinculado con las clases Service, Order, y Worker, indicando que este controlador gestiona el flujo general de órdenes, servicios y asignación de trabajadores.
-## Database Design
-
-La base de datos de King Reserve es un componente crucial del sistema, responsable de almacenar y gestionar todos los datos relacionados con reservas, huéspedes, habitaciones y otra información esencial. Diseñada con escalabilidad y rendimiento en mente, la base de datos garantiza la recuperación y manipulación eficiente de datos, brindando una experiencia fluida tanto para los huéspedes como para el personal del hotel.
-
-El esquema de la base de datos está cuidadosamente diseñado para capturar las entidades necesarias y sus relaciones, permitiendo una representación precisa de las operaciones del hotel. Tablas como "Reservas", "Huéspedes" y "Habitaciones" almacenan información relevante, mientras que tablas adicionales manejan datos auxiliares como comodidades, promociones y disponibilidad.
-
-Para garantizar la integridad y consistencia de los datos, se implementan restricciones e índices adecuados. Las restricciones de clave primaria y clave externa mantienen la integridad referencial, mientras que las restricciones únicas evitan entradas duplicadas. Los índices optimizan el rendimiento de las consultas, permitiendo una recuperación rápida de datos incluso en conjuntos de datos grandes.
-
-Además, el diseño de la base de datos incorpora medidas de seguridad para proteger la información confidencial. Se implementan controles de acceso, cifrado y mecanismos de autenticación adecuados para proteger los datos de los huéspedes y del hotel contra accesos no autorizados.
-
-Con una base de datos robusta y bien estructurada, King Reserve puede gestionar eficientemente las reservas, proporcionar información precisa de disponibilidad y ofrecer una experiencia fluida a sus huéspedes. La base de datos sirve como el soporte del sistema, respaldando el funcionamiento sin problemas de los procesos de gestión hotelera.
 
 | Clase | Atributos | Métodos | Relaciones |
 |-------|-----------|---------|------------|
@@ -1420,6 +1409,19 @@ Con una base de datos robusta y bien estructurada, King Reserve puede gestionar 
 | Customer | paymentMethod, reservationList | register, placeReserve, cancelReservation | Reservation, PaymentMethod |
 | Worker | position | manageReserve | Order, Reservation |
 | Controlador | service, orderList, users | manageReserve, manageService, assignOrderToWorker, DeliverMessage | Service, Order, Worker |
+
+## Database Design
+
+La base de datos de King Reserve es un componente crucial del sistema, responsable de almacenar y gestionar todos los datos relacionados con reservas, huéspedes, habitaciones y otra información esencial. Diseñada con escalabilidad y rendimiento en mente, la base de datos garantiza la recuperación y manipulación eficiente de datos, brindando una experiencia fluida tanto para los huéspedes como para el personal del hotel.
+
+El esquema de la base de datos está cuidadosamente diseñado para capturar las entidades necesarias y sus relaciones, permitiendo una representación precisa de las operaciones del hotel. Tablas como "Reservas", "Huéspedes" y "Habitaciones" almacenan información relevante, mientras que tablas adicionales manejan datos auxiliares como comodidades, promociones y disponibilidad.
+
+Para garantizar la integridad y consistencia de los datos, se implementan restricciones e índices adecuados. Las restricciones de clave primaria y clave externa mantienen la integridad referencial, mientras que las restricciones únicas evitan entradas duplicadas. Los índices optimizan el rendimiento de las consultas, permitiendo una recuperación rápida de datos incluso en conjuntos de datos grandes.
+
+Además, el diseño de la base de datos incorpora medidas de seguridad para proteger la información confidencial. Se implementan controles de acceso, cifrado y mecanismos de autenticación adecuados para proteger los datos de los huéspedes y del hotel contra accesos no autorizados.
+
+Con una base de datos robusta y bien estructurada, King Reserve puede gestionar eficientemente las reservas, proporcionar información precisa de disponibilidad y ofrecer una experiencia fluida a sus huéspedes. La base de datos sirve como el soporte del sistema, respaldando el funcionamiento sin problemas de los procesos de gestión hotelera.
+
 ### Diagrama de la Base de Datos
 ![KingReserve-diagram](/assets/KingReserve-diagram.png)
 
