@@ -1370,7 +1370,7 @@ Estos diseños proporcionan una visión clara de la arquitectura del sistema, lo
 
 ## Software Object-Oriented Design
 ### Class Diagram
-![image](.assets/assets/Class_Diagram.jpeg)
+![image](./assets/Class_Diagram.jpeg)
 ### Class Dictionary
 
 ## Database Design
