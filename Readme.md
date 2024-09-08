@@ -246,7 +246,7 @@ Nos esforzamos por proporcionar una plataforma que conecte a los hoteles con her
 | Integrante | Descripción |
 | ---- | --- |
 | ![Sergio](https://hackmd.io/_uploads/SkU_5d9cR.png) | Sergio André Gómez Vallejos – Ingeniería de Software – u20221d401 <br> Soy una persona resiliente que, sin importar cuántas veces caiga, siempre encuentra la manera de levantarse. Tengo habilidades sociales sólidas y una amplia experiencia en la resolución de problemas de código. Suelo ser el miembro más activo de mi equipo de trabajo. Me apasionan los lenguajes de programación y la tecnología, y constantemente me esfuerzo por alcanzar mis objetivos y contribuir al desarrollo del startup. |
-| ![image](assets/Joaquin.png) |Joaquín Andree Pedraza Maldonado <br> Mi nombre es Joaquín Andreé Pedraza Maldonado , tengo 20 años y actualmente me encuentro en 6to ciclo de la carrera de Ingeniería de Software , en la UPC , sede San Miguel. Al terminar mi carrera desearía dedicarme al rubro de desarrollo Web o cyberseguridad.Soy una persona centrada , perseverante , tranquila  , optimista y efectiva.|
+| ![Joaquin](https://hackmd.io/_uploads/HyMWstsh0.png) |Joaquín Andree Pedraza Maldonado <br> Mi nombre es Joaquín Andreé Pedraza Maldonado , tengo 20 años y actualmente me encuentro en 6to ciclo de la carrera de Ingeniería de Software , en la UPC , sede San Miguel. Al terminar mi carrera desearía dedicarme al rubro de desarrollo Web o cyberseguridad.Soy una persona centrada , perseverante , tranquila  , optimista y efectiva.|
 |<img src="https://hackmd.io/_uploads/B1F_iuso0.jpg" alt="yo-3" style="width: 600px ; height: 200px;">|Maycol Jhordan Rojas Velasquez – Ingeniería de Software – u202219984<br>Elegí la carrera de Ingeniería de Software debido a mi gusto por la innovación y la implementación de la tecnología en cualquier rubro  social, de una manera creativa y en todos los aspectos. Me considero una persona creativa, en busca de ideas, estrategias con mente nueva. También me gusta escuchar ideas de mi equipo, dar ideas de mejora, evaluar las ventajas y desventajas . Además, tengo conocimientos de programación en C + +, HTML, Python,Angular,Backend en Java. Además, Tengo un enfoque responsable y dedicado mediante un aprendizaje rápido así puedo ayudar a mis compañeros en sus dudas. Por otro lado, mis hobbies son ver series, jugar , escuchar música, nadar y  manejar.|
 | ![Captura de pantalla 2024-08-15 121605](https://hackmd.io/_uploads/ByWzO2icC.png)| Russell Stephen Romero Qwistgaard - Ingeniería de Software - U202211043 <br> Tengo 19 y estudió la carrera de ingeniería de software, actualmente en el 6 ciclo de esta. Me apasiona crear programas en entornos distintos para poder ampliar mi conocimiento en las muchas áreas que dependen de mi formación. Estoy dispuesto a cooperar y ser puntual en mis trabajos individuales y grupales. |
 | ![Alessandro](https://hackmd.io/_uploads/BJgim4unA.jpg) | Alessandro Zevallos Linares - Ingeniería de Software - U202216035 <br>Soy estudiante de Ingeniería de Software con un fuerte interés en el desarrollo de productos digitales y la tecnología. En mi tiempo libre, me gusta jugar videojuegos. También tengo un interés especial en la música, lo que me ayuda a equilibrar mi vida académica y personal. Cuento con habilidades en gestión de bases de datos. Además, tengo experiencia en análisis de datos, lo que me ayuda a tomar decisiones informadas y crear soluciones efectivas. |
@@ -732,7 +732,7 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 | **Minuto del video:**  00:00 |
 | **Edad:**  19 años |
 | **Procedencia:**  Lima, Ate |
-| ![Entrevista](/assets/Entrevista_web1.png)|
+| ![Entrevista_web1](https://hackmd.io/_uploads/SkOhjFshR.png)|
 | **Resumen:** Pedro Fiñei, un estudiante universitario de 19 años que reside en San Isidro, Lima, realiza la mayoría de sus reservas entre los 18 y 20 años, principalmente para salidas con amigos y eventos sociales. Prefiere hacer reservas en línea utilizando aplicaciones como  Airbnb, valorando el precio, la ubicación y las opiniones de otros usuarios. Se siente cómodo usando su smartphone para realizar reservas, pero sugiere que las plataformas deberían ofrecer más opciones de personalización, recordatorios automáticos, y ser más transparentes con las tarifas adicionales. También considera importante recibir notificaciones y la posibilidad de comunicarse directamente con los proveedores a través de la plataforma. |
 
 
@@ -743,7 +743,7 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 | **Minuto del video:**  04:41 |
 | **Edad:**  20 años |
 | **Procedencia:**  Lima, Lima |
-| ![Entrevista](/assets/Entrevista_web2.png)|
+| ![Entrevista_web2](https://hackmd.io/_uploads/r1uhiKon0.png)|
 | **Resumen:** Ramiro Guzmán, con 20 años, valora la conveniencia y calidad en sus reservas. Prefiere utilizar plataformas en línea por su accesibilidad y rapidez, y aprecia la transparencia en la información y las reseñas. Su ocupación y presupuesto afectan su frecuencia de reservas, y aunque prefiere hacer reservas cerca de su residencia, está dispuesto a viajar por experiencias únicas. Desea mejoras tecnológicas como chat en vivo y recomendaciones personalizadas para optimizar su experiencia de reserva. |
 
 #### Entrevista 3
@@ -865,18 +865,18 @@ Después de llevar a cabo y describir los registros de los entrevistados, esta s
 ### Empathy Mapping
 
 #### Huesped
-![Huesped empathy map](/assets/Empathy-map-Huesped.png)
+![Empathy-map-Huesped](https://hackmd.io/_uploads/r1O2oFs3C.png)
 
 #### Empresas Hoteleras
-![Hotel empathy map](/assets/Empathy-map-Hoteles.png)
+![Empathy-map-Hoteles](https://hackmd.io/_uploads/B1gOnsKinR.png)
 
 ### As-is Scenario Mapping
 #### Empresas Hoteleras:
-![image](/assets/AS-IS_MAPPING-EMPRESAS_HOTELERAS_1.png)
-![image](/assets/AS-IS_MAPPING-EMPRESAS_HOTELERAS_2.png)
+![AS-IS_MAPPING-EMPRESAS_HOTELERAS_1](https://hackmd.io/_uploads/Byld2oto2C.png)
+![AS-IS_MAPPING-EMPRESAS_HOTELERAS_2](https://hackmd.io/_uploads/Byl_hsYin0.png)
 #### Huéspedes:
-![image](/assets/AS-IS_MAPPING-HUESPEDES_1.png)
-![image](/assets/AS-IS_MAPPING-HUESPEDES_2.png)
+![AS-IS_MAPPING-HUESPEDES_1](https://hackmd.io/_uploads/r1-OnjYihR.png)
+![AS-IS_MAPPING-HUESPEDES_2](https://hackmd.io/_uploads/SJb_2iYonR.png)
 
 ## Ubiquitous Language
 
@@ -976,9 +976,9 @@ Requisitos definidos junto con el conjunto de User Stories y Epics para los requ
 
 ## 3.3 Impact Mapping
 #### Empresas Hoteleras:
-![image](/assets/Impact_map_Empresas_Hoteleras.png)
+![Impact_map_Empresas_Hoteleras](https://hackmd.io/_uploads/BJDhjYihA.png)
 #### Huéspedes:
-![image](/assets/Impact_map_Huespedes.png)
+![Impact_map_Huespedes](https://hackmd.io/_uploads/Byv3jYs3C.png)
 ## 3.4 Product Backlog
 
 | **Orden** | **User Story** | **Título**                              | **Descripción**                                                                                                                                                                                            | **Story Points** |
@@ -1370,15 +1370,15 @@ En el nivel más alto, el diseño C4 nos muestra el contexto del sistema, identi
 
 Estos diseños proporcionan una visión clara de la arquitectura del sistema, lo que facilita la comunicación entre los miembros del equipo y ayuda a identificar posibles problemas o mejoras. Al utilizar los diseños C4 en el proyecto King Reserve, podemos asegurarnos de que todos los involucrados tengan una comprensión común de la arquitectura y puedan colaborar de manera efectiva en su implementación y evolución. 
 ### Software Architecture Context Diagram
-![KingReserve-diagram-context](/assets/Context-Diagram.png)
+![Context-Diagram](https://hackmd.io/_uploads/Bkd2sYs3A.png)
 ### Software Architecture Container Diagrams
-![KingReserve-diagram-containers](/assets/Container-Diagrams.png)
+![Container-Diagrams](https://hackmd.io/_uploads/rygdhiFi2A.png)
 ### Software Architecture Components Diagrams
-![KingReserve-diagram-components](/assets/Components-Diagrams.png)
+![Components-Diagrams](https://hackmd.io/_uploads/rJ-_hito3C.png)
 
 ## Software Object-Oriented Design
 ### Class Diagrams
-![image](./assets/Class_Diagram.jpeg)
+![Class_Diagram](https://hackmd.io/_uploads/Byf-jFs2R.jpg)
 ### Class Dictionary
 Service: Contiene los atributos StatusService, description, DateStart, DateEnd y price. Los métodos asociados permiten iniciar (initService), finalizar (endService), cancelar (cancelService), y cambiar el estado (changeStatus) de un servicio. Está relacionada con la clase Order, indicando que los servicios pueden estar vinculados a órdenes, y con la clase Controlador, que gestiona los servicios.
 
