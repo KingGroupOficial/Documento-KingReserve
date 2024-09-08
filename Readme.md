@@ -1368,6 +1368,11 @@ Estos diseños proporcionan una visión clara de la arquitectura del sistema, lo
 ### Software Architecture Components Diagrams
 ![KingReserve-diagram-components](/assets/Components-Diagrams.png)
 
+## Software Object-Oriented Design
+### Class Diagram
+![image](.assets/assets/Class_Diagram.jpeg)
+### Class Dictionary
+
 ## Database Design
 
 La base de datos de King Reserve es un componente crucial del sistema, responsable de almacenar y gestionar todos los datos relacionados con reservas, huéspedes, habitaciones y otra información esencial. Diseñada con escalabilidad y rendimiento en mente, la base de datos garantiza la recuperación y manipulación eficiente de datos, brindando una experiencia fluida tanto para los huéspedes como para el personal del hotel.
