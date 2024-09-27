@@ -246,7 +246,7 @@ Nos esforzamos por proporcionar una plataforma que conecte a los hoteles con her
 | Integrante | Descripción |
 | ---- | --- |
 | ![Sergio](https://hackmd.io/_uploads/SkU_5d9cR.png) | Sergio André Gómez Vallejos – Ingeniería de Software – u20221d401 <br> Soy una persona resiliente que, sin importar cuántas veces caiga, siempre encuentra la manera de levantarse. Tengo habilidades sociales sólidas y una amplia experiencia en la resolución de problemas de código. Suelo ser el miembro más activo de mi equipo de trabajo. Me apasionan los lenguajes de programación y la tecnología, y constantemente me esfuerzo por alcanzar mis objetivos y contribuir al desarrollo del startup. |
-| ![image](assets/Joaquin.png) |Joaquín Andree Pedraza Maldonado <br> Mi nombre es Joaquín Andreé Pedraza Maldonado , tengo 20 años y actualmente me encuentro en 6to ciclo de la carrera de Ingeniería de Software , en la UPC , sede San Miguel. Al terminar mi carrera desearía dedicarme al rubro de desarrollo Web o cyberseguridad.Soy una persona centrada , perseverante , tranquila  , optimista y efectiva.|
+| ![image](./assets/Joaquin.png) |Joaquín Andree Pedraza Maldonado <br> Mi nombre es Joaquín Andreé Pedraza Maldonado , tengo 20 años y actualmente me encuentro en 6to ciclo de la carrera de Ingeniería de Software , en la UPC , sede San Miguel. Al terminar mi carrera desearía dedicarme al rubro de desarrollo Web o cyberseguridad.Soy una persona centrada , perseverante , tranquila  , optimista y efectiva.|
 |<img src="https://hackmd.io/_uploads/B1F_iuso0.jpg" alt="yo-3" style="width: 600px ; height: 200px;">|Maycol Jhordan Rojas Velasquez – Ingeniería de Software – u202219984<br>Elegí la carrera de Ingeniería de Software debido a mi gusto por la innovación y la implementación de la tecnología en cualquier rubro  social, de una manera creativa y en todos los aspectos. Me considero una persona creativa, en busca de ideas, estrategias con mente nueva. También me gusta escuchar ideas de mi equipo, dar ideas de mejora, evaluar las ventajas y desventajas . Además, tengo conocimientos de programación en C + +, HTML, Python,Angular,Backend en Java. Además, Tengo un enfoque responsable y dedicado mediante un aprendizaje rápido así puedo ayudar a mis compañeros en sus dudas. Por otro lado, mis hobbies son ver series, jugar , escuchar música, nadar y  manejar.|
 | ![Captura de pantalla 2024-08-15 121605](https://hackmd.io/_uploads/ByWzO2icC.png)| Russell Stephen Romero Qwistgaard - Ingeniería de Software - U202211043 <br> Tengo 19 y estudió la carrera de ingeniería de software, actualmente en el 6 ciclo de esta. Me apasiona crear programas en entornos distintos para poder ampliar mi conocimiento en las muchas áreas que dependen de mi formación. Estoy dispuesto a cooperar y ser puntual en mis trabajos individuales y grupales. |
 | ![Alessandro](https://hackmd.io/_uploads/BJgim4unA.jpg) | Alessandro Zevallos Linares - Ingeniería de Software - U202216035 <br>Soy estudiante de Ingeniería de Software con un fuerte interés en el desarrollo de productos digitales y la tecnología. En mi tiempo libre, me gusta jugar videojuegos. También tengo un interés especial en la música, lo que me ayuda a equilibrar mi vida académica y personal. Cuento con habilidades en gestión de bases de datos. Además, tengo experiencia en análisis de datos, lo que me ayuda a tomar decisiones informadas y crear soluciones efectivas. |
@@ -732,7 +732,7 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 | **Minuto del video:**  00:00 |
 | **Edad:**  19 años |
 | **Procedencia:**  Lima, Ate |
-| ![Entrevista](/assets/Entrevista_web1.png)|
+| ![Entrevista](./assets/Entrevista_web1.png)|
 | **Resumen:** Pedro Fiñei, un estudiante universitario de 19 años que reside en San Isidro, Lima, realiza la mayoría de sus reservas entre los 18 y 20 años, principalmente para salidas con amigos y eventos sociales. Prefiere hacer reservas en línea utilizando aplicaciones como  Airbnb, valorando el precio, la ubicación y las opiniones de otros usuarios. Se siente cómodo usando su smartphone para realizar reservas, pero sugiere que las plataformas deberían ofrecer más opciones de personalización, recordatorios automáticos, y ser más transparentes con las tarifas adicionales. También considera importante recibir notificaciones y la posibilidad de comunicarse directamente con los proveedores a través de la plataforma. |
 
 
@@ -743,7 +743,7 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 | **Minuto del video:**  04:41 |
 | **Edad:**  20 años |
 | **Procedencia:**  Lima, Lima |
-| ![Entrevista](/assets/Entrevista_web2.png)|
+| ![Entrevista](./assets/Entrevista_web2.png)|
 | **Resumen:** Ramiro Guzmán, con 20 años, valora la conveniencia y calidad en sus reservas. Prefiere utilizar plataformas en línea por su accesibilidad y rapidez, y aprecia la transparencia en la información y las reseñas. Su ocupación y presupuesto afectan su frecuencia de reservas, y aunque prefiere hacer reservas cerca de su residencia, está dispuesto a viajar por experiencias únicas. Desea mejoras tecnológicas como chat en vivo y recomendaciones personalizadas para optimizar su experiencia de reserva. |
 
 #### Entrevista 3
@@ -820,7 +820,7 @@ Después de llevar a cabo y describir los registros de los entrevistados, esta s
 ![Pedro Nanfuñay](https://github.com/user-attachments/assets/ab4c35e7-10af-41b0-aa2f-da507985c93d)
 
 ##### Empresas Hoteleras
-![María Delia Martínez](/assets/User-Person2.png)
+![María Delia Martínez](./assets/User-Person2.png)
 
 
 
@@ -860,24 +860,24 @@ Después de llevar a cabo y describir los registros de los entrevistados, esta s
 ![Huesped journey map 1](https://github.com/user-attachments/assets/b86de9fa-6d10-425d-81db-89e3a6dc1742)
 
 #### Empresas Hoteleras
-![Hotel journey map](/assets/Hoteles-journey-map.png)
+![Hotel journey map](./assets/Hoteles-journey-map.png)
 
 ### Empathy Mapping
 
 #### Huesped
-![Huesped empathy map](/assets/Empathy-map-Huesped.png)
+![Huesped empathy map](./assets/Empathy-map-Huesped.png)
 
 #### Empresas Hoteleras
-![Hotel empathy map](/assets/Empathy-map-Hoteles.png)
+![Hotel empathy map](./assets/Empathy-map-Hoteles.png)
 
 ### As-is Scenario Mapping
 #### Empresas Hoteleras:
 
-![image](/assets/AS-IS_MAPPING-EMPRESAS_HOTELERAS_1.png)
-![image](/assets/AS-IS_MAPPING-EMPRESAS_HOTELERAS_2.png)
+![image](./assets/AS-IS_MAPPING-EMPRESAS_HOTELERAS_1.png)
+![image](./assets/AS-IS_MAPPING-EMPRESAS_HOTELERAS_2.png)
 #### Huéspedes:
-![image](/assets/AS-IS_MAPPING-HUESPEDES_1.png)
-![image](/assets/AS-IS_MAPPING-HUESPEDES_2.png)
+![image](./assets/AS-IS_MAPPING-HUESPEDES_1.png)
+![image](./assets/AS-IS_MAPPING-HUESPEDES_2.png)
 
 ## Ubiquitous Language
 
@@ -902,11 +902,11 @@ Después de llevar a cabo y describir los registros de los entrevistados, esta s
 # Capítulo III: Requirements Specification
 ## 3.1 To-Be Scenario Mapping
 #### Empresas Hoteleras
-![image](/assets/TO-BE_MAPPING-EMPRESAS_HOTELERAS_1.png)
-![image](/assets/TO-BE_MAPPING-EMPRESAS_HOTELERAS_2.png)
+![image](./assets/TO-BE_MAPPING-EMPRESAS_HOTELERAS_1.png)
+![image](./assets/TO-BE_MAPPING-EMPRESAS_HOTELERAS_2.png)
 #### Huéspedes:
-![image](/assets/TO-BE_MAPPING-HUESPEDES_1.png)
-![image](/assets/TO-BE_MAPPING-HUESPEDES_2.png)
+![image](./assets/TO-BE_MAPPING-HUESPEDES_1.png)
+![image](./assets/TO-BE_MAPPING-HUESPEDES_2.png)
 ## User Stories
 Las User Stories son una herramienta fundamental para definir los requisitos del proyecto. Cada User Story incluye criterios de aceptación que deben ser comprobables y redactados en tiempo presente, tercera persona, siguiendo la estructura de Gherkin (Given-When-Then). Además, se consideran User Stories para el sitio web estático (Landing Page) y Technical Stories para los features del RESTful API.
 
@@ -977,9 +977,9 @@ Requisitos definidos junto con el conjunto de User Stories y Epics para los requ
 
 ## 3.3 Impact Mapping
 #### Empresas Hoteleras:
-![image](/assets/Impact_map_Empresas_Hoteleras.png)
+![image](./assets/Impact_map_Empresas_Hoteleras.png)
 #### Huéspedes:
-![image](/assets/Impact_map_Huespedes.png)
+![image](./assets/Impact_map_Huespedes.png)
 ## 3.4 Product Backlog
 
 | **Orden** | **User Story** | **Título**                              | **Descripción**                                                                                                                                                                                            | **Story Points** |
@@ -1281,7 +1281,7 @@ Enlaces Rápidos: Ofrece acceso rápido a funciones críticas como gestión de r
 
 ## Landing Page UI Design
 ### Landing Page Wireframe
-![LandingPageWireframe](/assets/Landing-Page-Wireframe.jpg)
+![LandingPageWireframe](./assets/Landing-Page-Wireframe.jpg)
 
 1. **Jerarquía Visual**: El título grande y las imágenes dominantes guían la atención del usuario, destacando los elementos más importantes.
 
@@ -1296,7 +1296,7 @@ Enlaces Rápidos: Ofrece acceso rápido a funciones críticas como gestión de r
 6. **Principios de Diseño**: El diseño es consistente, bien alineado y sigue una estructura clara que facilita la experiencia de usuario.
 
 ### Landing Page Mock-up
-![LandingPageMockUps](/assets/Landing_Page_Mock.jpg)
+![LandingPageMockUps](./assets/Landing_Page_Mock.jpg)
 
 ### Mock-ups del Landing Page
 
@@ -1314,51 +1314,51 @@ Enlaces Rápidos: Ofrece acceso rápido a funciones críticas como gestión de r
 
 ## Web Applications UX/UI Design
 ### Web Applications Wireframes
-![WebApplicationsWireframe](/assets/WebApplicationsWireframe1.PNG)
+![WebApplicationsWireframe](./assets/WebApplicationsWireframe1.PNG)
 
-![WebApplicationsWireframe](/assets/WebApplicationsWireframe2.PNG)
+![WebApplicationsWireframe](./assets/WebApplicationsWireframe2.PNG)
 
 ### Web Applications Wireflow Diagrams
 User Goal 1: Iniciar sesión <br>
-![USERGOAL1](/assets/USERGOAL1.PNG)
+![USERGOAL1](./assets/USERGOAL1.PNG)
 
 User Goal 2: Asignar una tarea a un empleado <br>
-![USERGOAL2](/assets/USERGOAL2.PNG)
+![USERGOAL2](./assets/USERGOAL2.PNG)
 
 User Goal 3: Modificar el horario de un empleado <br>
-![USERGOAL3](/assets/USERGOAL3.PNG)
+![USERGOAL3](./assets/USERGOAL3.PNG)
 
 User Goal 4: Añadir una reserva <br>
-![USERGOAL4](/assets/USERGOAL4.PNG)
+![USERGOAL4](./assets/USERGOAL4.PNG)
 
 User Goal 5: Modificar una reserva existente <br>
-![USERGOAL5](/assets/USERGOAL5.PNG)
+![USERGOAL5](./assets/USERGOAL5.PNG)
 
 User Goal 6: Cancelar una reserva <br>
-![USERGOAL6](/assets/USERGOAL6.PNG)
+![USERGOAL6](./assets/USERGOAL6.PNG)
 
 User Goal 7: Generar reportes de estadísticas personalizadas <br>
-![USERGOAL7](/assets/USERGOAL7.PNG)
+![USERGOAL7](./assets/USERGOAL7.PNG)
 
 User Goal 8: Enviar una notificación al personal <br>
-![USERGOAL8](/assets/USERGOAL8.PNG)
+![USERGOAL8](./assets/USERGOAL8.PNG)
 
 ### Web Applications Mock-ups
 
-![WebApplicationsMockUp1](/assets/WebApplicationsMockUp1.PNG)
+![WebApplicationsMockUp1](./assets/WebApplicationsMockUp1.PNG)
 
-![WebApplicationsMockUp2](/assets/WebApplicationsMockUp2.PNG)
+![WebApplicationsMockUp2](./assets/WebApplicationsMockUp2.PNG)
 
 ### Web Applications User Flow Diagrams
 
-![WebApplicationsUserDiagram1](/assets/WebApplicationsUserDiagram1.PNG)
-![WebApplicationsUserDiagram2](/assets/WebApplicationsUserDiagram2.PNG)
-![WebApplicationsUserDiagram3](/assets/WebApplicationsUserDiagram3.PNG)
-![WebApplicationsUserDiagram4](/assets/WebApplicationsUserDiagram4.PNG)
-![WebApplicationsUserDiagram5](/assets/WebApplicationsUserDiagram5.PNG)
+![WebApplicationsUserDiagram1](./assets/WebApplicationsUserDiagram1.PNG)
+![WebApplicationsUserDiagram2](./assets/WebApplicationsUserDiagram2.PNG)
+![WebApplicationsUserDiagram3](./assets/WebApplicationsUserDiagram3.PNG)
+![WebApplicationsUserDiagram4](./assets/WebApplicationsUserDiagram4.PNG)
+![WebApplicationsUserDiagram5](./assets/WebApplicationsUserDiagram5.PNG)
 ### Web Applications Prototyping
-![PrototypeDesktop](/assets/PrototypeDesktop.PNG) <br>
-![PrototypeMobile](/assets/PrototypeMobile.PNG) <br>
+![PrototypeDesktop](./assets/PrototypeDesktop.PNG) <br>
+![PrototypeMobile](./assets/PrototypeMobile.PNG) <br>
 | Tipo de Video                 | Enlace                                                                                                  |
 |-------------------------------|---------------------------------------------------------------------------------------------------------|
 | Prototype Desktop Video       | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216035_upc_edu_pe/EZKwDgE2b5BInXQA0C8ijZEB4kZaJLE6x_Xuq7fkeph8WA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=PhGVZ9 |
@@ -1371,11 +1371,11 @@ En el nivel más alto, el diseño C4 nos muestra el contexto del sistema, identi
 
 Estos diseños proporcionan una visión clara de la arquitectura del sistema, lo que facilita la comunicación entre los miembros del equipo y ayuda a identificar posibles problemas o mejoras. Al utilizar los diseños C4 en el proyecto King Reserve, podemos asegurarnos de que todos los involucrados tengan una comprensión común de la arquitectura y puedan colaborar de manera efectiva en su implementación y evolución. 
 ### Software Architecture Context Diagram
-![KingReserve-diagram-context](/assets/Context-Diagram.png)
+![KingReserve-diagram-context](./assets/Context-Diagram.png)
 ### Software Architecture Container Diagrams
-![KingReserve-diagram-containers](/assets/Container-Diagrams.png)
+![KingReserve-diagram-containers](./assets/Container-Diagrams.png)
 ### Software Architecture Components Diagrams
-![KingReserve-diagram-components](/assets/Components-Diagrams.png)
+![KingReserve-diagram-components](./assets/Components-Diagrams.png)
 
 ## Software Object-Oriented Design
 ### Class Diagrams
@@ -1424,7 +1424,7 @@ Además, el diseño de la base de datos incorpora medidas de seguridad para prot
 Con una base de datos robusta y bien estructurada, King Reserve puede gestionar eficientemente las reservas, proporcionar información precisa de disponibilidad y ofrecer una experiencia fluida a sus huéspedes. La base de datos sirve como el soporte del sistema, respaldando el funcionamiento sin problemas de los procesos de gestión hotelera.
 
 ### Diagrama de la Base de Datos
-![KingReserve-diagram](/assets/KingReserve-diagram.png)
+![KingReserve-diagram](./assets/KingReserve-diagram.png)
 
 # CAPÍTULO V: Product Implementation, Validation & Deployment
 
