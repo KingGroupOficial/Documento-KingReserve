@@ -1883,7 +1883,7 @@ A continuación, se presenta una tabla con los commits realizados por los miembr
 | KingGroupOficial/Landing-Page---KingReserve | developer | b67299811f0435e3bb3ea04d14a7a223508873de | feat: add i18n | Se le dio la internacionalización a la página | 2024-09-03 | Maycol Jhordan Rojas Velasquez |
 
 El equipo ha trabajado de manera efectiva y colaborativa durante este Sprint, asegurando que todos los miembros participen activamente en la implementación de la Landing Page. Los analíticos de colaboración y los commits en GitHub reflejan el esfuerzo conjunto y la dedicación del equipo para alcanzar los objetivos del Sprint.
-
+### 5.2.2.1 Sprint planning 2 
 | Sprint # | Sprint 2  | 
 |--------------------|------------|
 | Sprint Planning Background | 
