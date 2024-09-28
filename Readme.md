@@ -73,7 +73,6 @@
 |TB1|06/09/2024|Maycol Jhordan Rojas Velasquez| Se hizo  Sprint 1 ,Sprint Planning 1. Sprint Backlog 1. Development Evidence for Sprint Review. Testing Suite Evidence for Sprint Review. Execution Evidence for Sprint Review. Services Documentation Evidence for Sprint Review. Software Deployment Evidence for Sprint Review. Team Collaboration Insights during Sprint. |
 |TB1|06/09/2024|Russell Stephen Romero Qwistgaard| AS - IS MAPPING, TO - BE MAPPING, Impact Mapping|
 | TB1         | 08/09/2024  | Sergio André Gómez Vallejos       |  Implementación de user story, product backlog y sprint 1 | 
-| TP1         | 27/09/2024  | Sergio André Gómez Vallejos       |  Implementación del sprint 2, sprint backlog, testing | 
 
 
 **Project Report Collaboration Insights**
@@ -263,7 +262,7 @@ Fuente: https://revistasinvestigacion.unmsm.edu.pe/index.php/quipu/article/view/
 
 ### 1.2.1 Lean Ux Procces
 
-###  Problem Statement 
+###1.2.2.1  Problem Statement 
 ## Ciudadanos Peruanos
 El crecimiento acelerado del turismo en Perú ha generado la creación de numerosas agencias de viajes y hoteles, impulsados por la alta demanda del sector. Sin embargo, la informalidad y la desorganización dentro del sector han llevado a una disminución en la productividad, afectando tanto a turistas como a trabajadores del sector. Además, la falta de coordinación y estándares de servicio en las agencias informales provoca una experiencia deficiente para los turistas, lo que puede impactar negativamente la reputación del turismo en el país.
 
@@ -293,7 +292,7 @@ Incentivar la Formalización:
 Crear programas de incentivos que animen a las empresas informales a regularizar su situación, ofreciéndoles beneficios como acceso a financiamiento, capacitación, y promoción en plataformas turísticas oficiales.
 Establecer sanciones y controles más estrictos para reducir la competencia desleal de las empresas informales.
 
-### Lean Ux Assumptions 
+### 1.2.2.2 Lean Ux Assumptions 
 
 ### Buisness Assumptions
 -Creo que mis clientes (hoteles ) necesitan una mejora en la eficiencia y organización del proceso de reservas para reducir errores, mejorar la calidad del servicio y competir con las operaciones informales.
@@ -337,7 +336,7 @@ El producto es utilizado cada vez que los hoteles o agencias necesitan gestionar
 ¿Cómo debe verse nuestro producto y cómo debe comportarse?
 El producto debe ser intuitivo, fácil de usar y altamente funcional. Los usuarios deben poder gestionar reservas, coordinar servicios y realizar consultas de manera rápida, sencilla y precisa, mientras los huéspedes disfrutan de un proceso de reserva claro y una comunicación fluida con el hotel .
 
-### Lean Ux Proccess Hypothesis Statement
+### 1.2.2.3Lean Ux Proccess Hypothesis Statement
 Usuario Huésped
 Creemos que, al desarrollar una aplicación que centralice y automatice el proceso de reservas y servicios turísticos, mejoraremos la experiencia de los huéspedes al ofrecerles un proceso de reserva más sencillo, rápido y personalizado.
 
@@ -352,7 +351,7 @@ Lograremos evitar problemas de desorganización y comunicación que resultan en 
 
 Sabremos que hemos tenido éxito cuando la totalidad de las reservas gestionadas a través de la plataforma hayan sido procesadas sin errores, y los hoteles  reporten una mejora en su eficiencia operativa.
 
-### Lean UX Canvas
+### 1.2.2.4 Lean UX Canvas
 
 <div style="text-align:justify;">
 </div>
@@ -363,7 +362,7 @@ Sabremos que hemos tenido éxito cuando la totalidad de las reservas gestionadas
 </div>
 <br>
     
-### Segmentos Objetivo
+### 1.3 Segmentos Objetivo
 
 #### 1. Empresas Hoteleras:
 
@@ -410,10 +409,10 @@ Este segmento está compuesto por viajeros que buscan una experiencia de alojami
 <br>
 <br>
 
-# Capítulo II: Requirements Elicitation & Analysis
-## Competidores
+# 2 Capítulo II: Requirements Elicitation & Analysis
+##  2.1 Competidores
 KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al combinar la gestión hotelera con una comunidad colaborativa para profesionales del sector. Mientras que Opera PMS es ideal para grandes cadenas pero costoso para pequeños hoteles, RoomRaccoon se centra en hoteles más pequeños con una solución integral, y Mews destaca por su automatización y diseño moderno, KingReserve ofrece una solución versátil que no solo optimiza la operación, sino que también fomenta la interacción y el intercambio de conocimientos entre usuarios, elevando la calidad del servicio y la experiencia del cliente.
-## Análisis Competitivo
+## 2.1.1 Análisis Competitivo
 <table>
    <tr>
       <td align="center" colspan="6"><b>Competitive Analysis Landscape</b></td>
@@ -514,7 +513,7 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
    </tr>
 </table>
 
-### Estrategias y tácticas frente a competidores
+### 2.1.2 Estrategias y tácticas frente a competidores
 **Diferenciación mediante la Experiencia del Cliente y Comunidad Colaborativa:**
 
 **Estrategia:** Resaltar el enfoque único de KingReserve en la creación de una comunidad interactiva y colaborativa, donde los usuarios no solo gestionan operaciones, sino que también comparten conocimientos, experiencias y mejores prácticas dentro de la industria hotelera.
@@ -539,9 +538,9 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 
 **Estrategia:** Mantenerse a la vanguardia en la adopción de tecnologías emergentes para optimizar la experiencia del usuario y la eficiencia operativa.
 **Táctica:** Invertir en la investigación y desarrollo de tecnologías como inteligencia artificial y análisis predictivo para anticipar las necesidades de los huéspedes y ofrecer recomendaciones personalizadas. Implementar mejoras continuas en la plataforma basadas en feedback de los usuarios y avances tecnológicos en la industria.
-## Entrevistas
+## 2.2 Entrevistas
 
-### Diseño de Entrevistas
+### 2.2.1   Diseño de Entrevistas
 
 ### 1. Preguntas para Gestores de Empresas Hoteleras
 
@@ -722,7 +721,7 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
             </tr>  
   </table>  
          
-## Registro de entrevistas
+##   2.2.2 Registro de entrevistas
 ### Segmento: Huespedes
 
     
@@ -781,7 +780,7 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 
 
 
-### Análisis de entrevistas
+### 2.2.3 Análisis de entrevistas
 Después de llevar a cabo y describir los registros de los entrevistados, esta sección desarrollará una estrategia conjunta que permitirá al equipo identificar ciertos aspectos y puntos en común. Este análisis ayudará a obtener una visión más analítica y concreta sobre el desarrollo de la aplicación KingReserve.
 
 ### Segmento 1: Huéspedes
@@ -814,8 +813,8 @@ Después de llevar a cabo y describir los registros de los entrevistados, esta s
 4. **Objetivos al Usar la Aplicación**
    - **Objetivos:** El 100% espera que la aplicación les ayude a mejorar la eficiencia operativa y optimizar la gestión de reservas y eventos, además de proporcionar una mejor comunicación con los huéspedes y clientes.
 
-## Needfinding
-### User Persona
+## 2.3 Needfinding
+### 2.3.1 User Persona
 
 ##### Huesped
 ![Pedro Nanfuñay](https://github.com/user-attachments/assets/ab4c35e7-10af-41b0-aa2f-da507985c93d)
@@ -825,7 +824,7 @@ Después de llevar a cabo y describir los registros de los entrevistados, esta s
 
 
 
-#### User Task Matrix
+#### 2.3.2 User Task Matrix
 
 ##### Matriz de Tareas del Usuario
 
@@ -855,7 +854,7 @@ Después de llevar a cabo y describir los registros de los entrevistados, esta s
 - **Coincidencias**:
   - Ambos segmentos valoran la **comunicación eficiente** y la **automatización** para mejorar la experiencia general.
 
-### User Journey Mapping
+### 2.3.3 User Journey Mapping
 
 #### Huesped
 ![Huesped journey map 1](https://github.com/user-attachments/assets/b86de9fa-6d10-425d-81db-89e3a6dc1742)
@@ -863,7 +862,7 @@ Después de llevar a cabo y describir los registros de los entrevistados, esta s
 #### Empresas Hoteleras
 ![Hotel journey map](./assets/Hoteles-journey-map.png)
 
-### Empathy Mapping
+### 2.3.4 Empathy Mapping
 
 #### Huesped
 ![Huesped empathy map](./assets/Empathy-map-Huesped.png)
@@ -871,7 +870,7 @@ Después de llevar a cabo y describir los registros de los entrevistados, esta s
 #### Empresas Hoteleras
 ![Hotel empathy map](./assets/Empathy-map-Hoteles.png)
 
-### As-is Scenario Mapping
+###  2.3.5 As-is Scenario Mapping
 #### Empresas Hoteleras:
 
 ![image](./assets/AS-IS_MAPPING-EMPRESAS_HOTELERAS_1.png)
@@ -880,7 +879,7 @@ Después de llevar a cabo y describir los registros de los entrevistados, esta s
 ![image](./assets/AS-IS_MAPPING-HUESPEDES_1.png)
 ![image](./assets/AS-IS_MAPPING-HUESPEDES_2.png)
 
-## Ubiquitous Language
+## 2.4  Ubiquitous Language
 
 | **Término (Inglés)** | **Término (Español)** | **Definición** |
 |----------------------|-----------------------|----------------|
@@ -900,7 +899,7 @@ Después de llevar a cabo y describir los registros de los entrevistados, esta s
 | Banquet              | Banquete              | Servicio de organización de eventos y comidas especiales en el hotel. |
 | Conference Room      | Sala de conferencias  | Espacio en el hotel destinado a reuniones y eventos corporativos. |
 
-# Capítulo III: Requirements Specification
+# 3 Capítulo III: Requirements Specification
 ## 3.1 To-Be Scenario Mapping
 #### Empresas Hoteleras
 ![image](./assets/TO-BE_MAPPING-EMPRESAS_HOTELERAS_1.png)
@@ -908,7 +907,7 @@ Después de llevar a cabo y describir los registros de los entrevistados, esta s
 #### Huéspedes:
 ![image](./assets/TO-BE_MAPPING-HUESPEDES_1.png)
 ![image](./assets/TO-BE_MAPPING-HUESPEDES_2.png)
-## User Stories
+##3.2  User Stories
 Las User Stories son una herramienta fundamental para definir los requisitos del proyecto. Cada User Story incluye criterios de aceptación que deben ser comprobables y redactados en tiempo presente, tercera persona, siguiendo la estructura de Gherkin (Given-When-Then). Además, se consideran User Stories para el sitio web estático (Landing Page) y Technical Stories para los features del RESTful API.
 
 
@@ -1038,14 +1037,14 @@ Requisitos definidos junto con el conjunto de User Stories y Epics para los requ
 | 17        | TS017          | Implementar Sistema de reservas                   | **Como** desarrollador, **quiero** implementar un sistema de procesamiento de reservaciones                                                                                              | 3                |
 | 18        | TS018          | Implementar editor de páginas web básico          | **Como** desarrollador, **quiero** implementar un editor de páginas web básico para las empresas de hoteles                                                                              | 3                |                                                           
  
-# Capitulo IV: Product Design
-## Style Guidelines
+# 4 Capitulo IV: Product Design
+## 4.1 Style Guidelines
 Las Style Guidelines son esenciales para garantizar una comunicación coherente y profesional en todos los aspectos de nuestra marca o proyecto, ya sea en publicaciones impresas, en línea o en cualquier otro medio de difusión. En esta sección, estableceremos un conjunto de directrices que nuestro equipo seguirá para diseñar el proyecto KingReserve, desarrollado por KingGroup. Estas pautas abarcarán aspectos clave como la selección de colores, tipografía, estructura del documento y otros elementos fundamentales.
 <br>
 Para el diseño de KingReserve, utilizaremos la plataforma Figma, que nos permitirá crear tanto la aplicación web como la página de inicio de manera efectiva. En ambas, implementaremos una paleta de colores que incluirá tonalidades de crema y marrón, evocando la naturaleza y la confianza que se asocian con el concepto de reservas. A continuación, se presentará un análisis más detallado de cada uno de los aspectos mencionados.
 
 
-### General Style Guidelines
+### 4.1.1 General Style Guidelines
 
 **Branding:** El logotipo de KingReserve es mucho más que una simple imagen; es la manifestación visual de nuestra identidad. En el centro, el símbolo único que nos representa es nuestro nombre, "KingReserve", que fusiona el concepto de realeza con la idea de reservas. Esta combinación resalta la calidad y el prestigio que ofrecemos en el sector de reservas para los huespedes y profesionales que buscan los mejores lugares para vivir durante sus vacaciones.
 
@@ -1192,7 +1191,7 @@ Para una Plataforma Web:
 
 El tono de comunicación y lenguaje ideal para KingReserve, nuestra plataforma de gestión hotelera, se caracteriza por ser profesional, confiable, claro y comprometido. En KingReserve, estamos dedicados a transformar la experiencia de gestión hotelera, haciendo que sea eficiente, segura y satisfactoria para todos nuestros usuarios. Creemos firmemente en la importancia de establecer una conexión de confianza con los administradores de hoteles y en comunicar de manera efectiva nuestro compromiso con la transparencia y la satisfacción del cliente en el proceso de gestión hotelera. Nuestro tono es profesional y accesible, reflejando nuestra misión de proporcionar una experiencia completa y personalizada en la gestión de reservas, planillas y personal. Nos esforzamos por diseñar nuestra plataforma de manera intuitiva y fácil de usar, especialmente para aquellos que pueden no estar familiarizados con la tecnología de gestión hotelera.
 
-### Web Style Guidelines
+### 4.1.2 Web Style Guidelines
 Nuestro enfoque en las "Web Style Guidelines" de KingReserve se centra en la creación de una experiencia de usuario consistente y atractiva en la gestión hotelera. Esto implica el uso de una paleta de colores cohesiva, tipografía legible y un diseño responsivo que se adapte a una variedad de dispositivos y tamaños de pantalla. Nos aseguramos de que cada elemento visual y funcional de nuestra plataforma contribuya a una navegación intuitiva y eficiente, facilitando la gestión de reservas, planillas y personal de manera efectiva y profesional.
 <br>
 
@@ -1205,9 +1204,9 @@ Nuestro enfoque en las "Web Style Guidelines" de KingReserve se centra en la cre
 </div>
 <br>
 
-## Information Architecture
+##  4.2 Information Architecture
 
-##  Organization Systems
+## 4.2.1 Organization Systems
 
 -Segmento Huésped
 
@@ -1231,7 +1230,7 @@ Sistema de Gestión de Reservas: Los hoteles pueden manejar de manera eficiente 
 
 Gestión de Perfil del Hotel: Los hoteles pueden mantener un perfil detallado con información sobre comodidades, servicios y opiniones de clientes, lo cual ayuda a construir confianza y atraer a nuevos huéspedes.
 
-## Labeling Systems
+## 4.2.2 Labeling Systems
 
 -Segmento Huésped
 
@@ -1251,7 +1250,7 @@ Etiqueta de Pedidos: Rastrear los pedidos de servicios o comodidades adicionales
 
 Etiqueta de Promociones y Ofertas: Resalta promociones y ofertas actuales tanto para huéspedes como para el personal, fomentando las ventas adicionales y aumentando el compromiso de los huéspedes.
 
-##  Searching Systems
+## 4.2.4  Searching Systems
 
 ## Segmento Huésped
 
@@ -1265,7 +1264,7 @@ Búsqueda por Palabras Clave: El personal del hotel puede buscar reservas espec�
 
 Búsqueda por Filtros: Los filtros ayudan al personal a refinar los resultados de búsqueda por estado de reserva, tipo de habitación o preferencias de huéspedes, mejorando la eficiencia operativa.
 
-## Navigation Systems
+## 4.2.5 Navigation Systems
 
 -Segmento Huésped
 
@@ -1280,8 +1279,8 @@ Menú de Navegación: Un menú superior permite al personal del hotel navegar ef
 Enlaces Rápidos: Ofrece acceso rápido a funciones críticas como gestión de reservas, actualizaciones de inventario y configuración de promociones, aumentando la velocidad operativa.
 
 
-## Landing Page UI Design
-### Landing Page Wireframe
+##  4.3 Landing Page UI Design
+### 4.3.1 Landing Page Wireframe
 ![LandingPageWireframe](./assets/Landing-Page-Wireframe.jpg)
 
 1. **Jerarquía Visual**: El título grande y las imágenes dominantes guían la atención del usuario, destacando los elementos más importantes.
@@ -1296,7 +1295,7 @@ Enlaces Rápidos: Ofrece acceso rápido a funciones críticas como gestión de r
 
 6. **Principios de Diseño**: El diseño es consistente, bien alineado y sigue una estructura clara que facilita la experiencia de usuario.
 
-### Landing Page Mock-up
+### 4.3.2  Landing Page Mock-up
 ![LandingPageMockUps](./assets/Landing_Page_Mock.jpg)
 
 ### Mock-ups del Landing Page
@@ -1313,13 +1312,13 @@ Enlaces Rápidos: Ofrece acceso rápido a funciones críticas como gestión de r
 
 6. **Llamadas a la Acción (CTA)**: En la versión móvil, se destacan los botones "Reservar" y "Ver más", lo que fomenta la interacción directa del usuario, asegurando que los elementos interactivos son fácilmente accesibles.
 
-## Web Applications UX/UI Design
-### Web Applications Wireframes
+## 4.4 Web Applications UX/UI Design
+### 4.4.1 Web Applications Wireframes
 ![WebApplicationsWireframe](./assets/WebApplicationsWireframe1.PNG)
 
 ![WebApplicationsWireframe](./assets/WebApplicationsWireframe2.PNG)
 
-### Web Applications Wireflow Diagrams
+### 4.4.2 Web Applications Wireflow Diagrams
 User Goal 1: Iniciar sesión <br>
 ![USERGOAL1](./assets/USERGOAL1.PNG)
 
@@ -1344,20 +1343,20 @@ User Goal 7: Generar reportes de estadísticas personalizadas <br>
 User Goal 8: Enviar una notificación al personal <br>
 ![USERGOAL8](./assets/USERGOAL8.PNG)
 
-### Web Applications Mock-ups
+### 4.4.3 Web Applications Mock-ups
 
 ![WebApplicationsMockUp1](./assets/WebApplicationsMockUp1.PNG)
 
 ![WebApplicationsMockUp2](./assets/WebApplicationsMockUp2.PNG)
 
-### Web Applications User Flow Diagrams
+### 4.4.4 Web Applications User Flow Diagrams
 
 ![WebApplicationsUserDiagram1](./assets/WebApplicationsUserDiagram1.PNG)
 ![WebApplicationsUserDiagram2](./assets/WebApplicationsUserDiagram2.PNG)
 ![WebApplicationsUserDiagram3](./assets/WebApplicationsUserDiagram3.PNG)
 ![WebApplicationsUserDiagram4](./assets/WebApplicationsUserDiagram4.PNG)
 ![WebApplicationsUserDiagram5](./assets/WebApplicationsUserDiagram5.PNG)
-### Web Applications Prototyping
+### 4.5 Web Applications Prototyping
 ![PrototypeDesktop](./assets/PrototypeDesktop.PNG) <br>
 ![PrototypeMobile](./assets/PrototypeMobile.PNG) <br>
 | Tipo de Video                 | Enlace                                                                                                  |
@@ -1365,23 +1364,23 @@ User Goal 8: Enviar una notificación al personal <br>
 | Prototype Desktop Video       | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216035_upc_edu_pe/EZKwDgE2b5BInXQA0C8ijZEB4kZaJLE6x_Xuq7fkeph8WA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=PhGVZ9 |
 | Prototype Mobile Video        | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216035_upc_edu_pe/EeJf2XgJW2JAsXFWZ_0UOrgBlizX862fVw5mXH_YAoXDNQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=37tJZ3 |
 
-## Domain-Driven Software Architecture
+## 4.6 Domain-Driven Software Architecture
 Los diseños C4 son una forma efectiva de representar la arquitectura de un sistema de software de manera clara y concisa. En el caso del proyecto King Reserve, los diseños C4 nos permiten visualizar la estructura y las interacciones entre los diferentes componentes del sistema. 
 
 En el nivel más alto, el diseño C4 nos muestra el contexto del sistema, identificando los actores externos y los sistemas con los que interactúa King Reserve. A medida que descendemos en los niveles de detalle, podemos ver los contenedores que componen el sistema, como la aplicación web, la base de datos y los servicios externos. Además, los diagramas C4 nos permiten visualizar los componentes internos de cada contenedor, como los módulos y las clases.
 
 Estos diseños proporcionan una visión clara de la arquitectura del sistema, lo que facilita la comunicación entre los miembros del equipo y ayuda a identificar posibles problemas o mejoras. Al utilizar los diseños C4 en el proyecto King Reserve, podemos asegurarnos de que todos los involucrados tengan una comprensión común de la arquitectura y puedan colaborar de manera efectiva en su implementación y evolución. 
-### Software Architecture Context Diagram
+### 4.6.1 Software Architecture Context Diagram
 ![KingReserve-diagram-context](./assets/Context-Diagram.png)
-### Software Architecture Container Diagrams
+### 4.6.2 Software Architecture Container Diagrams
 ![KingReserve-diagram-containers](./assets/Container-Diagrams.png)
-### Software Architecture Components Diagrams
+### 4.6.3  Software Architecture Components Diagrams
 ![KingReserve-diagram-components](./assets/Components-Diagrams.png)
 
-## Software Object-Oriented Design
-### Class Diagrams
+## 4.7 Software Object-Oriented Design
+### 4.7.1 Class Diagrams
 ![image](./assets/Class_Diagram.jpeg)
-### Class Dictionary
+### 4.7.2  Class Dictionary
 Service: Contiene los atributos StatusService, description, DateStart, DateEnd y price. Los métodos asociados permiten iniciar (initService), finalizar (endService), cancelar (cancelService), y cambiar el estado (changeStatus) de un servicio. Está relacionada con la clase Order, indicando que los servicios pueden estar vinculados a órdenes, y con la clase Controlador, que gestiona los servicios.
 
 Reservation: Incluye los atributos reservationID, reservationDate, tableID, numberOfPeople, y tableID. Los métodos asociados son createReservation para crear una reserva, cancelReservation para cancelarla, y updateReservation para actualizarla. Está relacionada con la clase Customer, ya que los clientes pueden hacer y gestionar reservas, y con la clase Worker, que puede administrar las reservas.
@@ -1412,7 +1411,7 @@ Controlador: Contiene los atributos service, orderList, y users. Los métodos as
 | Worker | position | manageReserve | Order, Reservation |
 | Controlador | service, orderList, users | manageReserve, manageService, assignOrderToWorker, DeliverMessage | Service, Order, Worker |
 
-## Database Design
+## 4.8 Database Design
 
 La base de datos de King Reserve es un componente crucial del sistema, responsable de almacenar y gestionar todos los datos relacionados con reservas, huéspedes, habitaciones y otra información esencial. Diseñada con escalabilidad y rendimiento en mente, la base de datos garantiza la recuperación y manipulación eficiente de datos, brindando una experiencia fluida tanto para los huéspedes como para el personal del hotel.
 
@@ -1424,14 +1423,14 @@ Además, el diseño de la base de datos incorpora medidas de seguridad para prot
 
 Con una base de datos robusta y bien estructurada, King Reserve puede gestionar eficientemente las reservas, proporcionar información precisa de disponibilidad y ofrecer una experiencia fluida a sus huéspedes. La base de datos sirve como el soporte del sistema, respaldando el funcionamiento sin problemas de los procesos de gestión hotelera.
 
-### Diagrama de la Base de Datos
+### 4.8.1  Diagrama de la Base de Datos
 ![KingReserve-diagram](./assets/KingReserve-diagram.png)
 
-# CAPÍTULO V: Product Implementation, Validation & Deployment
+# 5 CAPÍTULO V: Product Implementation, Validation & Deployment
 
-## Software Configuration Management
+## 5.1 Software Configuration Management
 En este apartado se resume todo el contenido recopilado, examinando los procedimientos a seguir y evaluando el estado emocional.
-### Software Development Environment Configuration
+### 5.1.1  Software Development Environment Configuration
 En la siguiente sección se detalla la ruta de acceso de cada uno de los productos de software, facilitando a cualquier miembro del equipo el desarrollo de cada aspecto del trabajo:
 * **Visual Studio Code:** Entorno de desarrollo.\
 ![image](https://hackmd.io/_uploads/Hy8d2y7lR.png)
@@ -1452,7 +1451,7 @@ En la siguiente sección se detalla la ruta de acceso de cada uno de los product
 ![image](https://hackmd.io/_uploads/r1BjjyQgC.png)
 * **Figma:** Herramienta colaborativa que permite elaborar wireframes y mockups.\
 ![image](https://hackmd.io/_uploads/BJ99okXeR.png)
-### Source Code Management
+### 5.1.2 Source Code Management
 **Repositorio de la Landing Page:** 
 **Implementación de GitFlow:**
 Para nuestra estrategia de gestión de versiones con Git, nos hemos inspirado en el artículo "A successful Git branching model" de Vincent Driessen, adoptando el modelo de ramificación GitFlow. Este enfoque nos permite establecer claramente las convenciones de ramificación que aplicamos en nuestro proyecto.
@@ -1485,7 +1484,7 @@ Adoptamos esta metodología para estructurar los mensajes de confirmación de ca
 * test: Adición o modificación de pruebas.
 * chore: Cambios en el proceso de construcción o tareas de mantenimiento.
 * perf: Mejoras de rendimiento en el código.
-### Source Code Style Guide & Conventions
+### 5.1.3 Source Code Style Guide & Conventions
 En la redacción de nuestro código, hemos adoptado el uso exclusivo de la nomenclatura en inglés para todos los lenguajes mencionados.
 **HTML**
 * **Uso de minúsculas en elementos HTML:**
@@ -1555,7 +1554,7 @@ function sum(a, b) {
   return a + b;
 }
 ```
-### Software Deployment Configuration
+### 5.1.4  Software Deployment Configuration
 En esta sección, detallamos el proceso de implementación de nuestra landing page en la plataforma de GitHub.
 
 1. Se crea un repositorio en GitHub para alojar el código de nuestra landing page.
@@ -1585,9 +1584,9 @@ En esta sección, detallamos el proceso de implementación de nuestra landing pa
 Este proceso garantiza el despliegue satisfactorio de nuestra landing page en la plataforma de Netlifly, siguiendo las especificaciones y requisitos de nuestro proyecto.
 **Enlace de la Landing Page: [https://kingreserve.netlify.app/](https://kingreserve.netlify.app/)**
 
-## Landing Page, Services & Applications Implementation
+## 5.2 Landing Page, Services & Applications Implementation
 
-### Sprint 1 
+### 5.2.1 Sprint 1 
 Este informe documenta el progreso realizado durante la fase de definición de requisitos del proyecto, que incluye entrevistas con los interesados y creación de artefactos antes y después de la implementación de la aplicación web estática. Proporcionar una visión clara del avance y garantizar una comunicación efectiva entre el equipo de desarrollo y los interesados son los objetivos principales.
 
 Durante esta etapa, se realizaron extensas entrevistas con los interesados para comprender sus necesidades, expectativas y requisitos particulares para la aplicación. Las entrevistas proporcionaron información útil que ayudó a definir los requisitos del proyecto.
@@ -1596,7 +1595,7 @@ Durante esta etapa, se realizaron extensas entrevistas con los interesados para 
 
 Se realizaron actividades de creación de artefactos antes y después de la implementación de la aplicación web estática, además de entrevistas. Estos objetos fueron
 
-#### Sprint Planning 1
+#### 5.2.1.1 Sprint Planning 1
 
 | Sprint # | Sprint 1  | 
 |--------------------|------------|
@@ -1613,7 +1612,7 @@ Se realizaron actividades de creación de artefactos antes y después de la impl
 | Sprint Velocity | Se establece un Velocity de 20 Story Points para este Sprint. | 
 | Sum of Story Points | 20 Story Points | 
 
-#### Sprint Backlog 1
+#### 5.2.1.2 Sprint Backlog 1
 
 <table align="center" border="1" width="90%" style="text-align:center">
  <tr>
@@ -1721,7 +1720,7 @@ Se realizaron actividades de creación de artefactos antes y después de la impl
  </tr>
 </table>
 
-## Development Evidence for Sprint Review
+## 5.2.1.3 Development Evidence for Sprint Review
 
 Durante este sprint, se han realizado avances significativos en la implementación de la Landing Page. Se han completado varias historias de usuario de la landing page y se han realizado múltiples commits en los repositorios correspondientes. A continuación, se presenta una tabla que incluye los commits relacionados con la implementación para el repositorio de la landing page.
 
@@ -1741,7 +1740,7 @@ Durante este sprint, se han realizado avances significativos en la implementaci�
 
 ![Development](./assets/development%20.jpg)
 
-## Testing Suite Evidence for Sprint Review
+## 5.2.1.4 Testing Suite Evidence for Sprint Review
 
 En esta sección se explica y presenta el conjunto de Unit Tests, Integration Tests y Acceptance Tests automatizados, desarrollados para la landing page asociados con las User Stories especificadas en el Sprint.
 
@@ -1761,7 +1760,7 @@ En esta sección se explica y presenta el conjunto de Unit Tests, Integration Te
 ## Imagenes
 ![Testing](./assets/testing.jpg)
 
-## Execution Evidence for Sprint Review
+## 5.2.1.5  Execution Evidence for Sprint Review
 
 Durante este Sprint, se han alcanzado varios hitos importantes en la implementación de la Landing Page, las aplicaciones web y los servicios web de King Reserve. Se han completado las siguientes tareas:
 
@@ -1804,7 +1803,7 @@ Para una demostración completa de la visualización y navegación logradas en e
 
 
 
-## Software Deployment Evidence for Sprint Review
+## 5.2.1.7 Software Deployment Evidence for Sprint Review
 
 Durante este Sprint, se han realizado varias actividades relacionadas con el despliegue de los productos de King Reserve, incluyendo la Landing Page El despliegue se ha llevado a cabo utilizando Netlify, un proveedor de servicios en la nube que facilita la implementación continua y la automatización del despliegue. A continuación, se detallan los pasos realizados y se presentan capturas de pantalla que ilustran el proceso.
 
@@ -1836,7 +1835,7 @@ Durante este Sprint, se han realizado varias actividades relacionadas con el des
      ![Landing Page Deployment](https://i.imgur.com/3X6n0Bc.png)
     - Enlace: https://kingreserve.netlify.app/
 
-## Team Collaboration Insights during Sprint
+## 5.2.1.8 Team Collaboration Insights during Sprint
 
 
 Durante este Sprint, el equipo ha trabajado de manera colaborativa por 2 alumnos en el diseño y programacion en la implementación de la Landing Page de King Reserve. A continuación, se presenta un resumen de cómo se han desarrollado las actividades de implementación, junto con capturas de pantalla de los analíticos de colaboración y commits en GitHub realizados por los miembros del equipo.
@@ -1891,7 +1890,7 @@ El equipo ha trabajado de manera efectiva y colaborativa durante este Sprint, as
 
 2. Se han logrado avances significativos en la implementación de la Landing Page de King Reserve. El equipo ha completado con éxito varias tareas clave, incluyendo el diseño y maquetación de la página, la implementación de secciones importantes como el encabezado, el pie de página y el contenido principal, así como la configuración de la integración continua y el despliegue en Netlify. Estos logros han sentado una base sólida para futuras iteraciones y mejoras, asegurando que la Landing Page cumpla con los requisitos y expectativas del proyecto.
 
-## Bibliografía
+## 6.4 Bibliografía
 
 1. The C4 model for visualising software architecture (2024) Recuperado de: https://c4model.com
 2. Naming Conventions for java (2024) Recuperado de: https://www.oracle.com/java/technologies/javase/codeconventions-namingconventions.html#:~:text=Except%20for%20variables%2C%20all%20instance,should%20be%20short%20yet%20meaningful.
