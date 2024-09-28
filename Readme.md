@@ -68,15 +68,18 @@
 |TB1|04/09/2024|Alessandro Zevallos Linares| Landing Page UI Design |
 |TB1|06/09/2024|Alessandro Zevallos Linares| Web Applications UX/UI Design |
 |TB1|06/09/2024|Alessandro Zevallos Linares| Web Applications Prototyping |
+|TB1|08/09/2024|Alessandro Zevallos Linares| Empathy Mapping |
 |TB1|06/09/2024|Maycol Jhordan Rojas Velasquez| Se hizo  Software Configuration Management.  |
 |TB1|06/09/2024|Maycol Jhordan Rojas Velasquez| Se hizo  Landing Page, Services & Applications Implementation.  |
 |TB1|06/09/2024|Maycol Jhordan Rojas Velasquez| Se hizo  Sprint 1 ,Sprint Planning 1. Sprint Backlog 1. Development Evidence for Sprint Review. Testing Suite Evidence for Sprint Review. Execution Evidence for Sprint Review. Services Documentation Evidence for Sprint Review. Software Deployment Evidence for Sprint Review. Team Collaboration Insights during Sprint. |
 |TB1|06/09/2024|Russell Stephen Romero Qwistgaard| AS - IS MAPPING, TO - BE MAPPING, Impact Mapping|
 | TB1         | 08/09/2024  | Sergio André Gómez Vallejos       |  Implementación de user story, product backlog y sprint 1 | 
+
 | TP1         | 09/09/2024  | Sergio André Gómez Vallejos       |  Implementación del sprint 2, sprint backlog 1, testing | 
 | TP1         | 09/09/2024  | Alessandro Zevallos Linares      |  Implementación del sprint 2, sprint execution evidence, team collaboration insights | 
 | TP1         | 27/09/2024  | Joaquin Pedraza Maldonado       |  Implementación del sprint 2, sprint planning, testing, Software Deployment Evidence for Sprint Review 2 | 
 | TP1         | 27/09/2024  | Russell Stephen Romero Qwistgaard | Implementación del sprint 2, sprint planning 2, testing, sprint backolog 2 |
+| TP1         | 27/09/2024  | Maycol Jhordan Rojas Velasquez       |  Se hizo el student outcome para el trbajo TP | 
 
 **Project Report Collaboration Insights**
 
@@ -207,16 +210,17 @@ https://github.com/KingGroupOficial/Documento-KingReserve
    6.2. [Glossary](#Glossary) <br>
    6.3. [Acronyms](#Acronyms) <br>
    6.4. [Bibliography](#Bibliography)<br>
+
+   
    # STUDENT OUTCOME
 El curso contribuye al cumplimiento del Student Outcome ABET: 
 ##### ABET – EAC - Student Outcome 5 
 Criterio: Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo; crea un entorno colaborativo e inclusivo y establece metas, planifica tareas y cumple objetivos, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5. 
 
-| **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
-|-------------------------|------------------------|------------------|
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta | 1.- <b>Sergio André Gómez Vallejos TB1:</b> Participé activamente en el desarrollo del documento y la landing page, colaborando con el equipo en la división de tareas y asegurando que se completaran en el plazo establecido.<br>2.-<b>Maycol Jhordan Rojas Velasquez TB1:</b> Participé activamente en el desarrollo del documento y la landing page colaborando en el tipo de colores y estilos para la web page.<br>3.-<b>Joaquín Pedraza Maldonado:</b> Participé frecuentemente en el documento y las funcionalidades de la landing page apoyando a mis compañeros a que puedan resolver problemas que se les presentaban a la hora de resolver sus partes.<br>4.-<b> Alessandro Netto Zevallos Linares TB1:</b> Participé activamente en la creación del documento, asegurando una correcta coordinación y cumpliendo con los plazos establecidos.<br>5.-<b>Russell Stephen Romero Qwistgaard TB1:</b> Trabaje en coordinación con mi equipo, siempre estando atento a sus llamadas e intentando entregar mis partes a tiempo<br> 1.- **Sergio André Gómez Vallejos TP1:** Colaboré activamente en el desarrollo de la aplicación web, asegurándome de coordinar la asignación de tareas y garantizar que el equipo cumpliera con los plazos.<br> 2.- **Joaquin Pedraza TP1:** Contribui en la elaboración del trabajo haciendo mi parte asignada y asegurando que mis compañeros comprendan bien sus partes asignadas para una buena elaboración del trabajo y buen trabajo en equipo.<br> 4.- Alessandro Netto Zevallos Linares TP1: Contribuí con la implementacion de la aplicacion y documento, estando disponible para asegurar la eficiencia del trabajo. <br> 5.- Russell Stephen Romero Qwistgaard TP1: Contribuí en la documentación y testeo breve de la aplicación, analizando el progeso de cada uno de nosotros y su impacto en general|La colaboración y el liderazgo conjunto permitieron una distribución eficiente de las tareas y aseguraron que se cumplieran los plazos establecidos. La participación activa de todos los miembros del equipo fue crucial para el éxito del proyecto.| 
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | 1.- <b>Sergio André Gómez Vallejos TB1:</b> Contribuí trabajando en equipo, enfocándome en mis tareas asignadas y apoyando a mis compañeros en sus áreas cuando fue necesario, manteniendo una actitud colaborativa para cumplir los objetivos establecidos.<br>2.-<b>Maycol Jhordan Rojas Velasquez TB1:</b> Creé diversas sub tareas para el grupo para poder cumplir a tiempo todos los entregables, haciendo un entorno más dinámico y amigable para el grupo.<br>3.-<b>Joaquín Pedraza Maldonado TB1:</b> Contribuí trabajando en equipo, realizando mis tareas asignadas y escuchando a mis compañeros para así generar un buen ambiente de trabajo como grupo.<br>4.-<b> Alessandro Netto Zevallos Linares TB1:</b> Me encargué realizar las tareas asignadas para que el equipo pudiera avanzar de manera eficiente y coordinada, asegurando que los objetivos del proyecto se alcanzaran en los tiempos previstos.<br>5.-<b>Russell Stephen Romero Qwistgaard TB1:</b> Impuse mi trabajo en el proyecto con perseverancia y dedicación, buscando mejorar mi desempeño con cada entrega<br> 1.- **Sergio André Gómez Vallejos TP1:** Contribuí a que el proyecto avanzara sin problemas, completando mis tareas y apoyando a mis compañeros cuando lo requerían..<br> 2.- **Joaquin Pedraza TP1:** Contribui en la elaboración del trabajo haciendo mi parte asignada y asegurando que mis compañeros comprendan bien sus partes asignadas para una buena elaboración del trabajo y buen trabajo en equipo.<br> 4.- Alessandro Netto Zevallos Linares TP1: Cumpli con mis tareas a tiempo y ofreciendo asistencia adicional a mis compañeros cuando lo necesitaban, lo que ayudó a resolver desafíos y asegurar un flujo de trabajo eficiente.<br> 5.- Russell Stephen Romero Qwistgaard TP1: Organizando mis tiempos para realizar cada actividad, logré perseverar en la realización del trabajo y estuve atento en cada momento sobre las actualizaciones de mi equipo| La creación de un entorno colaborativo e inclusivo, junto con la planificación y establecimiento de metas claras, permitió al equipo cumplir con los objetivos del proyecto de manera eficiente. La división de tareas y el apoyo mutuo fueron fundamentales para el éxito del Sprint.|
-
+| **Criterio específico** | **Acciones realizadas** | **Conclusiones** |  
+|-------------------------|------------------------|------------------|  
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | 1.- **Sergio André Gómez Vallejos TB1:** Participé activamente en el desarrollo del documento y la landing page, colaborando con el equipo en la división de tareas y asegurando que se completaran en el plazo establecido.<br>2.- **Maycol Jhordan Rojas Velasquez TB1:** Participé activamente en el desarrollo del documento y la landing page colaborando en el tipo de colores y estilos para la web page. En la fase de **TP**, colaboré de manera equitativa para hacer el front end, realizando reuniones y código en conjunto.<br>3.- **Joaquín Pedraza Maldonado:** Participé frecuentemente en el documento y en las funcionalidades de la landing page, apoyando a mis compañeros a resolver problemas que se presentaban durante su desarrollo.<br>4.- **Alessandro Netto Zevallos Linares TB1:** Participé activamente en la creación del documento, asegurando una correcta coordinación y cumpliendo con los plazos establecidos.<br>5.- **Russell Stephen Romero Qwistgaard TB1:** Trabajé en coordinación con mi equipo, siempre estando atento a sus llamadas e intentando entregar mis partes a tiempo. En la fase de **TP**, contribuí de manera significativa al progreso del proyecto al realizar pruebas y analizar el impacto de cada miembro del equipo.| **TB1:** La colaboración y el liderazgo conjunto permitieron una distribución eficiente de las tareas y aseguraron que se cumplieran los plazos establecidos. La participación activa de todos los miembros del equipo fue crucial para el éxito del proyecto. <br>**TP:** Se asignó colaborativamente el desarrollo del proyecto, logrando un enfoque completo en el segmento objetivo. |  
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | 1.- **Sergio André Gómez Vallejos TB1:** Contribuí trabajando en equipo, enfocándome en mis tareas asignadas y apoyando a mis compañeros en sus áreas cuando fue necesario, manteniendo una actitud colaborativa para cumplir con los objetivos establecidos.<br>2.- **Maycol Jhordan Rojas Velasquez TB1:** Creé diversas subtareas para el grupo, permitiendo que todos cumplieran a tiempo con los entregables y generando un entorno más dinámico y amigable.<br>3.- **Joaquín Pedraza Maldonado TB1:** Contribuí trabajando en equipo, realizando mis tareas asignadas y escuchando a mis compañeros para generar un buen ambiente de trabajo.<br>4.- **Alessandro Netto Zevallos Linares TB1:** Me encargué de realizar las tareas asignadas para que el equipo pudiera avanzar de manera eficiente y coordinada, asegurando que los objetivos del proyecto se alcanzaran en los tiempos previstos.<br>5.- **Russell Stephen Romero Qwistgaard TB1:** Impuse mi trabajo en el proyecto con perseverancia y dedicación, buscando mejorar mi desempeño con cada entrega. En la fase de **TP**, organicé mis tiempos y estuve atento a las actualizaciones de mi equipo para garantizar el éxito del proyecto.| **TB1:** La creación de un entorno colaborativo e inclusivo, junto con la planificación y establecimiento de metas claras, permitió al equipo cumplir con los objetivos del proyecto de manera eficiente. La división de tareas y el apoyo mutuo fueron fundamentales para el éxito del Sprint.<br>**TP:** Se trabajó de manera colaborativa en el desarrollo de una buena aplicación web, haciendo que el trabajo fuera un esfuerzo conjunto. |
 
 # 1. CAPÍTULO I: Introducción
 ## 1.1 Startup Profile
@@ -252,7 +256,7 @@ Nos esforzamos por proporcionar una plataforma que conecte a los hoteles con her
 | ![image](./assets/Joaquin.png) |Joaquín Andree Pedraza Maldonado <br> Mi nombre es Joaquín Andreé Pedraza Maldonado , tengo 20 años y actualmente me encuentro en 6to ciclo de la carrera de Ingeniería de Software , en la UPC , sede San Miguel. Al terminar mi carrera desearía dedicarme al rubro de desarrollo Web o cyberseguridad.Soy una persona centrada , perseverante , tranquila  , optimista y efectiva.|
 |<img src="https://hackmd.io/_uploads/B1F_iuso0.jpg" alt="yo-3" style="width: 600px ; height: 200px;">|Maycol Jhordan Rojas Velasquez – Ingeniería de Software – u202219984<br>Elegí la carrera de Ingeniería de Software debido a mi gusto por la innovación y la implementación de la tecnología en cualquier rubro  social, de una manera creativa y en todos los aspectos. Me considero una persona creativa, en busca de ideas, estrategias con mente nueva. También me gusta escuchar ideas de mi equipo, dar ideas de mejora, evaluar las ventajas y desventajas . Además, tengo conocimientos de programación en C + +, HTML, Python,Angular,Backend en Java. Además, Tengo un enfoque responsable y dedicado mediante un aprendizaje rápido así puedo ayudar a mis compañeros en sus dudas. Por otro lado, mis hobbies son ver series, jugar , escuchar música, nadar y  manejar.|
 | ![Captura de pantalla 2024-08-15 121605](https://hackmd.io/_uploads/ByWzO2icC.png)| Russell Stephen Romero Qwistgaard - Ingeniería de Software - U202211043 <br> Tengo 19 y estudió la carrera de ingeniería de software, actualmente en el 6 ciclo de esta. Me apasiona crear programas en entornos distintos para poder ampliar mi conocimiento en las muchas áreas que dependen de mi formación. Estoy dispuesto a cooperar y ser puntual en mis trabajos individuales y grupales. |
-| ![Alessandro](https://hackmd.io/_uploads/BJgim4unA.jpg) | Alessandro Zevallos Linares - Ingeniería de Software - U202216035 <br>Soy estudiante de Ingeniería de Software con un fuerte interés en el desarrollo de productos digitales y la tecnología. En mi tiempo libre, me gusta jugar videojuegos. También tengo un interés especial en la música, lo que me ayuda a equilibrar mi vida académica y personal. Cuento con habilidades en gestión de bases de datos. Además, tengo experiencia en análisis de datos, lo que me ayuda a tomar decisiones informadas y crear soluciones efectivas. |
+| ![Alessandro](https://github.com/user-attachments/assets/fe3d3ac0-b510-4610-81df-309c5bc7dbff) | Alessandro Zevallos Linares - Ingeniería de Software - U202216035 <br>Soy estudiante de Ingeniería de Software con un fuerte interés en el desarrollo de productos digitales y la tecnología. En mi tiempo libre, me gusta jugar videojuegos. También tengo un interés especial en la música, lo que me ayuda a equilibrar mi vida académica y personal. Cuento con habilidades en gestión de bases de datos. Además, tengo experiencia en análisis de datos, lo que me ayuda a tomar decisiones informadas y crear soluciones efectivas. |
 
 ## 1.2 Solution Profile
 ### 1.2.1  Antecedentes y Problematica **
@@ -756,7 +760,7 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 | **Edad:** 20 años |
 | **Minuto del video:**  10:23 |
 | **Procedencia:** San Miguel, Lima |
-| ![Entrevista]() |
+| |
 | **Resumen:** Vasco Zagaceta, un estudiante de 20 años residente en San Miguel, Lima, suele reservar hoteles y valora principalmente las reseñas de otros usuarios y la ubicación del hotel al hacer sus reservas. Utiliza la aplicación Booking para realizar sus reservas y se siente cómodo utilizando aplicaciones móviles y plataformas web para este propósito. Vasco sugiere que la implementación de una inteligencia artificial que mejore las recomendaciones basadas en las preferencias del usuario sería una buena idea. Además, considera muy importante recibir actualizaciones y notificaciones del proveedor antes y durante el servicio reservado. También le gustaría tener la opción de comunicarse directamente con el proveedor a través de la plataforma para resolver dudas o recibir información adicional. |
 
 ### Segmento: Empresas Hoteleras
@@ -911,6 +915,7 @@ Después de llevar a cabo y describir los registros de los entrevistados, esta s
 ![image](./assets/TO-BE_MAPPING-HUESPEDES_1.png)
 ![image](./assets/TO-BE_MAPPING-HUESPEDES_2.png)
 ##3.2  User Stories
+
 Las User Stories son una herramienta fundamental para definir los requisitos del proyecto. Cada User Story incluye criterios de aceptación que deben ser comprobables y redactados en tiempo presente, tercera persona, siguiendo la estructura de Gherkin (Given-When-Then). Además, se consideran User Stories para el sitio web estático (Landing Page) y Technical Stories para los features del RESTful API.
 
 
@@ -1284,6 +1289,7 @@ Enlaces Rápidos: Ofrece acceso rápido a funciones críticas como gestión de r
 
 ##  4.3 Landing Page UI Design
 ### 4.3.1 Landing Page Wireframe
+
 ![LandingPageWireframe](./assets/Landing-Page-Wireframe.jpg)
 
 1. **Jerarquía Visual**: El título grande y las imágenes dominantes guían la atención del usuario, destacando los elementos más importantes.
@@ -1298,7 +1304,9 @@ Enlaces Rápidos: Ofrece acceso rápido a funciones críticas como gestión de r
 
 6. **Principios de Diseño**: El diseño es consistente, bien alineado y sigue una estructura clara que facilita la experiencia de usuario.
 
+
 ### 4.3.2  Landing Page Mock-up
+
 ![LandingPageMockUps](./assets/Landing_Page_Mock.jpg)
 
 ### Mock-ups del Landing Page
@@ -1315,8 +1323,10 @@ Enlaces Rápidos: Ofrece acceso rápido a funciones críticas como gestión de r
 
 6. **Llamadas a la Acción (CTA)**: En la versión móvil, se destacan los botones "Reservar" y "Ver más", lo que fomenta la interacción directa del usuario, asegurando que los elementos interactivos son fácilmente accesibles.
 
+
 ## 4.4 Web Applications UX/UI Design
 ### 4.4.1 Web Applications Wireframes
+
 ![WebApplicationsWireframe](./assets/WebApplicationsWireframe1.PNG)
 
 ![WebApplicationsWireframe](./assets/WebApplicationsWireframe2.PNG)
@@ -1359,13 +1369,15 @@ User Goal 8: Enviar una notificación al personal <br>
 ![WebApplicationsUserDiagram3](./assets/WebApplicationsUserDiagram3.PNG)
 ![WebApplicationsUserDiagram4](./assets/WebApplicationsUserDiagram4.PNG)
 ![WebApplicationsUserDiagram5](./assets/WebApplicationsUserDiagram5.PNG)
+
 ### 4.5 Web Applications Prototyping
+
 ![PrototypeDesktop](./assets/PrototypeDesktop.PNG) <br>
 ![PrototypeMobile](./assets/PrototypeMobile.PNG) <br>
 | Tipo de Video                 | Enlace                                                                                                  |
 |-------------------------------|---------------------------------------------------------------------------------------------------------|
-| Prototype Desktop Video       | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216035_upc_edu_pe/EZKwDgE2b5BInXQA0C8ijZEB4kZaJLE6x_Xuq7fkeph8WA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=PhGVZ9 |
-| Prototype Mobile Video        | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216035_upc_edu_pe/EeJf2XgJW2JAsXFWZ_0UOrgBlizX862fVw5mXH_YAoXDNQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=37tJZ3 |
+| Prototype Desktop Video       | [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216035_upc_edu_pe/EZKwDgE2b5BInXQA0C8ijZEB4kZaJLE6x_Xuq7fkeph8WA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=PhGVZ9](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216035_upc_edu_pe/EZKwDgE2b5BInXQA0C8ijZEB4kZaJLE6x_Xuq7fkeph8WA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=PhGVZ9) |
+| Prototype Mobile Video        | [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216035_upc_edu_pe/EeJf2XgJW2JAsXFWZ_0UOrgBlizX862fVw5mXH_YAoXDNQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=37tJZ3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216035_upc_edu_pe/EeJf2XgJW2JAsXFWZ_0UOrgBlizX862fVw5mXH_YAoXDNQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=37tJZ3) |
 
 ## 4.6 Domain-Driven Software Architecture
 Los diseños C4 son una forma efectiva de representar la arquitectura de un sistema de software de manera clara y concisa. En el caso del proyecto King Reserve, los diseños C4 nos permiten visualizar la estructura y las interacciones entre los diferentes componentes del sistema. 
@@ -1373,6 +1385,7 @@ Los diseños C4 son una forma efectiva de representar la arquitectura de un sist
 En el nivel más alto, el diseño C4 nos muestra el contexto del sistema, identificando los actores externos y los sistemas con los que interactúa King Reserve. A medida que descendemos en los niveles de detalle, podemos ver los contenedores que componen el sistema, como la aplicación web, la base de datos y los servicios externos. Además, los diagramas C4 nos permiten visualizar los componentes internos de cada contenedor, como los módulos y las clases.
 
 Estos diseños proporcionan una visión clara de la arquitectura del sistema, lo que facilita la comunicación entre los miembros del equipo y ayuda a identificar posibles problemas o mejoras. Al utilizar los diseños C4 en el proyecto King Reserve, podemos asegurarnos de que todos los involucrados tengan una comprensión común de la arquitectura y puedan colaborar de manera efectiva en su implementación y evolución. 
+
 ### 4.6.1 Software Architecture Context Diagram
 ![KingReserve-diagram-context](./assets/Context-Diagram.png)
 ### 4.6.2 Software Architecture Container Diagrams
@@ -1384,6 +1397,7 @@ Estos diseños proporcionan una visión clara de la arquitectura del sistema, lo
 ### 4.7.1 Class Diagrams
 ![image](./assets/Class_Diagram.jpeg)
 ### 4.7.2  Class Dictionary
+
 Service: Contiene los atributos StatusService, description, DateStart, DateEnd y price. Los métodos asociados permiten iniciar (initService), finalizar (endService), cancelar (cancelService), y cambiar el estado (changeStatus) de un servicio. Está relacionada con la clase Order, indicando que los servicios pueden estar vinculados a órdenes, y con la clase Controlador, que gestiona los servicios.
 
 Reservation: Incluye los atributos reservationID, reservationDate, tableID, numberOfPeople, y tableID. Los métodos asociados son createReservation para crear una reserva, cancelReservation para cancelarla, y updateReservation para actualizarla. Está relacionada con la clase Customer, ya que los clientes pueden hacer y gestionar reservas, y con la clase Worker, que puede administrar las reservas.
@@ -1799,10 +1813,10 @@ Durante este Sprint, se han alcanzado varios hitos importantes en la implementac
 
 Para una demostración completa de la visualización y navegación logradas en este Sprint, por favor vea el siguiente video:
 
-|Nombre|Link|
-|--------------------|------------|
-|Video de Demostración | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219984_upc_edu_pe/EVt0Nx5B_7tCvOJOQPutx4MB3DofKynew2_pIgkDRkttSg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Qbz30y |
 
+| Nombre               | Link                                                                                           |
+|----------------------|------------------------------------------------------------------------------------------------|
+| Video de Demostración | [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219984_upc_edu_pe/EVt0Nx5B_7tCvOJOQPutx4MB3DofKynew2_pIgkDRkttSg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Qbz30y](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219984_upc_edu_pe/EVt0Nx5B_7tCvOJOQPutx4MB3DofKynew2_pIgkDRkttSg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Qbz30y) |
 
 
 
