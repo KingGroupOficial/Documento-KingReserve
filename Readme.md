@@ -1904,7 +1904,7 @@ Durante este sprint, se han realizado avances significativos en la implementaci�
 
 ### Imagenes 
 
-![Development](./assets/development%20.jpg)
+
 
 ## 5.2.2.4 Testing Suite Evidence for Sprint Review
 
@@ -1914,17 +1914,17 @@ En esta sección se explica y presenta el conjunto de Unit Tests, Integration Te
 
 | Repository |Branch| Commit Id | Commit Message| Commit Message Body| Commited on (Date)|
 |--------|-----------|--------|-------|---------------------------------|-------|
-| KingGroupOficial/Landing-Page---KingReserve   | developer | 7f3c2874287552489b28ff2a84744f0fe0f18b75 | feat: add Descripcion de landing page | Se agrego la parte de resumen nombrando al grupo y idea del proyecto      | 2024-08-30|
-| KingGroupOficial/Landing-Page---KingReserve   | developer|e83f2ff35b69c8a4d4ba1f84f8ea7e1c9db5aec8  |  feat: update logo and add her seccion|Se desarrolo el hero y las caracteristicas del Web Application  | 2024-08-30|
-| KingGroupOficial/Landing-Page---KingReserve   | developer| 5d8ce03a2eeaa912b0db04e40da51da38f3aa4fb | Feat: Update Send Email A CEO kINGGROUP, ARREGLO DE BUGS  |  Aqui hace la funcion donde podremos enviar correo de los registros. | 2024-09-03 |
-| KingGroupOficial/Landing-Page---KingReserve   | developer | ad047b4e1660faf1d8e0187dcadbe0570613bf2a  |Feat: update a contact, save data in database  |Aqui se hizo el apartado de un nuevo formulario de contacto y una administracion de los datos usados en Firebase | 2024-08-30|
-| KingGroupOficial/Landing-Page---KingReserve   | developer |   aebc0a4c8428f77150983aaaa449a4a347fc0a6a |  feat: Update Funciones |Se agrego las funcionalidades que ofrece nuestro aplicativo |2024-08-30 |
-| KingGroupOficial/Landing-Page---KingReserve   | developer |  aebc0a4c8428f77150983aaaa449a4a347fc0a6a  |feat: Update Funciones   | Se agrego una visualizacion mas dinamica de los planes que ofrezemos | 2024-08-30 |
-| KingGroupOficial/Landing-Page---KingReserve   | developer | 9bdc211d3c022974457c975452aa94fbb1e23e5f   | feat: update seccion de pubicidad de king reserve  | Se desarrollo la parte de pregutnas frecuentes, enlaces publicos y sociales.|2024-08-30 |
-| KingGroupOficial/Landing-Page---KingReserve   | developer | 58f345de2b81a334890dc8f01f4b420c119aa178   |  feat: update links de la landing page |Se desarollo la conexcion de KingGroup y la aplicación  | 2024-09-03 |
+|  KingGroupOficial/Front-End-KingReserve   | developer | 517b0cbc978be7c8ae42b1eab0cf0967d059ec53 | feat: Add files via upload | Se añadieron archivos faltantes    | 2024-09-27|
+|  KingGroupOficial/Front-End-KingReserve   | developer|62b19a1af69ddc74fccbda4a7aa7a53409d39c2e  |  feat: Delete src/king-reserve/staff directory|Se elimio el directorio staff   |2024-09-27|
+|  KingGroupOficial/Front-End-KingReserve   | developer| 2f5020df1625fcd35514ea8147c207eb6c90e574 | Feat: add color stadistics |Se añadio colores a stadistics para su diseño de interfaz | 2024-09-27 |
+|  KingGroupOficial/Front-End-KingReserve    | developer | a8a25a838a0bdf347947fae2a37e5e82e7a36384  |Feat:add rooms colors |Se añadio colores a rooms para su diseño de interfaz| 2024-09-27|
+| KingGroupOficial/Front-End-KingReserve  | developer |   e78a77d6bc0c760fe04abc98186a4c068bf027ad |  feat:color buttons |Se agrego colores a los botones para que sean mas intuitivos |2024-08-30 |
+|  KingGroupOficial/Front-End-KingReserve   | developer |  acc4b3940cbddc385b9209f1084b2f04920b32f4  |feat: add colors   | Se agrego colores a los botones e interfaz correspondientes a nuestro proyecto| 2024-09-27 |
+| KingGroupOficial/Front-End-KingReserve   | developer | 40c1b4d2dc28e0cd3b8fecbdeef1d304100665cc   | feat: Merge branch 'developer' | Se hizo un Merge al finalizar con la rama developer|2024-09-27|
+|  KingGroupOficial/Front-End-KingReserve   | developer | 7a7ac68301cad74eddeaef9a83129ed3475c16b0   |  feat: ADD api fake persons |Se añadio el api fake de persons | 2024-09-27 |
 
 ## Imagenes
-![Testing](./assets/testing.jpg)
+
 ## Conclusiones Generales
 
 1. Durante este Sprint, el equipo ha demostrado una colaboración efectiva y una distribución equitativa de las tareas. Todos los miembros del equipo han participado activamente en la implementación de la Landing Page, contribuyendo con commits significativos y trabajando en conjunto para resolver problemas y mejorar la calidad del producto. La utilización de herramientas como GitHub y Netlify ha facilitado la integración continua y el despliegue automatizado, permitiendo un flujo de trabajo más eficiente y coordinado.
