@@ -1989,6 +1989,18 @@ Durante este Sprint, se han alcanzado varios hitos importantes en la implementac
 
 2. Se han logrado avances significativos en la implementación de la Landing Page de King Reserve. El equipo ha completado con éxito varias tareas clave, incluyendo el diseño y maquetación de la página, la implementación de secciones importantes como el encabezado, el pie de página y el contenido principal, así como la configuración de la integración continua y el despliegue en Netlify. Estos logros han sentado una base sólida para futuras iteraciones y mejoras, asegurando que la Landing Page cumpla con los requisitos y expectativas del proyecto.
 
+### 5.2.2.7 Software  Deployment Evidence for Sprint Review 
+1 Crear un proyecto en Firebase
+![image](./assets/deploy-FrontEndPaso1.png)
+
+2 Ponemos el npm build 
+![image](./assets/Deploypaso2.png)
+
+3 Configuramos el hosting
+![image](./assets/Deploypaso3.png)
+4 Deployamos
+![image](./assets/deploypaso4.png)
+
 ## 6.4 Bibliografía
 
 1. The C4 model for visualising software architecture (2024) Recuperado de: https://c4model.com
