@@ -74,7 +74,7 @@
 |TB1|06/09/2024|Russell Stephen Romero Qwistgaard| AS - IS MAPPING, TO - BE MAPPING, Impact Mapping|
 | TB1         | 08/09/2024  | Sergio André Gómez Vallejos       |  Implementación de user story, product backlog y sprint 1 | 
 | TP1         | 09/09/2024  | Sergio André Gómez Vallejos       |  Implementación del sprint 2, sprint backlog, testing | 
-
+| TP1         | 09/09/2024  | Alessandro Zevallos Linares      |  Implementación del sprint 2, sprint execution evidence, team collaboration insights | 
 **Project Report Collaboration Insights**
 
 ### URL del Repositorio 
