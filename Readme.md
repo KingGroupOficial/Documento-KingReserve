@@ -74,7 +74,12 @@
 |TB1|06/09/2024|Maycol Jhordan Rojas Velasquez| Se hizo  Sprint 1 ,Sprint Planning 1. Sprint Backlog 1. Development Evidence for Sprint Review. Testing Suite Evidence for Sprint Review. Execution Evidence for Sprint Review. Services Documentation Evidence for Sprint Review. Software Deployment Evidence for Sprint Review. Team Collaboration Insights during Sprint. |
 |TB1|06/09/2024|Russell Stephen Romero Qwistgaard| AS - IS MAPPING, TO - BE MAPPING, Impact Mapping|
 | TB1         | 08/09/2024  | Sergio André Gómez Vallejos       |  Implementación de user story, product backlog y sprint 1 | 
-| TP         | 27/09/2024  | Maycol Jhordan Rojas Velasquez       |  Se hizo el student outcome para el trbajo TP | 
+
+| TP1         | 09/09/2024  | Sergio André Gómez Vallejos       |  Implementación del sprint 2, sprint backlog 1, testing | 
+| TP1         | 09/09/2024  | Alessandro Zevallos Linares      |  Implementación del sprint 2, sprint execution evidence, team collaboration insights | 
+| TP1         | 27/09/2024  | Joaquin Pedraza Maldonado       |  Implementación del sprint 2, sprint planning, testing, Software Deployment Evidence for Sprint Review 2 | 
+| TP1         | 27/09/2024  | Russell Stephen Romero Qwistgaard | Implementación del sprint 2, sprint planning 2, testing, sprint backolog 2 |
+| TP1         | 27/09/2024  | Maycol Jhordan Rojas Velasquez       |  Se hizo el student outcome para el trbajo TP | 
 
 **Project Report Collaboration Insights**
 
@@ -212,14 +217,14 @@ El curso contribuye al cumplimiento del Student Outcome ABET:
 ##### ABET – EAC - Student Outcome 5 
 Criterio: Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo; crea un entorno colaborativo e inclusivo y establece metas, planifica tareas y cumple objetivos, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5. 
 
-| **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
-|-------------------------|------------------------|------------------|
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta | 1.- **Sergio André Gómez Vallejos TB1:** Participé activamente en el desarrollo del documento y la landing page, colaborando con el equipo en la división de tareas y asegurando que se completaran en el plazo establecido.<br>2.- **Maycol Jhordan Rojas Velasquez TB1:** Participé activamente en el desarrollo del documento y la landing page colaborando en el tipo de colores y estilos para la web page.<br>**TP:** Colaboré de manera equitativa para hacer el front end haciendo reuniones y código en conjunto.<br>4.- **Joaquín Pedraza Maldonado:** Participé frecuentemente en el documento y las funcionalidades de la landing page apoyando a mis compañeros a que puedan resolver problemas que se les presentaban a la hora de resolver sus partes.<br>5.- **Alessandro Netto Zevallos Linares TB1:** Participé activamente en la creación del documento, asegurando una correcta coordinación y cumpliendo con los plazos establecidos.<br>6.- **Russell Stephen Romero Qwistgaard TB1:** Trabajé en coordinación con mi equipo, siempre estando atento a sus llamadas e intentando entregar mis partes a tiempo. | **TB1:** La colaboración y el liderazgo conjunto permitieron una distribución eficiente de las tareas y aseguraron que se cumplieran los plazos establecidos. La participación activa de todos los miembros del equipo fue crucial para el éxito del proyecto.<br>**TP:** Se asignó colaborativamente el desarrollo del proyecto para un segmento objetivo completo. |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | 1.- **Sergio André Gómez Vallejos TB1:** Contribuí trabajando en equipo, enfocándome en mis tareas asignadas y apoyando a mis compañeros en sus áreas cuando fue necesario, manteniendo una actitud colaborativa para cumplir los objetivos establecidos.<br>2.- **Maycol Jhordan Rojas Velasquez TB1:** Creé diversas sub tareas para el grupo para poder cumplir a tiempo todos los entregables, haciendo un entorno más dinámico y amigable para el grupo.<br> **TP:** Se trabajó con el equipo completo para desarrollar una buena aplicación web.<br>4.- **Joaquín Pedraza Maldonado TB1:** Contribuí trabajando en equipo, realizando mis tareas asignadas y escuchando a mis compañeros para así generar un buen ambiente de trabajo como grupo.<br>5.- **Alessandro Netto Zevallos Linares TB1:** Me encargué de realizar las tareas asignadas para que el equipo pudiera avanzar de manera eficiente y coordinada, asegurando que los objetivos del proyecto se alcanzaran en los tiempos previstos.<br>6.- **Russell Stephen Romero Qwistgaard TB1:** Impuse mi trabajo en el proyecto con perseverancia y dedicación, buscando mejorar mi desempeño con cada entrega. | **TB1:** La creación de un entorno colaborativo e inclusivo, junto con la planificación y establecimiento de metas claras, permitió al equipo cumplir con los objetivos del proyecto de manera eficiente. La división de tareas y el apoyo mutuo fueron fundamentales para el éxito del Sprint.<br>**TP:** Se desarrolló de manera colaborativa el desarrollo de un buen software haciendo colaborativo el trabajo. |
+| **Criterio específico** | **Acciones realizadas** | **Conclusiones** |  
+|-------------------------|------------------------|------------------|  
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | 1.- **Sergio André Gómez Vallejos TB1:** Participé activamente en el desarrollo del documento y la landing page, colaborando con el equipo en la división de tareas y asegurando que se completaran en el plazo establecido.<br>2.- **Maycol Jhordan Rojas Velasquez TB1:** Participé activamente en el desarrollo del documento y la landing page colaborando en el tipo de colores y estilos para la web page. En la fase de **TP**, colaboré de manera equitativa para hacer el front end, realizando reuniones y código en conjunto.<br>3.- **Joaquín Pedraza Maldonado:** Participé frecuentemente en el documento y en las funcionalidades de la landing page, apoyando a mis compañeros a resolver problemas que se presentaban durante su desarrollo.<br>4.- **Alessandro Netto Zevallos Linares TB1:** Participé activamente en la creación del documento, asegurando una correcta coordinación y cumpliendo con los plazos establecidos.<br>5.- **Russell Stephen Romero Qwistgaard TB1:** Trabajé en coordinación con mi equipo, siempre estando atento a sus llamadas e intentando entregar mis partes a tiempo. En la fase de **TP**, contribuí de manera significativa al progreso del proyecto al realizar pruebas y analizar el impacto de cada miembro del equipo.| **TB1:** La colaboración y el liderazgo conjunto permitieron una distribución eficiente de las tareas y aseguraron que se cumplieran los plazos establecidos. La participación activa de todos los miembros del equipo fue crucial para el éxito del proyecto. <br>**TP:** Se asignó colaborativamente el desarrollo del proyecto, logrando un enfoque completo en el segmento objetivo. |  
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | 1.- **Sergio André Gómez Vallejos TB1:** Contribuí trabajando en equipo, enfocándome en mis tareas asignadas y apoyando a mis compañeros en sus áreas cuando fue necesario, manteniendo una actitud colaborativa para cumplir con los objetivos establecidos.<br>2.- **Maycol Jhordan Rojas Velasquez TB1:** Creé diversas subtareas para el grupo, permitiendo que todos cumplieran a tiempo con los entregables y generando un entorno más dinámico y amigable.<br>3.- **Joaquín Pedraza Maldonado TB1:** Contribuí trabajando en equipo, realizando mis tareas asignadas y escuchando a mis compañeros para generar un buen ambiente de trabajo.<br>4.- **Alessandro Netto Zevallos Linares TB1:** Me encargué de realizar las tareas asignadas para que el equipo pudiera avanzar de manera eficiente y coordinada, asegurando que los objetivos del proyecto se alcanzaran en los tiempos previstos.<br>5.- **Russell Stephen Romero Qwistgaard TB1:** Impuse mi trabajo en el proyecto con perseverancia y dedicación, buscando mejorar mi desempeño con cada entrega. En la fase de **TP**, organicé mis tiempos y estuve atento a las actualizaciones de mi equipo para garantizar el éxito del proyecto.| **TB1:** La creación de un entorno colaborativo e inclusivo, junto con la planificación y establecimiento de metas claras, permitió al equipo cumplir con los objetivos del proyecto de manera eficiente. La división de tareas y el apoyo mutuo fueron fundamentales para el éxito del Sprint.<br>**TP:** Se trabajó de manera colaborativa en el desarrollo de una buena aplicación web, haciendo que el trabajo fuera un esfuerzo conjunto. |
 
-# CAPÍTULO I: Introducción
-## Startup Profile
-### Descripción de la Startup
+# 1. CAPÍTULO I: Introducción
+## 1.1 Startup Profile
+### 1.1.1Descripción de la Startup
 #### Descripción de la Startup:
 <div style="text-align: justify">
 KingReserve es una startup inovadora 
@@ -244,17 +249,17 @@ Visualizamos un mundo donde la tecnología y la gestión hotelera se fusionan pa
 ### **Misión:**
 Nos esforzamos por proporcionar una plataforma que conecte a los hoteles con herramientas avanzadas de gestión, mejorando la eficiencia operativa y la satisfacción del cliente. Estamos decididos a utilizar la tecnología para generar un impacto positivo en la experiencia de los huéspedes y la eficiencia del personal hotelero. **KingReserve** será símbolo de excelencia en la gestión hotelera, innovación en la administración de servicios, y compromiso con la mejora continua, mientras fomentamos una comunidad activa y colaborativa en torno a la hospitalidad y el servicio.
 
-### Perfiles de integrantes del equipo
+### 1.1.2  Perfiles de integrantes del equipo
 | Integrante | Descripción |
 | ---- | --- |
 | ![Sergio](https://hackmd.io/_uploads/SkU_5d9cR.png) | Sergio André Gómez Vallejos – Ingeniería de Software – u20221d401 <br> Soy una persona resiliente que, sin importar cuántas veces caiga, siempre encuentra la manera de levantarse. Tengo habilidades sociales sólidas y una amplia experiencia en la resolución de problemas de código. Suelo ser el miembro más activo de mi equipo de trabajo. Me apasionan los lenguajes de programación y la tecnología, y constantemente me esfuerzo por alcanzar mis objetivos y contribuir al desarrollo del startup. |
-|  |Joaquín Andree Pedraza Maldonado <br> Mi nombre es Joaquín Andreé Pedraza Maldonado , tengo 20 años y actualmente me encuentro en 6to ciclo de la carrera de Ingeniería de Software , en la UPC , sede San Miguel. Al terminar mi carrera desearía dedicarme al rubro de desarrollo Web o cyberseguridad.Soy una persona centrada , perseverante , tranquila  , optimista y efectiva.|
+| ![image](./assets/Joaquin.png) |Joaquín Andree Pedraza Maldonado <br> Mi nombre es Joaquín Andreé Pedraza Maldonado , tengo 20 años y actualmente me encuentro en 6to ciclo de la carrera de Ingeniería de Software , en la UPC , sede San Miguel. Al terminar mi carrera desearía dedicarme al rubro de desarrollo Web o cyberseguridad.Soy una persona centrada , perseverante , tranquila  , optimista y efectiva.|
 |<img src="https://hackmd.io/_uploads/B1F_iuso0.jpg" alt="yo-3" style="width: 600px ; height: 200px;">|Maycol Jhordan Rojas Velasquez – Ingeniería de Software – u202219984<br>Elegí la carrera de Ingeniería de Software debido a mi gusto por la innovación y la implementación de la tecnología en cualquier rubro  social, de una manera creativa y en todos los aspectos. Me considero una persona creativa, en busca de ideas, estrategias con mente nueva. También me gusta escuchar ideas de mi equipo, dar ideas de mejora, evaluar las ventajas y desventajas . Además, tengo conocimientos de programación en C + +, HTML, Python,Angular,Backend en Java. Además, Tengo un enfoque responsable y dedicado mediante un aprendizaje rápido así puedo ayudar a mis compañeros en sus dudas. Por otro lado, mis hobbies son ver series, jugar , escuchar música, nadar y  manejar.|
 | ![Captura de pantalla 2024-08-15 121605](https://hackmd.io/_uploads/ByWzO2icC.png)| Russell Stephen Romero Qwistgaard - Ingeniería de Software - U202211043 <br> Tengo 19 y estudió la carrera de ingeniería de software, actualmente en el 6 ciclo de esta. Me apasiona crear programas en entornos distintos para poder ampliar mi conocimiento en las muchas áreas que dependen de mi formación. Estoy dispuesto a cooperar y ser puntual en mis trabajos individuales y grupales. |
 | ![Alessandro](https://github.com/user-attachments/assets/fe3d3ac0-b510-4610-81df-309c5bc7dbff) | Alessandro Zevallos Linares - Ingeniería de Software - U202216035 <br>Soy estudiante de Ingeniería de Software con un fuerte interés en el desarrollo de productos digitales y la tecnología. En mi tiempo libre, me gusta jugar videojuegos. También tengo un interés especial en la música, lo que me ayuda a equilibrar mi vida académica y personal. Cuento con habilidades en gestión de bases de datos. Además, tengo experiencia en análisis de datos, lo que me ayuda a tomar decisiones informadas y crear soluciones efectivas. |
 
-## Solution Profile
-### Antecedentes y Problematica **
+## 1.2 Solution Profile
+### 1.2.1  Antecedentes y Problematica **
 
 En la actualidad se puede evidenciar que la industria turistica a incrementado de manera exponencial estos ultimos años en nuestro país , esto a traido como consecuencia la aparición de más agencias hoteleras debido a la vista de una gran oportunidad de negocio frente a la alta demanda del sector turistico, sin embargo esto ocasiono que la productividad en el sector hotelero disminuya por la falta de eficiencia a la hora de realizar las reservas o la mala desorganización dentro del sector hotelero .
 
@@ -262,9 +267,9 @@ En el Perú el problema de la informalidad en el sector turístico, que también
 
 Fuente: https://revistasinvestigacion.unmsm.edu.pe/index.php/quipu/article/view/20192
 
-### 1.2.1 Lean Ux Procces
+### 1.2.2 Lean Ux Procces
 
-###  Problem Statement 
+### 1.2.2.1  Problem Statement 
 ## Ciudadanos Peruanos
 El crecimiento acelerado del turismo en Perú ha generado la creación de numerosas agencias de viajes y hoteles, impulsados por la alta demanda del sector. Sin embargo, la informalidad y la desorganización dentro del sector han llevado a una disminución en la productividad, afectando tanto a turistas como a trabajadores del sector. Además, la falta de coordinación y estándares de servicio en las agencias informales provoca una experiencia deficiente para los turistas, lo que puede impactar negativamente la reputación del turismo en el país.
 
@@ -294,7 +299,7 @@ Incentivar la Formalización:
 Crear programas de incentivos que animen a las empresas informales a regularizar su situación, ofreciéndoles beneficios como acceso a financiamiento, capacitación, y promoción en plataformas turísticas oficiales.
 Establecer sanciones y controles más estrictos para reducir la competencia desleal de las empresas informales.
 
-### Lean Ux Assumptions 
+### 1.2.2.2 Lean Ux Assumptions 
 
 ### Buisness Assumptions
 -Creo que mis clientes (hoteles ) necesitan una mejora en la eficiencia y organización del proceso de reservas para reducir errores, mejorar la calidad del servicio y competir con las operaciones informales.
@@ -338,7 +343,7 @@ El producto es utilizado cada vez que los hoteles o agencias necesitan gestionar
 ¿Cómo debe verse nuestro producto y cómo debe comportarse?
 El producto debe ser intuitivo, fácil de usar y altamente funcional. Los usuarios deben poder gestionar reservas, coordinar servicios y realizar consultas de manera rápida, sencilla y precisa, mientras los huéspedes disfrutan de un proceso de reserva claro y una comunicación fluida con el hotel .
 
-### Lean Ux Proccess Hypothesis Statement
+### 1.2.2.3Lean Ux Proccess Hypothesis Statement
 Usuario Huésped
 Creemos que, al desarrollar una aplicación que centralice y automatice el proceso de reservas y servicios turísticos, mejoraremos la experiencia de los huéspedes al ofrecerles un proceso de reserva más sencillo, rápido y personalizado.
 
@@ -353,7 +358,7 @@ Lograremos evitar problemas de desorganización y comunicación que resultan en 
 
 Sabremos que hemos tenido éxito cuando la totalidad de las reservas gestionadas a través de la plataforma hayan sido procesadas sin errores, y los hoteles  reporten una mejora en su eficiencia operativa.
 
-### Lean UX Canvas
+### 1.2.2.4 Lean UX Canvas
 
 <div style="text-align:justify;">
 </div>
@@ -364,7 +369,7 @@ Sabremos que hemos tenido éxito cuando la totalidad de las reservas gestionadas
 </div>
 <br>
     
-### Segmentos Objetivo
+### 1.3 Segmentos Objetivo
 
 #### 1. Empresas Hoteleras:
 
@@ -411,10 +416,10 @@ Este segmento está compuesto por viajeros que buscan una experiencia de alojami
 <br>
 <br>
 
-# Capítulo II: Requirements Elicitation & Analysis
-## Competidores
+# 2 Capítulo II: Requirements Elicitation & Analysis
+##  2.1 Competidores
 KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al combinar la gestión hotelera con una comunidad colaborativa para profesionales del sector. Mientras que Opera PMS es ideal para grandes cadenas pero costoso para pequeños hoteles, RoomRaccoon se centra en hoteles más pequeños con una solución integral, y Mews destaca por su automatización y diseño moderno, KingReserve ofrece una solución versátil que no solo optimiza la operación, sino que también fomenta la interacción y el intercambio de conocimientos entre usuarios, elevando la calidad del servicio y la experiencia del cliente.
-## Análisis Competitivo
+## 2.1.1 Análisis Competitivo
 <table>
    <tr>
       <td align="center" colspan="6"><b>Competitive Analysis Landscape</b></td>
@@ -515,7 +520,7 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
    </tr>
 </table>
 
-### Estrategias y tácticas frente a competidores
+### 2.1.2 Estrategias y tácticas frente a competidores
 **Diferenciación mediante la Experiencia del Cliente y Comunidad Colaborativa:**
 
 **Estrategia:** Resaltar el enfoque único de KingReserve en la creación de una comunidad interactiva y colaborativa, donde los usuarios no solo gestionan operaciones, sino que también comparten conocimientos, experiencias y mejores prácticas dentro de la industria hotelera.
@@ -540,9 +545,9 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 
 **Estrategia:** Mantenerse a la vanguardia en la adopción de tecnologías emergentes para optimizar la experiencia del usuario y la eficiencia operativa.
 **Táctica:** Invertir en la investigación y desarrollo de tecnologías como inteligencia artificial y análisis predictivo para anticipar las necesidades de los huéspedes y ofrecer recomendaciones personalizadas. Implementar mejoras continuas en la plataforma basadas en feedback de los usuarios y avances tecnológicos en la industria.
-## Entrevistas
+## 2.2 Entrevistas
 
-### Diseño de Entrevistas
+### 2.2.1   Diseño de Entrevistas
 
 ### 1. Preguntas para Gestores de Empresas Hoteleras
 
@@ -723,7 +728,7 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
             </tr>  
   </table>  
          
-## Registro de entrevistas
+##   2.2.2 Registro de entrevistas
 ### Segmento: Huespedes
 
     
@@ -782,7 +787,7 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 
 
 
-### Análisis de entrevistas
+### 2.2.3 Análisis de entrevistas
 Después de llevar a cabo y describir los registros de los entrevistados, esta sección desarrollará una estrategia conjunta que permitirá al equipo identificar ciertos aspectos y puntos en común. Este análisis ayudará a obtener una visión más analítica y concreta sobre el desarrollo de la aplicación KingReserve.
 
 ### Segmento 1: Huéspedes
@@ -815,8 +820,8 @@ Después de llevar a cabo y describir los registros de los entrevistados, esta s
 4. **Objetivos al Usar la Aplicación**
    - **Objetivos:** El 100% espera que la aplicación les ayude a mejorar la eficiencia operativa y optimizar la gestión de reservas y eventos, además de proporcionar una mejor comunicación con los huéspedes y clientes.
 
-## Needfinding
-### User Persona
+## 2.3 Needfinding
+### 2.3.1 User Persona
 
 ##### Huesped
 ![Pedro Nanfuñay](https://github.com/user-attachments/assets/ab4c35e7-10af-41b0-aa2f-da507985c93d)
@@ -826,7 +831,7 @@ Después de llevar a cabo y describir los registros de los entrevistados, esta s
 
 
 
-#### User Task Matrix
+#### 2.3.2 User Task Matrix
 
 ##### Matriz de Tareas del Usuario
 
@@ -856,7 +861,7 @@ Después de llevar a cabo y describir los registros de los entrevistados, esta s
 - **Coincidencias**:
   - Ambos segmentos valoran la **comunicación eficiente** y la **automatización** para mejorar la experiencia general.
 
-### User Journey Mapping
+### 2.3.3 User Journey Mapping
 
 #### Huesped
 ![Huesped journey map 1](https://github.com/user-attachments/assets/b86de9fa-6d10-425d-81db-89e3a6dc1742)
@@ -864,7 +869,7 @@ Después de llevar a cabo y describir los registros de los entrevistados, esta s
 #### Empresas Hoteleras
 ![Hotel journey map](./assets/Hoteles-journey-map.png)
 
-### Empathy Mapping
+### 2.3.4 Empathy Mapping
 
 #### Huesped
 ![Huesped empathy map](./assets/Empathy-map-Huesped.png)
@@ -872,15 +877,16 @@ Después de llevar a cabo y describir los registros de los entrevistados, esta s
 #### Empresas Hoteleras
 ![Hotel empathy map](./assets/Empathy-map-Hoteles.png)
 
-### As-is Scenario Mapping
+###  2.3.5 As-is Scenario Mapping
 #### Empresas Hoteleras:
+
 ![image](./assets/AS-IS_MAPPING-EMPRESAS_HOTELERAS_1.png)
 ![image](./assets/AS-IS_MAPPING-EMPRESAS_HOTELERAS_2.png)
 #### Huéspedes:
 ![image](./assets/AS-IS_MAPPING-HUESPEDES_1.png)
 ![image](./assets/AS-IS_MAPPING-HUESPEDES_2.png)
 
-## Ubiquitous Language
+## 2.4  Ubiquitous Language
 
 | **Término (Inglés)** | **Término (Español)** | **Definición** |
 |----------------------|-----------------------|----------------|
@@ -900,7 +906,7 @@ Después de llevar a cabo y describir los registros de los entrevistados, esta s
 | Banquet              | Banquete              | Servicio de organización de eventos y comidas especiales en el hotel. |
 | Conference Room      | Sala de conferencias  | Espacio en el hotel destinado a reuniones y eventos corporativos. |
 
-# Capítulo III: Requirements Specification
+# 3 Capítulo III: Requirements Specification
 ## 3.1 To-Be Scenario Mapping
 #### Empresas Hoteleras
 ![image](./assets/TO-BE_MAPPING-EMPRESAS_HOTELERAS_1.png)
@@ -908,7 +914,8 @@ Después de llevar a cabo y describir los registros de los entrevistados, esta s
 #### Huéspedes:
 ![image](./assets/TO-BE_MAPPING-HUESPEDES_1.png)
 ![image](./assets/TO-BE_MAPPING-HUESPEDES_2.png)
-## User Stories
+##3.2  User Stories
+
 Las User Stories son una herramienta fundamental para definir los requisitos del proyecto. Cada User Story incluye criterios de aceptación que deben ser comprobables y redactados en tiempo presente, tercera persona, siguiendo la estructura de Gherkin (Given-When-Then). Además, se consideran User Stories para el sitio web estático (Landing Page) y Technical Stories para los features del RESTful API.
 
 
@@ -1006,7 +1013,7 @@ Requisitos definidos junto con el conjunto de User Stories y Epics para los requ
 | 19         | US019          | Leer Comentarios                        | Como usuario, quiero poder leer los comentarios en el contenido para conocer las opiniones y experiencias de otros usuarios.          | 2                |
 | 20         | US020          | Moderar Comentarios                     | Como administrador, quiero poder moderar los comentarios para asegurar que cumplan con las normas de la comunidad.                    | 3               |
 | 21         | US021          | Recibir Notificaciones                  | Como usuario, quiero recibir notificaciones para estar al tanto de las actualizaciones y eventos importantes en la aplicación| 1 
-| 12        | US022          | Filtrar Contenido                       | Como usuario, quiero poder filtrar el contenido para ver solo la información que me interesa.        | 2                |
+| 22        | US022          | Filtrar Contenido                       | Como usuario, quiero poder filtrar el contenido para ver solo la información que me interesa.        | 2                |
 | 23        | US023          | Buscar Contenido                        | Como usuario, quiero poder buscar contenido específico para encontrar información rápidamente.        | 3                |
 | 24        | US024          | Visualizar Calendario                   | Como usuario, quiero poder visualizar un calendario con todos mis eventos para tener una vista general de mis actividades. | 2               |
 | 25        | US025          | Agregar Eventos al Calendario           | Como usuario, quiero poder agregar eventos al calendario para planificar mis actividades.             | 3               |
@@ -1038,14 +1045,14 @@ Requisitos definidos junto con el conjunto de User Stories y Epics para los requ
 | 17        | TS017          | Implementar Sistema de reservas                   | **Como** desarrollador, **quiero** implementar un sistema de procesamiento de reservaciones                                                                                              | 3                |
 | 18        | TS018          | Implementar editor de páginas web básico          | **Como** desarrollador, **quiero** implementar un editor de páginas web básico para las empresas de hoteles                                                                              | 3                |                                                           
  
-# Capitulo IV: Product Design
-## Style Guidelines
+# 4 Capitulo IV: Product Design
+## 4.1 Style Guidelines
 Las Style Guidelines son esenciales para garantizar una comunicación coherente y profesional en todos los aspectos de nuestra marca o proyecto, ya sea en publicaciones impresas, en línea o en cualquier otro medio de difusión. En esta sección, estableceremos un conjunto de directrices que nuestro equipo seguirá para diseñar el proyecto KingReserve, desarrollado por KingGroup. Estas pautas abarcarán aspectos clave como la selección de colores, tipografía, estructura del documento y otros elementos fundamentales.
 <br>
 Para el diseño de KingReserve, utilizaremos la plataforma Figma, que nos permitirá crear tanto la aplicación web como la página de inicio de manera efectiva. En ambas, implementaremos una paleta de colores que incluirá tonalidades de crema y marrón, evocando la naturaleza y la confianza que se asocian con el concepto de reservas. A continuación, se presentará un análisis más detallado de cada uno de los aspectos mencionados.
 
 
-### General Style Guidelines
+### 4.1.1 General Style Guidelines
 
 **Branding:** El logotipo de KingReserve es mucho más que una simple imagen; es la manifestación visual de nuestra identidad. En el centro, el símbolo único que nos representa es nuestro nombre, "KingReserve", que fusiona el concepto de realeza con la idea de reservas. Esta combinación resalta la calidad y el prestigio que ofrecemos en el sector de reservas para los huespedes y profesionales que buscan los mejores lugares para vivir durante sus vacaciones.
 
@@ -1192,7 +1199,7 @@ Para una Plataforma Web:
 
 El tono de comunicación y lenguaje ideal para KingReserve, nuestra plataforma de gestión hotelera, se caracteriza por ser profesional, confiable, claro y comprometido. En KingReserve, estamos dedicados a transformar la experiencia de gestión hotelera, haciendo que sea eficiente, segura y satisfactoria para todos nuestros usuarios. Creemos firmemente en la importancia de establecer una conexión de confianza con los administradores de hoteles y en comunicar de manera efectiva nuestro compromiso con la transparencia y la satisfacción del cliente en el proceso de gestión hotelera. Nuestro tono es profesional y accesible, reflejando nuestra misión de proporcionar una experiencia completa y personalizada en la gestión de reservas, planillas y personal. Nos esforzamos por diseñar nuestra plataforma de manera intuitiva y fácil de usar, especialmente para aquellos que pueden no estar familiarizados con la tecnología de gestión hotelera.
 
-### Web Style Guidelines
+### 4.1.2 Web Style Guidelines
 Nuestro enfoque en las "Web Style Guidelines" de KingReserve se centra en la creación de una experiencia de usuario consistente y atractiva en la gestión hotelera. Esto implica el uso de una paleta de colores cohesiva, tipografía legible y un diseño responsivo que se adapte a una variedad de dispositivos y tamaños de pantalla. Nos aseguramos de que cada elemento visual y funcional de nuestra plataforma contribuya a una navegación intuitiva y eficiente, facilitando la gestión de reservas, planillas y personal de manera efectiva y profesional.
 <br>
 
@@ -1205,9 +1212,9 @@ Nuestro enfoque en las "Web Style Guidelines" de KingReserve se centra en la cre
 </div>
 <br>
 
-## Information Architecture
+##  4.2 Information Architecture
 
-##  Organization Systems
+## 4.2.1 Organization Systems
 
 -Segmento Huésped
 
@@ -1231,7 +1238,7 @@ Sistema de Gestión de Reservas: Los hoteles pueden manejar de manera eficiente 
 
 Gestión de Perfil del Hotel: Los hoteles pueden mantener un perfil detallado con información sobre comodidades, servicios y opiniones de clientes, lo cual ayuda a construir confianza y atraer a nuevos huéspedes.
 
-## Labeling Systems
+## 4.2.2 Labeling Systems
 
 -Segmento Huésped
 
@@ -1251,7 +1258,7 @@ Etiqueta de Pedidos: Rastrear los pedidos de servicios o comodidades adicionales
 
 Etiqueta de Promociones y Ofertas: Resalta promociones y ofertas actuales tanto para huéspedes como para el personal, fomentando las ventas adicionales y aumentando el compromiso de los huéspedes.
 
-##  Searching Systems
+## 4.2.4  Searching Systems
 
 ## Segmento Huésped
 
@@ -1265,7 +1272,7 @@ Búsqueda por Palabras Clave: El personal del hotel puede buscar reservas espec�
 
 Búsqueda por Filtros: Los filtros ayudan al personal a refinar los resultados de búsqueda por estado de reserva, tipo de habitación o preferencias de huéspedes, mejorando la eficiencia operativa.
 
-## Navigation Systems
+## 4.2.5 Navigation Systems
 
 -Segmento Huésped
 
@@ -1280,8 +1287,9 @@ Menú de Navegación: Un menú superior permite al personal del hotel navegar ef
 Enlaces Rápidos: Ofrece acceso rápido a funciones críticas como gestión de reservas, actualizaciones de inventario y configuración de promociones, aumentando la velocidad operativa.
 
 
-## Landing Page UI Design
-### Landing Page Wireframe
+##  4.3 Landing Page UI Design
+### 4.3.1 Landing Page Wireframe
+
 ![LandingPageWireframe](./assets/Landing-Page-Wireframe.jpg)
 
 1. **Jerarquía Visual**: El título grande y las imágenes dominantes guían la atención del usuario, destacando los elementos más importantes.
@@ -1296,7 +1304,9 @@ Enlaces Rápidos: Ofrece acceso rápido a funciones críticas como gestión de r
 
 6. **Principios de Diseño**: El diseño es consistente, bien alineado y sigue una estructura clara que facilita la experiencia de usuario.
 
-### Landing Page Mock-up
+
+### 4.3.2  Landing Page Mock-up
+
 ![LandingPageMockUps](./assets/Landing_Page_Mock.jpg)
 
 ### Mock-ups del Landing Page
@@ -1313,13 +1323,15 @@ Enlaces Rápidos: Ofrece acceso rápido a funciones críticas como gestión de r
 
 6. **Llamadas a la Acción (CTA)**: En la versión móvil, se destacan los botones "Reservar" y "Ver más", lo que fomenta la interacción directa del usuario, asegurando que los elementos interactivos son fácilmente accesibles.
 
-## Web Applications UX/UI Design
-### Web Applications Wireframes
+
+## 4.4 Web Applications UX/UI Design
+### 4.4.1 Web Applications Wireframes
+
 ![WebApplicationsWireframe](./assets/WebApplicationsWireframe1.PNG)
 
 ![WebApplicationsWireframe](./assets/WebApplicationsWireframe2.PNG)
 
-### Web Applications Wireflow Diagrams
+### 4.4.2 Web Applications Wireflow Diagrams
 User Goal 1: Iniciar sesión <br>
 ![USERGOAL1](./assets/USERGOAL1.PNG)
 
@@ -1344,20 +1356,22 @@ User Goal 7: Generar reportes de estadísticas personalizadas <br>
 User Goal 8: Enviar una notificación al personal <br>
 ![USERGOAL8](./assets/USERGOAL8.PNG)
 
-### Web Applications Mock-ups
+### 4.4.3 Web Applications Mock-ups
 
 ![WebApplicationsMockUp1](./assets/WebApplicationsMockUp1.PNG)
 
 ![WebApplicationsMockUp2](./assets/WebApplicationsMockUp2.PNG)
 
-### Web Applications User Flow Diagrams
+### 4.4.4 Web Applications User Flow Diagrams
 
 ![WebApplicationsUserDiagram1](./assets/WebApplicationsUserDiagram1.PNG)
 ![WebApplicationsUserDiagram2](./assets/WebApplicationsUserDiagram2.PNG)
 ![WebApplicationsUserDiagram3](./assets/WebApplicationsUserDiagram3.PNG)
 ![WebApplicationsUserDiagram4](./assets/WebApplicationsUserDiagram4.PNG)
 ![WebApplicationsUserDiagram5](./assets/WebApplicationsUserDiagram5.PNG)
-### Web Applications Prototyping
+
+### 4.5 Web Applications Prototyping
+
 ![PrototypeDesktop](./assets/PrototypeDesktop.PNG) <br>
 ![PrototypeMobile](./assets/PrototypeMobile.PNG) <br>
 | Tipo de Video                 | Enlace                                                                                                  |
@@ -1365,23 +1379,25 @@ User Goal 8: Enviar una notificación al personal <br>
 | Prototype Desktop Video       | [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216035_upc_edu_pe/EZKwDgE2b5BInXQA0C8ijZEB4kZaJLE6x_Xuq7fkeph8WA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=PhGVZ9](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216035_upc_edu_pe/EZKwDgE2b5BInXQA0C8ijZEB4kZaJLE6x_Xuq7fkeph8WA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=PhGVZ9) |
 | Prototype Mobile Video        | [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216035_upc_edu_pe/EeJf2XgJW2JAsXFWZ_0UOrgBlizX862fVw5mXH_YAoXDNQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=37tJZ3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216035_upc_edu_pe/EeJf2XgJW2JAsXFWZ_0UOrgBlizX862fVw5mXH_YAoXDNQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=37tJZ3) |
 
-## Domain-Driven Software Architecture
+## 4.6 Domain-Driven Software Architecture
 Los diseños C4 son una forma efectiva de representar la arquitectura de un sistema de software de manera clara y concisa. En el caso del proyecto King Reserve, los diseños C4 nos permiten visualizar la estructura y las interacciones entre los diferentes componentes del sistema. 
 
 En el nivel más alto, el diseño C4 nos muestra el contexto del sistema, identificando los actores externos y los sistemas con los que interactúa King Reserve. A medida que descendemos en los niveles de detalle, podemos ver los contenedores que componen el sistema, como la aplicación web, la base de datos y los servicios externos. Además, los diagramas C4 nos permiten visualizar los componentes internos de cada contenedor, como los módulos y las clases.
 
 Estos diseños proporcionan una visión clara de la arquitectura del sistema, lo que facilita la comunicación entre los miembros del equipo y ayuda a identificar posibles problemas o mejoras. Al utilizar los diseños C4 en el proyecto King Reserve, podemos asegurarnos de que todos los involucrados tengan una comprensión común de la arquitectura y puedan colaborar de manera efectiva en su implementación y evolución. 
-### Software Architecture Context Diagram
+
+### 4.6.1 Software Architecture Context Diagram
 ![KingReserve-diagram-context](./assets/Context-Diagram.png)
-### Software Architecture Container Diagrams
+### 4.6.2 Software Architecture Container Diagrams
 ![KingReserve-diagram-containers](./assets/Container-Diagrams.png)
-### Software Architecture Components Diagrams
+### 4.6.3  Software Architecture Components Diagrams
 ![KingReserve-diagram-components](./assets/Components-Diagrams.png)
 
-## Software Object-Oriented Design
-### Class Diagrams
-![image](./assets/classdiagramas%20.jpg)
-### Class Dictionary
+## 4.7 Software Object-Oriented Design
+### 4.7.1 Class Diagrams
+![image](./assets/Class_Diagram.jpeg)
+### 4.7.2  Class Dictionary
+
 Service: Contiene los atributos StatusService, description, DateStart, DateEnd y price. Los métodos asociados permiten iniciar (initService), finalizar (endService), cancelar (cancelService), y cambiar el estado (changeStatus) de un servicio. Está relacionada con la clase Order, indicando que los servicios pueden estar vinculados a órdenes, y con la clase Controlador, que gestiona los servicios.
 
 Reservation: Incluye los atributos reservationID, reservationDate, tableID, numberOfPeople, y tableID. Los métodos asociados son createReservation para crear una reserva, cancelReservation para cancelarla, y updateReservation para actualizarla. Está relacionada con la clase Customer, ya que los clientes pueden hacer y gestionar reservas, y con la clase Worker, que puede administrar las reservas.
@@ -1399,7 +1415,20 @@ Customer: Sus atributos incluyen paymentMethod y reservationList. Los métodos s
 Worker: Los atributos de esta clase son position. Los métodos asociados incluyen manageReserve para gestionar órdenes y reservas. Está vinculada con las clases Order y Reservation, sugiriendo que los trabajadores son responsables de gestionar las reservas y servicios.
 
 Controlador: Contiene los atributos service, orderList, y users. Los métodos asociados son manageReserve para gestionar órdenes, manageService para gestionar servicios, assignOrderToWorker para asignar órdenes a trabajadores, y DeliverMessage para entregar mensajes. Está vinculado con las clases Service, Order, y Worker, indicando que este controlador gestiona el flujo general de órdenes, servicios y asignación de trabajadores.
-## Database Design
+
+| Clase | Atributos | Métodos | Relaciones |
+|-------|-----------|---------|------------|
+| Service | StatusService, description, DateStart, DateEnd, price | initService, endService, cancelService, changeStatus | Order, Controlador |
+| Reservation | reservationID, reservationDate, tableID, numberOfPeople, tableID | createReservation, cancelReservation, updateReservation | Customer, Worker |
+| Notification | id, price, type, status | CreateMessage | Controlador |
+| PaymentMethod | paymentID, amount, paymentDate | processPayment | Customer, Reservation |
+| Suscription | id, price, type, status | | User |
+| User | id, name, password, username, orderList, email, role | login, logout, checkReservation | Reservation, Order |
+| Customer | paymentMethod, reservationList | register, placeReserve, cancelReservation | Reservation, PaymentMethod |
+| Worker | position | manageReserve | Order, Reservation |
+| Controlador | service, orderList, users | manageReserve, manageService, assignOrderToWorker, DeliverMessage | Service, Order, Worker |
+
+## 4.8 Database Design
 
 La base de datos de King Reserve es un componente crucial del sistema, responsable de almacenar y gestionar todos los datos relacionados con reservas, huéspedes, habitaciones y otra información esencial. Diseñada con escalabilidad y rendimiento en mente, la base de datos garantiza la recuperación y manipulación eficiente de datos, brindando una experiencia fluida tanto para los huéspedes como para el personal del hotel.
 
@@ -1410,14 +1439,15 @@ Para garantizar la integridad y consistencia de los datos, se implementan restri
 Además, el diseño de la base de datos incorpora medidas de seguridad para proteger la información confidencial. Se implementan controles de acceso, cifrado y mecanismos de autenticación adecuados para proteger los datos de los huéspedes y del hotel contra accesos no autorizados.
 
 Con una base de datos robusta y bien estructurada, King Reserve puede gestionar eficientemente las reservas, proporcionar información precisa de disponibilidad y ofrecer una experiencia fluida a sus huéspedes. La base de datos sirve como el soporte del sistema, respaldando el funcionamiento sin problemas de los procesos de gestión hotelera.
-### Diagrama de la Base de Datos
-![KingReserve-diagram](/assets/KingReserve-diagram.png)
 
-# CAPÍTULO V: Product Implementation, Validation & Deployment
+### 4.8.1  Diagrama de la Base de Datos
+![KingReserve-diagram](./assets/KingReserve-diagram.png)
 
-## Software Configuration Management
+# 5 CAPÍTULO V: Product Implementation, Validation & Deployment
+
+## 5.1 Software Configuration Management
 En este apartado se resume todo el contenido recopilado, examinando los procedimientos a seguir y evaluando el estado emocional.
-### Software Development Environment Configuration
+### 5.1.1  Software Development Environment Configuration
 En la siguiente sección se detalla la ruta de acceso de cada uno de los productos de software, facilitando a cualquier miembro del equipo el desarrollo de cada aspecto del trabajo:
 * **Visual Studio Code:** Entorno de desarrollo.\
 ![image](https://hackmd.io/_uploads/Hy8d2y7lR.png)
@@ -1438,7 +1468,7 @@ En la siguiente sección se detalla la ruta de acceso de cada uno de los product
 ![image](https://hackmd.io/_uploads/r1BjjyQgC.png)
 * **Figma:** Herramienta colaborativa que permite elaborar wireframes y mockups.\
 ![image](https://hackmd.io/_uploads/BJ99okXeR.png)
-### Source Code Management
+### 5.1.2 Source Code Management
 **Repositorio de la Landing Page:** 
 **Implementación de GitFlow:**
 Para nuestra estrategia de gestión de versiones con Git, nos hemos inspirado en el artículo "A successful Git branching model" de Vincent Driessen, adoptando el modelo de ramificación GitFlow. Este enfoque nos permite establecer claramente las convenciones de ramificación que aplicamos en nuestro proyecto.
@@ -1471,7 +1501,7 @@ Adoptamos esta metodología para estructurar los mensajes de confirmación de ca
 * test: Adición o modificación de pruebas.
 * chore: Cambios en el proceso de construcción o tareas de mantenimiento.
 * perf: Mejoras de rendimiento en el código.
-### Source Code Style Guide & Conventions
+### 5.1.3 Source Code Style Guide & Conventions
 En la redacción de nuestro código, hemos adoptado el uso exclusivo de la nomenclatura en inglés para todos los lenguajes mencionados.
 **HTML**
 * **Uso de minúsculas en elementos HTML:**
@@ -1541,7 +1571,7 @@ function sum(a, b) {
   return a + b;
 }
 ```
-### Software Deployment Configuration
+### 5.1.4  Software Deployment Configuration
 En esta sección, detallamos el proceso de implementación de nuestra landing page en la plataforma de GitHub.
 
 1. Se crea un repositorio en GitHub para alojar el código de nuestra landing page.
@@ -1571,9 +1601,9 @@ En esta sección, detallamos el proceso de implementación de nuestra landing pa
 Este proceso garantiza el despliegue satisfactorio de nuestra landing page en la plataforma de Netlifly, siguiendo las especificaciones y requisitos de nuestro proyecto.
 **Enlace de la Landing Page: [https://kingreserve.netlify.app/](https://kingreserve.netlify.app/)**
 
-## Landing Page, Services & Applications Implementation
+## 5.2 Landing Page, Services & Applications Implementation
 
-### Sprint 1 
+### 5.2.1 Sprint 1 
 Este informe documenta el progreso realizado durante la fase de definición de requisitos del proyecto, que incluye entrevistas con los interesados y creación de artefactos antes y después de la implementación de la aplicación web estática. Proporcionar una visión clara del avance y garantizar una comunicación efectiva entre el equipo de desarrollo y los interesados son los objetivos principales.
 
 Durante esta etapa, se realizaron extensas entrevistas con los interesados para comprender sus necesidades, expectativas y requisitos particulares para la aplicación. Las entrevistas proporcionaron información útil que ayudó a definir los requisitos del proyecto.
@@ -1582,7 +1612,7 @@ Durante esta etapa, se realizaron extensas entrevistas con los interesados para 
 
 Se realizaron actividades de creación de artefactos antes y después de la implementación de la aplicación web estática, además de entrevistas. Estos objetos fueron
 
-#### Sprint Planning 1
+#### 5.2.1.1 Sprint Planning 1
 
 | Sprint # | Sprint 1  | 
 |--------------------|------------|
@@ -1599,7 +1629,7 @@ Se realizaron actividades de creación de artefactos antes y después de la impl
 | Sprint Velocity | Se establece un Velocity de 20 Story Points para este Sprint. | 
 | Sum of Story Points | 20 Story Points | 
 
-#### Sprint Backlog 1
+#### 5.2.1.2 Sprint Backlog 1
 
 <table align="center" border="1" width="90%" style="text-align:center">
  <tr>
@@ -1697,7 +1727,7 @@ Se realizaron actividades de creación de artefactos antes y después de la impl
     <td>Done</td>
  </tr>
      <tr>
-    <td>US010</td>
+    <td>US029</td>
     <td>Incluir Internacionalización (i18n)</td>
     <td>T10</td>
     <td>Implementar el cambio de idioma</td>
@@ -1707,7 +1737,7 @@ Se realizaron actividades de creación de artefactos antes y después de la impl
  </tr>
 </table>
 
-## Development Evidence for Sprint Review
+## 5.2.1.3 Development Evidence for Sprint Review
 
 Durante este sprint, se han realizado avances significativos en la implementación de la Landing Page. Se han completado varias historias de usuario de la landing page y se han realizado múltiples commits en los repositorios correspondientes. A continuación, se presenta una tabla que incluye los commits relacionados con la implementación para el repositorio de la landing page.
 
@@ -1727,7 +1757,7 @@ Durante este sprint, se han realizado avances significativos en la implementaci�
 
 ![Development](./assets/development%20.jpg)
 
-## Testing Suite Evidence for Sprint Review
+## 5.2.1.4 Testing Suite Evidence for Sprint Review
 
 En esta sección se explica y presenta el conjunto de Unit Tests, Integration Tests y Acceptance Tests automatizados, desarrollados para la landing page asociados con las User Stories especificadas en el Sprint.
 
@@ -1747,7 +1777,7 @@ En esta sección se explica y presenta el conjunto de Unit Tests, Integration Te
 ## Imagenes
 ![Testing](./assets/testing.jpg)
 
-## Execution Evidence for Sprint Review
+## 5.2.1.5  Execution Evidence for Sprint Review
 
 Durante este Sprint, se han alcanzado varios hitos importantes en la implementación de la Landing Page, las aplicaciones web y los servicios web de King Reserve. Se han completado las siguientes tareas:
 
@@ -1790,7 +1820,7 @@ Para una demostración completa de la visualización y navegación logradas en e
 
 
 
-## Software Deployment Evidence for Sprint Review
+## 5.2.1.7 Software Deployment Evidence for Sprint Review
 
 Durante este Sprint, se han realizado varias actividades relacionadas con el despliegue de los productos de King Reserve, incluyendo la Landing Page El despliegue se ha llevado a cabo utilizando Netlify, un proveedor de servicios en la nube que facilita la implementación continua y la automatización del despliegue. A continuación, se detallan los pasos realizados y se presentan capturas de pantalla que ilustran el proceso.
 
@@ -1822,7 +1852,7 @@ Durante este Sprint, se han realizado varias actividades relacionadas con el des
      ![Landing Page Deployment](https://i.imgur.com/3X6n0Bc.png)
     - Enlace: https://kingreserve.netlify.app/
 
-## Team Collaboration Insights during Sprint
+## 5.2.1.8 Team Collaboration Insights during Sprint
 
 
 Durante este Sprint, el equipo ha trabajado de manera colaborativa por 2 alumnos en el diseño y programacion en la implementación de la Landing Page de King Reserve. A continuación, se presenta un resumen de cómo se han desarrollado las actividades de implementación, junto con capturas de pantalla de los analíticos de colaboración y commits en GitHub realizados por los miembros del equipo.
@@ -1871,13 +1901,159 @@ A continuación, se presenta una tabla con los commits realizados por los miembr
 
 El equipo ha trabajado de manera efectiva y colaborativa durante este Sprint, asegurando que todos los miembros participen activamente en la implementación de la Landing Page. Los analíticos de colaboración y los commits en GitHub reflejan el esfuerzo conjunto y la dedicación del equipo para alcanzar los objetivos del Sprint.
 
+### 5.2.2 Sprint 2 
+
+Este informe documenta el progreso realizado durante el primer sprint de desarrollo de la aplicación web de King Reserve, centrado en la implementación inicial de la plataforma. El enfoque principal de esta fase fue la construcción de la estructura básica y la funcionalidad de la aplicación, así como la definición de las características clave a través de la interacción con los interesados.
+
+Durante este sprint, se llevaron a cabo reuniones para comprender sus expectativas y necesidades en relación con la aplicación web. Estas sesiones permitieron definir requisitos específicos, como la visualización y gestion de inventario, la gestión de reservas y la internacionalización. La información obtenida fue esencial para diseñar una solución efectiva que responda a las expectativas de los usuarios y que sirva de base para los próximos sprints.
+
+### 5.2.2.1 Sprint planning 2 
+| Sprint # | Sprint 2  | 
+|--------------------|------------|
+| Sprint Planning Background | 
+| Date | 2024-09-28 | 
+| Time |  1:00 AM |
+| Location |  UPC - Campus San Miguel |
+| Preparate by| Joaquin Pedraza Maldonado | 
+|  Attendees (to planning meeting) | Gómez Vallejos Sergio André ,Zevallos Linares Alessandro Netto ,Pedraza Maldonado Joaquin Andree ,Romero Qwistgaard Russell Stephen  | 
+| Sprint n-2 Review Summary | --- | 
+| Sprint Planning Background | Durante esta etapa, se llevó a cabo una exhaustiva verificación del frontEnd Webb App y la implementacion de las mejoras continuas dadas en nuestro sprint 1. |
+| Sprint Goal & User Stories | 
+| Sprint 2 Goal | Desarrolar la funcionalidad de la  webb App con i18n. Se considerará que el objetivo del sprint se ha cumplido con la funcionalidad hecha y el frontEnd.|  
+| Sprint Velocity | Se establece un Velocity de 20 Story Points para este Sprint. | 
+| Sum of Story Points | 25 Story Points | 
+
+### 5.2.2.2 Sprint Backlog 2
+
+
+| US Id | Title | Id | Description | Estimation | Assigned To | Status(To-do/ In-Process/ To-Review/ Done) |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| US014 | Crear Contenido | T01 | Como administrador, quiero poder crear nuevo contenido para mantener la información actualizada en la aplicación. | 3 | Sergio André Gomez Vallejos | Done |
+| US015 | Leer Contenido | T02 | Como usuario, quiero poder leer el contenido disponible en la aplicación para obtener información relevante. | 3 | Sergio André Gomez Vallejos | Done |
+| US016 | Actualizar Contenido | T03 | Como administrador, quiero poder actualizar el contenido existente para mantener la información relevante y actualizada. | 2 | Sergio André Gomez Vallejos | Done |
+| US017 | Eliminar Contenido | T04 | Como administrador, quiero poder eliminar contenido obsoleto para mantener la información actualizada en la aplicación. | 3 | Sergio André Gomez Vallejos | Done |
+| US022 | Filtrar Contenido | T05 | Como usuario, quiero poder filtrar el contenido para ver solo la información que me interesa. | 2 | Sergio André Gomez Vallejos | Done |
+| US023 | Buscar Contenido | T06 | Como usuario, quiero poder buscar contenido específico para encontrar información rápidamente. | 3 | Sergio André Gomez Vallejos | Done |
+| US028	| Acceso a la Página de Inicio | T07 | Como visitante, quiero poder acceder a la página de inicio para obtener información clara sobre la aplicación.	 | 2 | Rojas Velasquez, Maycol Jhordan | Done |
+| TS009 | Implementar Funcionalidad de guardado | T08 | Como desarrollador, quiero permitir a los usuarios guardar una página de hotel en su cuenta y marcarlo según lo prefieran.. | 2 | Rojas Velasquez, Maycol Jhordan | Done |
+| TS011 | Implementar Funcionalidad de Filtros en Búsqueda	 | T09 | Como desarrollador, quiero añadir filtros a la búsqueda para refinar resultados de hoteles según sus criterios.	 | 2 | Sergio André Gomez Vallejos | Done |
+| TS017 | Implementar Sistema de reservas | T010 | Como desarrollador, quiero implementar un sistema de procesamiento de reservaciones. | 3 | Rojas Velasquez, Maycol Jhordan | Done |
+
+## 5.2.2.3 Development Evidence for Sprint Review
+
+Durante este sprint, se han realizado avances significativos en la implementación de la Landing Page. Se han completado varias historias de usuario de la landing page y se han realizado múltiples commits en los repositorios correspondientes. A continuación, se presenta una tabla que incluye los commits relacionados con la implementación para el repositorio de la landing page.
+
+### Commits
+
+| Repository |Branch| Commit Id | Commit Message| Commit Message Body| Commited on (Date)|
+|--------|-----------|--------|-------|---------------------------------|-------|
+| KingGroupOficial/Front-End-KingReserve  | developer | 563940ff8013fe4ff9ee3c1ee154a0cf83096e4e | feat:Add person administration| Se agrego el component person y administracion | 2024-09-26|
+| KingGroupOficial/Front-End-KingReserve | developer|f33c21b9ce8b946b2db1d29f0990b38f98c5e4a6  |  feat: Update person Administration and Export Pdf |Se actualizo el person y Administration y se puede exportar en Pdf | 2024-09-27|
+|KingGroupOficial/Front-End-KingReserve  | developer| 77976ba2e7155cbd23467a73b44656309dbe8e68 | Feat: Add Stadisticas person and reserves |  Aqui hace la funcion donde podremos enviar correo de los registros. | 2024-09-27 |
+|KingGroupOficial/Front-End-KingReserve   | developer | 1b85a82dafbfab505fafbae169572f14a74639f4  |Feat: new data base  |Aqui se creo la base de datos| 2024-09-27|
+| KingGroupOficial/Front-End-KingReserve | developer |   afde1d0ac3acbce311c2e55b454abc1d8d603073 |  feat: Staff of KingReserve |Se el staff en KingReserve|2024-09-27 |
+|KingGroupOficial/Front-End-KingReserve   | developer |  6ce5fd23b6a062388fd152ba606ad059bdbd6825  |feat: Add stadistics Review   | Se añadio las Reviews de stadistics | 2024-09-27 |
+| KingGroupOficial/Front-End-KingReserve  | developer | 347f45b9f97fe594387e6aa1e52f69cb4b2ad339   | feat:color buttons and CRUD |Se añadio los colores a los botones y el CRUD en los componentes.|2024-09-27 |
+| KingGroupOficial/Front-End-KingReserve   | developer | 0890b48e10467a579e6d016678ee1443c64614e7   |  feat:update rooms details and fake api|Se desarollo lso detalles de los rooms y sobre el fake api | 2024-09-27 |
+
+### Imagenes 
+
+
+
+## 5.2.2.4 Testing Suite Evidence for Sprint Review
+
+En esta sección se explica y presenta el conjunto de Unit Tests, Integration Tests y Acceptance Tests automatizados, desarrollados para la landing page asociados con las User Stories especificadas en el Sprint.
+
+### Commits
+
+| Repository |Branch| Commit Id | Commit Message| Commit Message Body| Commited on (Date)|
+|--------|-----------|--------|-------|---------------------------------|-------|
+|  KingGroupOficial/Front-End-KingReserve   | developer | 517b0cbc978be7c8ae42b1eab0cf0967d059ec53 | feat: Add files via upload | Se añadieron archivos faltantes    | 2024-09-27|
+|  KingGroupOficial/Front-End-KingReserve   | developer|62b19a1af69ddc74fccbda4a7aa7a53409d39c2e  |  feat: Delete src/king-reserve/staff directory|Se elimio el directorio staff   |2024-09-27|
+|  KingGroupOficial/Front-End-KingReserve   | developer| 2f5020df1625fcd35514ea8147c207eb6c90e574 | Feat: add color stadistics |Se añadio colores a stadistics para su diseño de interfaz | 2024-09-27 |
+|  KingGroupOficial/Front-End-KingReserve    | developer | a8a25a838a0bdf347947fae2a37e5e82e7a36384  |Feat:add rooms colors |Se añadio colores a rooms para su diseño de interfaz| 2024-09-27|
+| KingGroupOficial/Front-End-KingReserve  | developer |   e78a77d6bc0c760fe04abc98186a4c068bf027ad |  feat:color buttons |Se agrego colores a los botones para que sean mas intuitivos |2024-08-30 |
+|  KingGroupOficial/Front-End-KingReserve   | developer |  acc4b3940cbddc385b9209f1084b2f04920b32f4  |feat: add colors   | Se agrego colores a los botones e interfaz correspondientes a nuestro proyecto| 2024-09-27 |
+| KingGroupOficial/Front-End-KingReserve   | developer | 40c1b4d2dc28e0cd3b8fecbdeef1d304100665cc   | feat: Merge branch 'developer' | Se hizo un Merge al finalizar con la rama developer|2024-09-27|
+|  KingGroupOficial/Front-End-KingReserve   | developer | 7a7ac68301cad74eddeaef9a83129ed3475c16b0   |  feat: ADD api fake persons |Se añadio el api fake de persons | 2024-09-27 |
+
+## 5.2.2.4 Execution Evidence for Sprint Review
+
+Durante este Sprint, se han alcanzado varios hitos importantes en la implementación de la Web Application. Se han completado las siguientes tareas:
+
+- Visualización de funcionalidades.
+- Implementación de un Sidebar.
+- Implementación de la sección de Reservas.
+- Implementación de la sección de Informes.
+- Implementación de la sección de Personal.
+- Implementación de la sección de Inventario.
+- Implementacion de la Internacionalizacion.
+
+### Screenshots
+
+#### Visualización de funcionalidades
+
+![funciones1](./assets/webapp1.PNG)
+
+![funciones2](./assets/webapp2.PNG)
+
+#### Sección de Reservas
+
+![seccionreservas](./assets/webapp3.PNG)
+
+#### Sección de Informes
+
+![seccioninformes](./assets/webapp4.PNG)
+
+#### Sección de Personal
+
+![seccionpersonal1](./assets/webapp5.PNG)
+
+![seccionpersonal2](./assets/webapp6.PNG)
+
+#### Sección de Inventario
+
+![seccioninventario](./assets/webapp7.PNG)
+
+### 5.2.2.7 Software  Deployment Evidence for Sprint Review 
+1 Crear un proyecto en Firebase
+![image](./assets/deploy-FrontEndPaso1.png)
+
+2 Ponemos el npm build 
+![image](./assets/Deploypaso2.png)
+
+3 Configuramos el hosting
+![image](./assets/Deploypaso3.png)
+4 Deployamos
+![image](./assets/deploypaso4.png)
+
+## 5.2.2.8 Team Collaboration Insights during Sprint
+
+Durante este Sprint, el equipo ha trabajado de manera colaborativa en el diseño y programacion en la implementación de la Web Application de King Reserve. A continuación, se presenta un resumen de cómo se han desarrollado las actividades de implementación, junto con capturas de pantalla de los analíticos de colaboración y commits en GitHub realizados por los miembros del equipo.
+
+### Actividades de Implementación
+
+- Diseño y implementacion de la Web Application.
+- Implementación de secciones clave como resevas, personal, inventario
+- Configuración de la integración continua y despliegue en Firebase.
+- Pruebas y ajustes finales para asegurar la calidad del producto.
+
+#### Captura de Analíticos de Colaboración en GitHub
+
+![sprint2collab1](./assets/sprint2collab1.PNG)
+![sprint2collab2](./assets/sprint2collab2.PNG)
+![sprint2collab3](./assets/sprint2collab3.PNG)
+![sprint2collab4](./assets/sprint2collab4.PNG)
+
+## Imagenes
+
 ## Conclusiones Generales
 
 1. Durante este Sprint, el equipo ha demostrado una colaboración efectiva y una distribución equitativa de las tareas. Todos los miembros del equipo han participado activamente en la implementación de la Landing Page, contribuyendo con commits significativos y trabajando en conjunto para resolver problemas y mejorar la calidad del producto. La utilización de herramientas como GitHub y Netlify ha facilitado la integración continua y el despliegue automatizado, permitiendo un flujo de trabajo más eficiente y coordinado.
 
 2. Se han logrado avances significativos en la implementación de la Landing Page de King Reserve. El equipo ha completado con éxito varias tareas clave, incluyendo el diseño y maquetación de la página, la implementación de secciones importantes como el encabezado, el pie de página y el contenido principal, así como la configuración de la integración continua y el despliegue en Netlify. Estos logros han sentado una base sólida para futuras iteraciones y mejoras, asegurando que la Landing Page cumpla con los requisitos y expectativas del proyecto.
 
-## Bibliografía
+## 6.4 Bibliografía
 
 1. The C4 model for visualising software architecture (2024) Recuperado de: https://c4model.com
 2. Naming Conventions for java (2024) Recuperado de: https://www.oracle.com/java/technologies/javase/codeconventions-namingconventions.html#:~:text=Except%20for%20variables%2C%20all%20instance,should%20be%20short%20yet%20meaningful.
