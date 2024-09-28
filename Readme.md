@@ -1904,7 +1904,7 @@ Durante este sprint, se llevaron a cabo reuniones para comprender sus expectativ
 | Sprint Goal & User Stories | 
 | Sprint 2 Goal | Desarrolar la funcionalidad de la  webb App con i18n. Se considerará que el objetivo del sprint se ha cumplido con la funcionalidad hecha y el frontEnd.|  
 | Sprint Velocity | Se establece un Velocity de 20 Story Points para este Sprint. | 
-| Sum of Story Points | 20 Story Points | 
+| Sum of Story Points | 25 Story Points | 
 
 ### 5.2.2.2 Sprint Backlog 2
 
