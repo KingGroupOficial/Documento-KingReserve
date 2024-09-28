@@ -216,7 +216,7 @@ Criterio: Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan 
 
 
 # 1. CAPÍTULO I: Introducción
-## 1.1Startup Profile
+## 1.1 Startup Profile
 ### 1.1.1Descripción de la Startup
 #### Descripción de la Startup:
 <div style="text-align: justify">
@@ -242,7 +242,7 @@ Visualizamos un mundo donde la tecnología y la gestión hotelera se fusionan pa
 ### **Misión:**
 Nos esforzamos por proporcionar una plataforma que conecte a los hoteles con herramientas avanzadas de gestión, mejorando la eficiencia operativa y la satisfacción del cliente. Estamos decididos a utilizar la tecnología para generar un impacto positivo en la experiencia de los huéspedes y la eficiencia del personal hotelero. **KingReserve** será símbolo de excelencia en la gestión hotelera, innovación en la administración de servicios, y compromiso con la mejora continua, mientras fomentamos una comunidad activa y colaborativa en torno a la hospitalidad y el servicio.
 
-### Perfiles de integrantes del equipo
+### 1.1.2  Perfiles de integrantes del equipo
 | Integrante | Descripción |
 | ---- | --- |
 | ![Sergio](https://hackmd.io/_uploads/SkU_5d9cR.png) | Sergio André Gómez Vallejos – Ingeniería de Software – u20221d401 <br> Soy una persona resiliente que, sin importar cuántas veces caiga, siempre encuentra la manera de levantarse. Tengo habilidades sociales sólidas y una amplia experiencia en la resolución de problemas de código. Suelo ser el miembro más activo de mi equipo de trabajo. Me apasionan los lenguajes de programación y la tecnología, y constantemente me esfuerzo por alcanzar mis objetivos y contribuir al desarrollo del startup. |
@@ -251,8 +251,8 @@ Nos esforzamos por proporcionar una plataforma que conecte a los hoteles con her
 | ![Captura de pantalla 2024-08-15 121605](https://hackmd.io/_uploads/ByWzO2icC.png)| Russell Stephen Romero Qwistgaard - Ingeniería de Software - U202211043 <br> Tengo 19 y estudió la carrera de ingeniería de software, actualmente en el 6 ciclo de esta. Me apasiona crear programas en entornos distintos para poder ampliar mi conocimiento en las muchas áreas que dependen de mi formación. Estoy dispuesto a cooperar y ser puntual en mis trabajos individuales y grupales. |
 | ![Alessandro](https://hackmd.io/_uploads/BJgim4unA.jpg) | Alessandro Zevallos Linares - Ingeniería de Software - U202216035 <br>Soy estudiante de Ingeniería de Software con un fuerte interés en el desarrollo de productos digitales y la tecnología. En mi tiempo libre, me gusta jugar videojuegos. También tengo un interés especial en la música, lo que me ayuda a equilibrar mi vida académica y personal. Cuento con habilidades en gestión de bases de datos. Además, tengo experiencia en análisis de datos, lo que me ayuda a tomar decisiones informadas y crear soluciones efectivas. |
 
-## Solution Profile
-### Antecedentes y Problematica **
+## 1.2 Solution Profile
+### 1.2.1  Antecedentes y Problematica **
 
 En la actualidad se puede evidenciar que la industria turistica a incrementado de manera exponencial estos ultimos años en nuestro país , esto a traido como consecuencia la aparición de más agencias hoteleras debido a la vista de una gran oportunidad de negocio frente a la alta demanda del sector turistico, sin embargo esto ocasiono que la productividad en el sector hotelero disminuya por la falta de eficiencia a la hora de realizar las reservas o la mala desorganización dentro del sector hotelero .
 
@@ -260,9 +260,9 @@ En el Perú el problema de la informalidad en el sector turístico, que también
 
 Fuente: https://revistasinvestigacion.unmsm.edu.pe/index.php/quipu/article/view/20192
 
-### 1.2.1 Lean Ux Procces
+### 1.2.2 Lean Ux Procces
 
-###1.2.2.1  Problem Statement 
+### 1.2.2.1  Problem Statement 
 ## Ciudadanos Peruanos
 El crecimiento acelerado del turismo en Perú ha generado la creación de numerosas agencias de viajes y hoteles, impulsados por la alta demanda del sector. Sin embargo, la informalidad y la desorganización dentro del sector han llevado a una disminución en la productividad, afectando tanto a turistas como a trabajadores del sector. Además, la falta de coordinación y estándares de servicio en las agencias informales provoca una experiencia deficiente para los turistas, lo que puede impactar negativamente la reputación del turismo en el país.
 
