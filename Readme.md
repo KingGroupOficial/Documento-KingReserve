@@ -1007,7 +1007,7 @@ Requisitos definidos junto con el conjunto de User Stories y Epics para los requ
 | 19         | US019          | Leer Comentarios                        | Como usuario, quiero poder leer los comentarios en el contenido para conocer las opiniones y experiencias de otros usuarios.          | 2                |
 | 20         | US020          | Moderar Comentarios                     | Como administrador, quiero poder moderar los comentarios para asegurar que cumplan con las normas de la comunidad.                    | 3               |
 | 21         | US021          | Recibir Notificaciones                  | Como usuario, quiero recibir notificaciones para estar al tanto de las actualizaciones y eventos importantes en la aplicación| 1 
-| 12        | US022          | Filtrar Contenido                       | Como usuario, quiero poder filtrar el contenido para ver solo la información que me interesa.        | 2                |
+| 22        | US022          | Filtrar Contenido                       | Como usuario, quiero poder filtrar el contenido para ver solo la información que me interesa.        | 2                |
 | 23        | US023          | Buscar Contenido                        | Como usuario, quiero poder buscar contenido específico para encontrar información rápidamente.        | 3                |
 | 24        | US024          | Visualizar Calendario                   | Como usuario, quiero poder visualizar un calendario con todos mis eventos para tener una vista general de mis actividades. | 2               |
 | 25        | US025          | Agregar Eventos al Calendario           | Como usuario, quiero poder agregar eventos al calendario para planificar mis actividades.             | 3               |
@@ -1712,7 +1712,7 @@ Se realizaron actividades de creación de artefactos antes y después de la impl
     <td>Done</td>
  </tr>
      <tr>
-    <td>US010</td>
+    <td>US029</td>
     <td>Incluir Internacionalización (i18n)</td>
     <td>T10</td>
     <td>Implementar el cambio de idioma</td>
