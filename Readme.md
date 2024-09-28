@@ -1883,6 +1883,13 @@ A continuación, se presenta una tabla con los commits realizados por los miembr
 | KingGroupOficial/Landing-Page---KingReserve | developer | b67299811f0435e3bb3ea04d14a7a223508873de | feat: add i18n | Se le dio la internacionalización a la página | 2024-09-03 | Maycol Jhordan Rojas Velasquez |
 
 El equipo ha trabajado de manera efectiva y colaborativa durante este Sprint, asegurando que todos los miembros participen activamente en la implementación de la Landing Page. Los analíticos de colaboración y los commits en GitHub reflejan el esfuerzo conjunto y la dedicación del equipo para alcanzar los objetivos del Sprint.
+
+### 5.2.2 Sprint 2 
+
+Este informe documenta el progreso realizado durante el primer sprint de desarrollo de la aplicación web de King Reserve, centrado en la implementación inicial de la plataforma. El enfoque principal de esta fase fue la construcción de la estructura básica y la funcionalidad de la aplicación, así como la definición de las características clave a través de la interacción con los interesados.
+
+Durante este sprint, se llevaron a cabo reuniones para comprender sus expectativas y necesidades en relación con la aplicación web. Estas sesiones permitieron definir requisitos específicos, como la visualización y gestion de inventario, la gestión de reservas y la internacionalización. La información obtenida fue esencial para diseñar una solución efectiva que responda a las expectativas de los usuarios y que sirva de base para los próximos sprints.
+
 ### 5.2.2.1 Sprint planning 2 
 | Sprint # | Sprint 2  | 
 |--------------------|------------|
@@ -1952,27 +1959,27 @@ Durante este Sprint, se han alcanzado varios hitos importantes en la implementac
 
 #### Visualización de funcionalidades
 
-![funciones1](./assets/webapp1.jpg)
+![funciones1](./assets/webapp1.PNG)
 
-![funciones2](./assets/webapp2.jpg)
+![funciones2](./assets/webapp2.PNG)
 
 #### Sección de Reservas
 
-![seccionreservas](./assets/webapp3.jpg)
+![seccionreservas](./assets/webapp3.PNG)
 
 #### Sección de Informes
 
-![seccioninformes](./assets/webapp4.jpg)
+![seccioninformes](./assets/webapp4.PNG)
 
 #### Sección de Personal
 
-![seccionpersonal1](./assets/webapp5.jpg)
+![seccionpersonal1](./assets/webapp5.PNG)
 
-![seccionpersonal2](./assets/webapp6.jpg)
+![seccionpersonal2](./assets/webapp6.PNG)
 
 #### Sección de Inventario
 
-![seccioninventario](./assets/webapp7.jpg)
+![seccioninventario](./assets/webapp7.PNG)
 
 ## Imagenes
 
