@@ -1936,6 +1936,44 @@ En esta sección se explica y presenta el conjunto de Unit Tests, Integration Te
 | KingGroupOficial/Front-End-KingReserve   | developer | 40c1b4d2dc28e0cd3b8fecbdeef1d304100665cc   | feat: Merge branch 'developer' | Se hizo un Merge al finalizar con la rama developer|2024-09-27|
 |  KingGroupOficial/Front-End-KingReserve   | developer | 7a7ac68301cad74eddeaef9a83129ed3475c16b0   |  feat: ADD api fake persons |Se añadio el api fake de persons | 2024-09-27 |
 
+## 5.2.2.4 Execution Evidence for Sprint Review
+
+Durante este Sprint, se han alcanzado varios hitos importantes en la implementación de la Web Application. Se han completado las siguientes tareas:
+
+- Visualización de funcionalidades.
+- Implementación de un Sidebar.
+- Implementación de la sección de Reservas.
+- Implementación de la sección de Informes.
+- Implementación de la sección de Personal.
+- Implementación de la sección de Inventario.
+- Implementacion de la Internacionalizacion.
+
+### Screenshots
+
+#### Visualización de funcionalidades
+
+![funciones1](./assets/webapp1.jpg)
+
+![funciones2](./assets/webapp2.jpg)
+
+#### Sección de Reservas
+
+![seccionreservas](./assets/webapp3.jpg)
+
+#### Sección de Informes
+
+![seccioninformes](./assets/webapp4.jpg)
+
+#### Sección de Personal
+
+![seccionpersonal1](./assets/webapp5.jpg)
+
+![seccionpersonal2](./assets/webapp6.jpg)
+
+#### Sección de Inventario
+
+![seccioninventario](./assets/webapp7.jpg)
+
 ## Imagenes
 
 ## Conclusiones Generales
