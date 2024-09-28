@@ -1905,6 +1905,23 @@ Durante este sprint, se llevaron a cabo reuniones para comprender sus expectativ
 | Sprint 2 Goal | Desarrolar la funcionalidad de la  webb App con i18n. Se considerará que el objetivo del sprint se ha cumplido con la funcionalidad hecha y el frontEnd.|  
 | Sprint Velocity | Se establece un Velocity de 20 Story Points para este Sprint. | 
 | Sum of Story Points | 20 Story Points | 
+
+### 5.2.2.2 Sprint Backlog 2
+
+
+| US Id | Title | Id | Description | Estimation | Assigned To | Status(To-do/ In-Process/ To-Review/ Done) |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| US014 | Crear Contenido | T01 | Como administrador, quiero poder crear nuevo contenido para mantener la información actualizada en la aplicación. | 3 | Sergio André Gomez Vallejos | Done |
+| US015 | Leer Contenido | T02 | Como usuario, quiero poder leer el contenido disponible en la aplicación para obtener información relevante. | 3 | Sergio André Gomez Vallejos | Done |
+| US016 | Actualizar Contenido | T03 | Como administrador, quiero poder actualizar el contenido existente para mantener la información relevante y actualizada. | 2 | Sergio André Gomez Vallejos | Done |
+| US017 | Eliminar Contenido | T04 | Como administrador, quiero poder eliminar contenido obsoleto para mantener la información actualizada en la aplicación. | 3 | Sergio André Gomez Vallejos | Done |
+| US022 | Filtrar Contenido | T05 | Como usuario, quiero poder filtrar el contenido para ver solo la información que me interesa. | 2 | Sergio André Gomez Vallejos | Done |
+| US023 | Buscar Contenido | T06 | Como usuario, quiero poder buscar contenido específico para encontrar información rápidamente. | 3 | Sergio André Gomez Vallejos | Done |
+| US028	| Acceso a la Página de Inicio | T07 | Como visitante, quiero poder acceder a la página de inicio para obtener información clara sobre la aplicación.	 | 2 | Rojas Velasquez, Maycol Jhordan | Done |
+| TS009 | Implementar Funcionalidad de guardado | T08 | Como desarrollador, quiero permitir a los usuarios guardar una página de hotel en su cuenta y marcarlo según lo prefieran.. | 2 | Rojas Velasquez, Maycol Jhordan | Done |
+| TS011 | Implementar Funcionalidad de Filtros en Búsqueda	 | T09 | Como desarrollador, quiero añadir filtros a la búsqueda para refinar resultados de hoteles según sus criterios.	 | 2 | Sergio André Gomez Vallejos | Done |
+| TS017 | Implementar Sistema de reservas | T010 | Como desarrollador, quiero implementar un sistema de procesamiento de reservaciones. | 3 | Rojas Velasquez, Maycol Jhordan | Done |
+
 ## 5.2.2.3 Development Evidence for Sprint Review
 
 Durante este sprint, se han realizado avances significativos en la implementación de la Landing Page. Se han completado varias historias de usuario de la landing page y se han realizado múltiples commits en los repositorios correspondientes. A continuación, se presenta una tabla que incluye los commits relacionados con la implementación para el repositorio de la landing page.
