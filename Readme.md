@@ -1981,14 +1981,6 @@ Durante este Sprint, se han alcanzado varios hitos importantes en la implementac
 
 ![seccioninventario](./assets/webapp7.PNG)
 
-## Imagenes
-
-## Conclusiones Generales
-
-1. Durante este Sprint, el equipo ha demostrado una colaboración efectiva y una distribución equitativa de las tareas. Todos los miembros del equipo han participado activamente en la implementación de la Landing Page, contribuyendo con commits significativos y trabajando en conjunto para resolver problemas y mejorar la calidad del producto. La utilización de herramientas como GitHub y Netlify ha facilitado la integración continua y el despliegue automatizado, permitiendo un flujo de trabajo más eficiente y coordinado.
-
-2. Se han logrado avances significativos en la implementación de la Landing Page de King Reserve. El equipo ha completado con éxito varias tareas clave, incluyendo el diseño y maquetación de la página, la implementación de secciones importantes como el encabezado, el pie de página y el contenido principal, así como la configuración de la integración continua y el despliegue en Netlify. Estos logros han sentado una base sólida para futuras iteraciones y mejoras, asegurando que la Landing Page cumpla con los requisitos y expectativas del proyecto.
-
 ### 5.2.2.7 Software  Deployment Evidence for Sprint Review 
 1 Crear un proyecto en Firebase
 ![image](./assets/deploy-FrontEndPaso1.png)
@@ -2000,6 +1992,32 @@ Durante este Sprint, se han alcanzado varios hitos importantes en la implementac
 ![image](./assets/Deploypaso3.png)
 4 Deployamos
 ![image](./assets/deploypaso4.png)
+
+## 5.2.2.8 Team Collaboration Insights during Sprint
+
+Durante este Sprint, el equipo ha trabajado de manera colaborativa en el diseño y programacion en la implementación de la Web Application de King Reserve. A continuación, se presenta un resumen de cómo se han desarrollado las actividades de implementación, junto con capturas de pantalla de los analíticos de colaboración y commits en GitHub realizados por los miembros del equipo.
+
+### Actividades de Implementación
+
+- Diseño y implementacion de la Web Application.
+- Implementación de secciones clave como resevas, personal, inventario
+- Configuración de la integración continua y despliegue en Firebase.
+- Pruebas y ajustes finales para asegurar la calidad del producto.
+
+#### Captura de Analíticos de Colaboración en GitHub
+
+![sprint2collab1](./assets/sprint2collab1.PNG)
+![sprint2collab2](./assets/sprint2collab2.PNG)
+![sprint2collab3](./assets/sprint2collab3.PNG)
+![sprint2collab4](./assets/sprint2collab4.PNG)
+
+## Imagenes
+
+## Conclusiones Generales
+
+1. Durante este Sprint, el equipo ha demostrado una colaboración efectiva y una distribución equitativa de las tareas. Todos los miembros del equipo han participado activamente en la implementación de la Landing Page, contribuyendo con commits significativos y trabajando en conjunto para resolver problemas y mejorar la calidad del producto. La utilización de herramientas como GitHub y Netlify ha facilitado la integración continua y el despliegue automatizado, permitiendo un flujo de trabajo más eficiente y coordinado.
+
+2. Se han logrado avances significativos en la implementación de la Landing Page de King Reserve. El equipo ha completado con éxito varias tareas clave, incluyendo el diseño y maquetación de la página, la implementación de secciones importantes como el encabezado, el pie de página y el contenido principal, así como la configuración de la integración continua y el despliegue en Netlify. Estos logros han sentado una base sólida para futuras iteraciones y mejoras, asegurando que la Landing Page cumpla con los requisitos y expectativas del proyecto.
 
 ## 6.4 Bibliografía
 
