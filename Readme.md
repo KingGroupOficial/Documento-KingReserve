@@ -2047,6 +2047,16 @@ Durante este Sprint, el equipo ha trabajado de manera colaborativa en el diseño
 
 ## Imagenes
 
+## 5.2.3 Sprint 3
+## 5.2.3.1 Sprint Planning 3
+## 5.2.3.2 Sprint Backlog 3
+## 5.2.3.3 Development Evidence for Sprint Review
+## 5.2.3.4 Testing Suite Evidence for Sprint Review
+## 5.2.3.5 Execution Evidence for Sprint Review
+## 5.2.3.6 Services Documentation Evidence for Sprint Review
+## 5.2.3.7 Software Deployment Evidence for Sprint Review
+## 5.2.3.8 Team Collaboration Insights during Sprint
+
 ## Conclusiones Generales
 
 1. Durante este Sprint, el equipo ha demostrado una colaboración efectiva y una distribución equitativa de las tareas. Todos los miembros del equipo han participado activamente en la implementación de la Landing Page, contribuyendo con commits significativos y trabajando en conjunto para resolver problemas y mejorar la calidad del producto. La utilización de herramientas como GitHub y Netlify ha facilitado la integración continua y el despliegue automatizado, permitiendo un flujo de trabajo más eficiente y coordinado.
