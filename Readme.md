@@ -2058,7 +2058,63 @@ Durante este Sprint, el equipo ha trabajado de manera colaborativa en el diseño
 ## 5.2.3.8 Team Collaboration Insights during Sprint
 
 ## 5.3 Validation Interviews
+
 ## 5.3.1. Diseño de Entrevistas
+
+### 1. Preguntas para Gestores de Empresas Hoteleras
+
+#### 1.1 Información Demográfica
+
+| **Categoría**                   | **Preguntas**                                                                                                                               |
+|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| **Edad y género**               | - ¿Podrías indicarme tu edad y género?                                                                                                      |
+|                                 | - ¿Consideras que tu perfil demográfico influye en tu familiaridad o preferencias al usar plataformas de gestión?                            |
+| **Ubicación del hotel**         | - ¿En qué ciudad o región se encuentra tu hotel?                                                                                            |
+|                                 | - ¿Tu ubicación influye en la necesidad de interacción digital con los huéspedes?                                                           |
+| **Experiencia en el sector hotelero** | - ¿Cuántos años de experiencia tienes en la gestión hotelera?                                                                       |
+|                                 | - ¿Qué cambios o actualizaciones esperas en plataformas de gestión con base en tu experiencia?                                              |
+
+#### 1.2 Evaluación del Landing Page y Aplicaciones
+
+| **Categoría**                   | **Preguntas**                                                                                                                               |
+|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| **Navegación y facilidad de uso** | - ¿Qué tan fácil encontraste navegar en el landing page y la aplicación de KingReserve?                                                   |
+|                                 | - ¿Hubo alguna sección que te costara trabajo localizar o entender?                                                                        |
+| **Funcionalidades clave**       | - ¿Qué características te parecen útiles en la gestión hotelera?                                                                           |
+|                                 | - ¿Qué opinas de la funcionalidad de notificaciones push en la plataforma?                                                                  |
+| **Eficiencia en la gestión**    | - ¿Crees que la plataforma te facilita la gestión de tu hotel de manera eficiente?                                                         |
+|                                 | - ¿Hay alguna funcionalidad que agregarías o mejorarías para adaptarla mejor a tus necesidades?                                            |
+
+### 2. Preguntas para Huéspedes
+
+#### 2.1 Información Demográfica
+
+| **Categoría**                   | **Preguntas**                                                                                                                               |
+|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| **Edad y género**               | - ¿Podrías indicarme tu edad y género?                                                                                                      |
+|                                 | - ¿Te sientes cómodo usando plataformas digitales para hacer reservas y recibir notificaciones?                                             |
+| **Distrito de residencia**      | - ¿En qué distrito o ciudad resides actualmente?                                                                                            |
+|                                 | - ¿Prefieres reservar en lugares cercanos a tu residencia o explorar destinos nuevos?                                                       |
+| **Ocupación**                   | - ¿Cuál es tu ocupación actual?                                                                                                             |
+|                                 | - ¿Crees que tu ocupación influye en la frecuencia o tipo de reservas que realizas?                                                         |
+
+#### 2.2 Evaluación del Landing Page y Aplicaciones
+
+| **Categoría**                   | **Preguntas**                                                                                                                               |
+|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| **Interacción inicial**         | - ¿Fue fácil encontrar la información en el landing page y entender de qué trata KingReserve?                                              |
+|                                 | - ¿Tuviste problemas para registrarte o iniciar sesión en la aplicación?                                                                    |
+| **Preferencias y expectativas** | - ¿Qué funcionalidades de la plataforma te resultaron más útiles para hacer reservas?                                                      |
+|                                 | - ¿Te gustaría recibir más información personalizada o notificaciones sobre servicios disponibles en los hoteles?                          |
+| **Experiencia de reserva**      | - ¿El flujo de reserva te pareció intuitivo? ¿Hubo algún paso que te generara dudas o frustración?                                         |
+|                                 | - ¿Qué cambios sugerirías para mejorar la experiencia de reserva en la plataforma?                                                         |
+
+### Conclusión de la Entrevista
+
+| **Categoría**                   | **Pregunta**                                                                                                                                |
+|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| **Pregunta Final**              | - ¿Hay algo más que consideres relevante compartir sobre tu experiencia interactuando con la plataforma y realizando reservas?             |
+
 ## 5.3.2. Registro de Entrevistas
 
 ## Conclusiones Generales
