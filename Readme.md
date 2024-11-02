@@ -2049,6 +2049,20 @@ Durante este Sprint, el equipo ha trabajado de manera colaborativa en el diseño
 
 ## 5.2.3 Sprint 3
 ## 5.2.3.1 Sprint Planning 3
+| Sprint # | Sprint 3  | 
+|--------------------|------------|
+| Sprint Planning Background | 
+| Date | 2024-11-01 | 
+| Time |  22:30 PM |
+| Location |  UPC - Campus San Miguel |
+| Preparate by| Joaquin Pedraza Maldonado | 
+|  Attendees (to planning meeting) | Gómez Vallejos Sergio André ,Zevallos Linares Alessandro Netto ,Pedraza Maldonado Joaquin Andree ,Romero Qwistgaard Russell Stephen  | 
+| Sprint n-3 Review Summary | --- | 
+| Sprint Planning Background | Durante esta etapa, se llevó a cabo una exhaustiva verificación del BackEnd Webb App y la implementacion de las mejoras continuas dadas en nuestro sprint 2. |
+| Sprint Goal & User Stories | 
+| Sprint 3 Goal | Desarrolar la funcionalidad de la  webb App con i18n. Se considerará que el objetivo del sprint se ha cumplido con la funcionalidad hecha y el BackEnd.|  
+| Sprint Velocity | Se establece un Velocity de 20 Story Points para este Sprint. | 
+| Sum of Story Points | 25 Story Points | 
 ## 5.2.3.2 Sprint Backlog 3
 ## 5.2.3.3 Development Evidence for Sprint Review
 ## 5.2.3.4 Testing Suite Evidence for Sprint Review
