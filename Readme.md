@@ -2201,6 +2201,10 @@ Captura de Analíticos de Colaboración en GitHub
 
 ## Segmento de huespedes
 #### Entrevista 1
+
+## 5.3.2. Registro de Entrevistas
+## Segmento de huespedes
+#### Entrevista 1
 | **Datos del entrevistado** | 
 |--------------------------|
 | **Nombre:**  Mesias Vazques Sebastian |
@@ -2208,7 +2212,7 @@ Captura de Analíticos de Colaboración en GitHub
 | **Edad:**  19 años |
 | **Procedencia:**  Lima, San Miguel |
 | ![Entrevista](./assets/entre34.png)|
-| **Resumen:** Pedro Fiñei, un estudiante universitario de 19 años que reside en San Isidro, Lima, realiza la mayoría de sus reservas entre los 18 y 20 años, principalmente para salidas con amigos y eventos sociales. Prefiere hacer reservas en línea utilizando aplicaciones como  Airbnb, valorando el precio, la ubicación y las opiniones de otros usuarios. Se siente cómodo usando su smartphone para realizar reservas, pero sugiere que las plataformas deberían ofrecer más opciones de personalización, recordatorios automáticos, y ser más transparentes con las tarifas adicionales. También considera importante recibir notificaciones y la posibilidad de comunicarse directamente con los proveedores a través de la plataforma. |
+| **Resumen:** Sebastian, un estudiante universitario de 19 años que reside en San Miguel, Lima, realiza la mayoría de sus reservas entre los 18 y 20 años, principalmente le gusta  hacer reservas a destinos nuevos , valorando el precio, la ubicación y las opiniones de otros usuarios. Se siente cómodo usando KingReserve para realizar reservas, pero sugiere que nuestra plataforma  debería implementar mas facilidad a la hora de completar información detallada  acerca de su reserva. |
 
 #### Entrevista 2
 | **Datos del entrevistado** | 
@@ -2218,7 +2222,7 @@ Captura de Analíticos de Colaboración en GitHub
 | **Edad:**  19 años |
 | **Procedencia:**  Lima, San Miguel |
 | ![Entrevista](./assets/entre23.png)|
-| **Resumen:** Pedro Fiñei, un estudiante universitario de 19 años que reside en San Isidro, Lima, realiza la mayoría de sus reservas entre los 18 y 20 años, principalmente para salidas con amigos y eventos sociales. Prefiere hacer reservas en línea utilizando aplicaciones como  Airbnb, valorando el precio, la ubicación y las opiniones de otros usuarios. Se siente cómodo usando su smartphone para realizar reservas, pero sugiere que las plataformas deberían ofrecer más opciones de personalización, recordatorios automáticos, y ser más transparentes con las tarifas adicionales. También considera importante recibir notificaciones y la posibilidad de comunicarse directamente con los proveedores a través de la plataforma. |
+| **Resumen:** Gael, un estudiante universitario de 19 años que reside en San Miguel, Lima, realiza la mayoría de sus reservas entre los 18 y 20 años, principalmente le gusta  hacer reservas a destinos nuevos pero si no cuenta con mucho tiempo por la universidad prefiere cercanos  , valorando el precio, la ubicación y las opiniones de otros usuarios. Se siente cómodo usando KingReserve para realizar reservas, pero sugiere que nuestra plataforma  debería implementar mas facilidad a la hora de completar información detallada  acerca de su reserva . |
 ## Conclusiones Generales
 
 La interfaz de usuario ha sido refinada, con especial enfoque en la landing page y otros elementos que contribuyen a una experiencia más intuitiva y atractiva. Estas mejoras en el diseño y funcionalidad buscan facilitar la navegación, retener a los usuarios en la plataforma y ofrecer una primera impresión positiva que refuerce el propósito de la aplicación.
