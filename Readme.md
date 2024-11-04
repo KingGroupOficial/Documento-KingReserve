@@ -2096,6 +2096,14 @@ En esta sección se presenta evidencias del despliegue de los web services de Ki
 ![image](./assets/sql.png)
 
 ## 5.2.3.8 Team Collaboration Insights during Sprint
+Durante este Sprint, el equipo ha trabajado de manera colaborativa en el diseño y programacion en la implementación de la plataforma de King Reserve(Backend). A continuación, se presenta un resumen de cómo se han desarrollado las actividades de implementación, junto con capturas de pantalla de los analíticos de colaboración y commits en GitHub realizados por los miembros del equipo.
+
+Actividades de Implementación
+Person Administration
+Reserve Administration
+Staff Management
+Captura de Analíticos de Colaboración en GitHub
+
 
 ## 5.3 Validation Interviews
 
