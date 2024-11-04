@@ -2204,7 +2204,7 @@ Captura de Analíticos de Colaboración en GitHub
 | **Link del video:**  [KingReserve - Validation Interviews 3]() |
 | **Edad:**  31 años |
 | **Procedencia:**  Lima, San Isidro |
-| ![Entrevista](./assets/entre213.PNG)|
+| ![Entrevista](./assets/entre213.png)|
 | **Resumen:** Gracie Romero es un gestor de hotel en San Isidro, Lima, con cinco años de experiencia en la industria hotelera. Ella administra las reservas directamente en el sistema del hotel y le da mucha importancia a aspectos como el precio, la ubicación y las opiniones de los huéspedes. Aunque se siente cómodo gestionando reservas desde su smartphone, sugiere que las plataformas de reservas hoteleras deberían incluir más opciones de personalización, enviar recordatorios automáticos y ofrecer mayor claridad en las tarifas adicionales. Además, considera esencial recibir notificaciones y tener la opción de comunicarse directamente con los clientes a través de la plataforma. |
 
 
