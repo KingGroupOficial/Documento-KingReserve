@@ -2077,6 +2077,17 @@ Durante este Sprint, el equipo ha trabajado de manera colaborativa en el diseño
 | TS012 | Implementar Funcionalidad de Exportación de Datos | T22 | Como desarrollador, quiero permitir a los usuarios exportar datos en formatos como docx, pdf, o xml.           | 3          | TBD         | Done    |
 
 ## 5.2.3.3 Development Evidence for Sprint Review
+
+Durante el Sprint 3, se han realizado múltiples commits en el repositorio del backend, enfocándose en la mejora y la implementación de nuevas funcionalidades. A continuación, se detallan los commits relevantes:
+
+| Repository                               | Branch      | Commit Id                              | Commit Message                                 | Commit Message Body                                          | Committed on (Date) |
+|------------------------------------------|-------------|----------------------------------------|------------------------------------------------|--------------------------------------------------------------|----------------------|
+| KingGroupOficial/King-Reserve-Platform   | developer   | 14502c5898b7752bd709bd5e14a6a80b26e6d8ae                            | Feat: add PersonAdministration                 | Se agrego el component person y administracion                           | 2024-11-02              |
+| KingGroupOficial/King-Reserve-Platform   | developer   | 2843f1c39db726d18346fd5c5264bf2e07504b1e                            | FEAT: ADD CONTROLLER PERSON                 | Se agrego el controller person                           | 2024-11-03              |
+| KingGroupOficial/King-Reserve-Platform   | developer   | e78896551f9c0c00d83d2c06a3dfa8a63cbb2dbd                            | Feat: Add Sergio Gomez bounded context                 | Se agrego el staff management                           | 2024-11-03              |
+| KingGroupOficial/King-Reserve-Platform   | developer   | bea1a7a68f60cfbf1a657581f1dc8e3d35275cf9                            | feat(person) fixed PersonAdministration                 | Se arreglo el component PersonAdministration                           | 2024-11-03              |
+| KingGroupOficial/King-Reserve-Platform   | developer   | 38cbf5274e115fd69effd4f171f7270d9d4a40ba                            | feat: (reserveadmin) fix domain                 | Se agrego y soluciono el componente ReserveAdmini                           | 2024-11-03  
+
 ## 5.2.3.4 Testing Suite Evidence for Sprint Review
 
 A continuación se muestran las pruebas del funcionamiento de nuestro API  en swagger
