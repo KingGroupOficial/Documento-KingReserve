@@ -2057,12 +2057,12 @@ Durante este Sprint, el equipo ha trabajado de manera colaborativa en el diseño
 | Location |  UPC - Campus San Miguel |
 | Preparate by| Joaquin Pedraza Maldonado | 
 |  Attendees (to planning meeting) | Gómez Vallejos Sergio André ,Zevallos Linares Alessandro Netto ,Pedraza Maldonado Joaquin Andree ,Romero Qwistgaard Russell Stephen  | 
-| Sprint n-3 Review Summary | --- | 
+| Sprint n-3 Review Summary | Se desplego el front end de King y se empezo a desarrollar el backend. | 
 | Sprint Planning Background | Durante esta etapa, se llevó a cabo una exhaustiva verificación del BackEnd Webb App y la implementacion de las mejoras continuas dadas en nuestro sprint 2. |
 | Sprint Goal & User Stories | 
-| Sprint 3 Goal | Desarrolar la funcionalidad de la  webb App con i18n. Se considerará que el objetivo del sprint se ha cumplido con la funcionalidad hecha y el BackEnd.|  
-| Sprint Velocity | Se establece un Velocity de 20 Story Points para este Sprint. | 
-| Sum of Story Points | 25 Story Points | 
+| Sprint 3 Goal | En este sprint, el objetivo es construir la lógica y las funcionalidades clave del backend de la aplicación web, así como llevar a cabo su despliegue. A lo largo de las reuniones del equipo, se distribuyeron tareas específicas entre los integrantes para implementar los servicios del backend. Al concluir el sprint, la aplicación debe estar desplegada en un entorno de pruebas apropiado.|  
+| Sprint Velocity | Se establece un Velocity de 10 Story Points para este Sprint. | 
+| Sum of Story Points | 15 Story Points | 
 
 ## 5.2.3.2 Sprint Backlog 3
 
