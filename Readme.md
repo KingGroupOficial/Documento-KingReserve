@@ -2061,8 +2061,8 @@ Durante este Sprint, el equipo ha trabajado de manera colaborativa en el diseño
 | Sprint Planning Background | Durante esta etapa, se llevó a cabo una exhaustiva verificación del BackEnd Webb App y la implementacion de las mejoras continuas dadas en nuestro sprint 2. |
 | Sprint Goal & User Stories | 
 | Sprint 3 Goal | En este sprint, el objetivo es construir la lógica y las funcionalidades clave del backend de la aplicación web, así como llevar a cabo su despliegue. A lo largo de las reuniones del equipo, se distribuyeron tareas específicas entre los integrantes para implementar los servicios del backend. Al concluir el sprint, la aplicación debe estar desplegada en un entorno de pruebas apropiado.|  
-| Sprint Velocity | Se establece un Velocity de 10 Story Points para este Sprint. | 
-| Sum of Story Points | 15 Story Points | 
+| Sprint Velocity | Se establece un Velocity de 7 Story Points para este Sprint. | 
+| Sum of Story Points | 10 Story Points | 
 
 ## 5.2.3.2 Sprint Backlog 3
 
