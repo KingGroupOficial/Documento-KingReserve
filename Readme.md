@@ -2068,13 +2068,13 @@ Durante este Sprint, el equipo ha trabajado de manera colaborativa en el diseño
 
 | US Id | Title                                         | Id  | Description                                                                                                     | Estimation | Assigned To | Status   |
 |-------|-----------------------------------------------|-----|-----------------------------------------------------------------------------------------------------------------|------------|-------------|----------|
-| US021 | Recibir Notificaciones                        | T08 | Como usuario, quiero recibir notificaciones para estar al tanto de actualizaciones importantes.                 | 1          | TBD         | Done    |
-| TS004 | Buscar Hoteles                                | T16 | Como desarrollador, quiero implementar una funcionalidad de búsqueda de hoteles.                                | 3          | TBD         | Done    |
-| TS005 | Agregar Páginas de Hotel                      | T17 | Como desarrollador, quiero permitir a las empresas hoteleras agregar nuevas páginas de hotel.                   | 2          | TBD         | Done    |
-| TS006 | Actualizar Información de la Página           | T18 | Como desarrollador, quiero permitir a las empresas hoteleras actualizar la información de sus hoteles.          | 1          | TBD         | Done    |
-| TS007 | Eliminar Página de Hotel                      | T19 | Como desarrollador, quiero permitir a los administradores eliminar su página de hotel.                          | 3          | TBD         | Done    |
-| TS017 | Implementar Sistema de Reservas               | T10 | Como desarrollador, quiero implementar un sistema de procesamiento de reservaciones.                            | 3          | TBD         | Done    |
-| TS012 | Implementar Funcionalidad de Exportación de Datos | T22 | Como desarrollador, quiero permitir a los usuarios exportar datos en formatos como docx, pdf, o xml.           | 3          | TBD         | Done    |
+| US021 | Recibir Notificaciones                        | T08 | Como usuario, quiero recibir notificaciones para estar al tanto de actualizaciones importantes.                 | 4          | TBD         | Done    |
+| TS004 | Buscar Hoteles                                | T16 | Como desarrollador, quiero implementar una funcionalidad de búsqueda de hoteles.                                | 5          | TBD         | Done    |
+| TS005 | Agregar Páginas de Hotel                      | T17 | Como desarrollador, quiero permitir a las empresas hoteleras agregar nuevas páginas de hotel.                   | 6          | TBD         | Done    |
+| TS006 | Actualizar Información de la Página           | T18 | Como desarrollador, quiero permitir a las empresas hoteleras actualizar la información de sus hoteles.          | 6          | TBD         | Done    |
+| TS007 | Eliminar Página de Hotel                      | T19 | Como desarrollador, quiero permitir a los administradores eliminar su página de hotel.                          | 6         | TBD         | Done    |
+| TS017 | Implementar Sistema de Reservas               | T10 | Como desarrollador, quiero implementar un sistema de procesamiento de reservaciones.                            | 7          | TBD         | Done    |
+| TS012 | Implementar Funcionalidad de Exportación de Datos | T22 | Como desarrollador, quiero permitir a los usuarios exportar datos en formatos como docx, pdf, o xml.           | 7          | TBD         | Done    |
 
 ## 5.2.3.3 Development Evidence for Sprint Review
 
@@ -2196,6 +2196,17 @@ Captura de Analíticos de Colaboración en GitHub
 | **Procedencia:**  Lima, San Isidro |
 | ![Entrevista](./assets/ftentre1.PNG)|
 | **Resumen:** Alex Duran es un gestor de hotel en San Isidro, Lima, con 2 años de experiencia en el sector. Alex gestiona las reservas directamente en el sistema del hotel y valora especialmente factores como el precio, la ubicación y las opiniones de los clientes. Aunque se siente cómodo gestionando las reservas desde su smartphone, sugiere que las plataformas de reservas hoteleras deberían ofrecer más opciones de personalización, recordatorios automáticos y mayor transparencia en las tarifas adicionales. Además, considera fundamental recibir notificaciones y contar con la posibilidad de comunicarse directamente con los clientes a través de la plataforma. |
+
+#### Entrevista 2
+| **Datos del entrevistado** | 
+|--------------------------|
+| **Nombre:**  Gracie Romero |
+| **Link del video:**  [KingReserve - Validation Interviews 3]() |
+| **Edad:**  31 años |
+| **Procedencia:**  Lima, San Isidro |
+| ![Entrevista](./assets/ftentre1.PNG)|
+| **Resumen:** Gracie Romero es un gestor de hotel en San Isidro, Lima, con cinco años de experiencia en la industria hotelera. Ella administra las reservas directamente en el sistema del hotel y le da mucha importancia a aspectos como el precio, la ubicación y las opiniones de los huéspedes. Aunque se siente cómodo gestionando reservas desde su smartphone, sugiere que las plataformas de reservas hoteleras deberían incluir más opciones de personalización, enviar recordatorios automáticos y ofrecer mayor claridad en las tarifas adicionales. Además, considera esencial recibir notificaciones y tener la opción de comunicarse directamente con los clientes a través de la plataforma. |
+
 
 ## Segmento de huespedes
 
