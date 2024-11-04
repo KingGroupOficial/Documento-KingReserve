@@ -2067,23 +2067,18 @@ Durante este Sprint, el equipo ha trabajado de manera colaborativa en el diseño
 ## 5.2.3.3 Development Evidence for Sprint Review
 ## 5.2.3.4 Testing Suite Evidence for Sprint Review
 ## 5.2.3.5 Execution Evidence for Sprint Review 3
-En esta entrega, el equipo KingGroupOficial logró desarrollar la landing page, que cuenta con diversas secciones para ofrecer información clave a los usuarios. Estas secciones están pensadas para explicar quiénes somos, qué nos distingue, cómo funciona nuestra plataforma y brindar una visión general de la experiencia, los planes disponibles y un espacio de contacto. El objetivo es ofrecer a los visitantes una 
-experiencia informativa y completa.
+En esta seccióm se muestra la ejecución correcto de nuestra aplicación web con su servicio de base de datos para el alamcenamiento de esta y su restfull API
+![image](./assets/backend.png)
 
 ## 5.2.3.6 Services Documentation Evidence for Sprint Review
-Para el desarrollo de la plataforma , de king reserve utilizamos las siguientes herramientas :
-Webstorm (IDE de desarrollo): Usamos Webstorm como nuestro entorno de desarrollo integrado para trabajar en el Frontend.
-JetBrains Rider es un IDE (entorno de desarrollo integrado) que puede usarse para el desarrollo de backend
-GitHub: Nuestro repositorio del Frontend está alojado en GitHub, lo que facilita la colaboración y el seguimiento de los cambios en el código.
-C#: en el desarrollo backend  es muy popular y potente, especialmente en entornos de Microsoft, como aplicaciones empresariales, API web, y servicios en la nube.
+En esta sección se presentan las evidencias de la documentación de los servicios utilizados en la implementación de los services de KingReserve.
+img
+
 ## 5.2.3.7 Software Deployment Evidence for Sprint Review 3
-El Execution Evidence para la revisión del sprint se enfoca en documentar y presentar pruebas del desarrollo logrado durante el sprint, con énfasis en el progreso de la landing page. Estas evidencias son fundamentales para mostrar cómo se han alcanzado los objetivos definidos y qué partes del trabajo están completadas, asegurando que el resultado esté alineado con las expectativas del cliente.
+En esta sección se presenta evidencias del despliegue de los web services de King Reserve en un entorno de producción.
 
-Git: Empleado como sistema de control de versiones, facilitó la colaboración efectiva entre los miembros del equipo a lo largo del desarrollo.
+--img--
 
-GitFlow: Esta metodología fue implementada para organizar y gestionar de manera eficiente las contribuciones de cada integrante, manteniendo un flujo de trabajo continuo en el proyecto.
-
-GitHub: Como plataforma esencial para la colaboración, permitió gestionar y almacenar todas las versiones del proyecto, asegurando un control adecuado de los cambios realizados.
 ## 5.2.3.8 Team Collaboration Insights during Sprint
 
 ## 5.3 Validation Interviews
