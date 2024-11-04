@@ -2063,7 +2063,19 @@ Durante este Sprint, el equipo ha trabajado de manera colaborativa en el diseño
 | Sprint 3 Goal | Desarrolar la funcionalidad de la  webb App con i18n. Se considerará que el objetivo del sprint se ha cumplido con la funcionalidad hecha y el BackEnd.|  
 | Sprint Velocity | Se establece un Velocity de 20 Story Points para este Sprint. | 
 | Sum of Story Points | 25 Story Points | 
+
 ## 5.2.3.2 Sprint Backlog 3
+
+| US Id | Title                                         | Id  | Description                                                                                                     | Estimation | Assigned To | Status   |
+|-------|-----------------------------------------------|-----|-----------------------------------------------------------------------------------------------------------------|------------|-------------|----------|
+| US021 | Recibir Notificaciones                        | T08 | Como usuario, quiero recibir notificaciones para estar al tanto de actualizaciones importantes.                 | 1          | TBD         | Done    |
+| TS004 | Buscar Hoteles                                | T16 | Como desarrollador, quiero implementar una funcionalidad de búsqueda de hoteles.                                | 3          | TBD         | Done    |
+| TS005 | Agregar Páginas de Hotel                      | T17 | Como desarrollador, quiero permitir a las empresas hoteleras agregar nuevas páginas de hotel.                   | 2          | TBD         | Done    |
+| TS006 | Actualizar Información de la Página           | T18 | Como desarrollador, quiero permitir a las empresas hoteleras actualizar la información de sus hoteles.          | 1          | TBD         | Done    |
+| TS007 | Eliminar Página de Hotel                      | T19 | Como desarrollador, quiero permitir a los administradores eliminar su página de hotel.                          | 3          | TBD         | Done    |
+| TS017 | Implementar Sistema de Reservas               | T10 | Como desarrollador, quiero implementar un sistema de procesamiento de reservaciones.                            | 3          | TBD         | Done    |
+| TS012 | Implementar Funcionalidad de Exportación de Datos | T22 | Como desarrollador, quiero permitir a los usuarios exportar datos en formatos como docx, pdf, o xml.           | 3          | TBD         | Done    |
+
 ## 5.2.3.3 Development Evidence for Sprint Review
 ## 5.2.3.4 Testing Suite Evidence for Sprint Review
 ## 5.2.3.5 Execution Evidence for Sprint Review 3
