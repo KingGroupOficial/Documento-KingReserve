@@ -2207,13 +2207,14 @@ Captura de Analíticos de Colaboración en GitHub
 | ![Entrevista](./assets/entre213.png)|
 | **Resumen:** Gracie Romero es un gestor de hotel en San Isidro, Lima, con cinco años de experiencia en la industria hotelera. Ella administra las reservas directamente en el sistema del hotel y le da mucha importancia a aspectos como el precio, la ubicación y las opiniones de los huéspedes. Aunque se siente cómodo gestionando reservas desde su smartphone, sugiere que las plataformas de reservas hoteleras deberían incluir más opciones de personalización, enviar recordatorios automáticos y ofrecer mayor claridad en las tarifas adicionales. Además, considera esencial recibir notificaciones y tener la opción de comunicarse directamente con los clientes a través de la plataforma. |
 
+#### Entrevista 3
 | **Datos del entrevistado** | 
 |--------------------------|
 | **Nombre:**  Sebastian Mendez |
 | **Link del video:**  [KingReserve - Validation Interviews 5](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216035_upc_edu_pe/EUR3iRsyrLhBm12QZ6r4zREB1kO-lZhasPR4ExeeqcLroA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=4ymsDn) |
 | **Edad:**  19 años |
 | **Procedencia:**  Lima, San Miguel |
-| ![Entrevista](./assets/ftentre1.PNG)|
+| ![Entrevista](./assets/ftentre2.PNG)|
 | **Resumen:** Sebastian Mendez es un gestor de hotel en Lima con 3 años de experiencia en el sector. Maneja las reservas directamente en el sistema del hotel y considera esenciales factores como el precio, la ubicación y los comentarios de los huéspedes. Sugiere que las aplicaciones de reservas deberían ser más visuales, ofreciendo opciones de personalización, recordatorios automáticos y mayor claridad en los cargos adicionales. Para él, es crucial recibir notificaciones y tener la opción de comunicarse de forma directa con los clientes a través de la plataforma. |
 
 
