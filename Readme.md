@@ -2078,6 +2078,10 @@ Durante este Sprint, el equipo ha trabajado de manera colaborativa en el diseño
 
 ## 5.2.3.3 Development Evidence for Sprint Review
 ## 5.2.3.4 Testing Suite Evidence for Sprint Review
+
+A continuación se muestran las pruebas del funcionamiento de nuestro API  en swagger
+img
+img 
 ## 5.2.3.5 Execution Evidence for Sprint Review 3
 En esta seccióm se muestra la ejecución correcto de nuestra aplicación web con su servicio de base de datos para el alamcenamiento de esta y su restfull API
 ![image](./assets/backend.png)
