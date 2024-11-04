@@ -2316,6 +2316,15 @@ Hemos alcanzado un hito importante al desplegar la aplicación web, permitiendo 
 
 En este sprint, se han realizado mejoras significativas en el backend, enfocándose en asegurar su estabilidad y rendimiento. Hemos optimizado las interacciones entre el servidor y la aplicación, mejorando tanto la velocidad de respuesta como la seguridad en la transferencia de datos. Esto garantiza una base robusta para el crecimiento de la plataforma en cuanto a usuarios y volumen de datos.
 
+### 5.4. Video About-the-Product
+
+![video-about-the.product](./assets/execution1.jpg)
+Se presentó un video promocional del producto que incluye una introducción al modelo de negocio, sus características y beneficios, y opiniones de diferentes segmentos de usuarios. El video muestra cómo el producto se adapta a diversas necesidades, permitiendo a los usuarios optimizar su tiempo y mejorar su eficiencia. Además, en las entrevistas de validación, se considerará a usuarios que ya han interactuado con la landing page y la aplicación, lo que proporcionará insights más precisos sobre su experiencia y expectativas con el producto.
+
+**Link del video:**  [Video About-the-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216035_upc_edu_pe/EZIg5vwPWYdKnrMWEYqQUDABnGB8ttnnx0Vrixcg-gz6yg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=khvN5V)
+
+
+
 ## 6.4 Bibliografía
 
 1. The C4 model for visualising software architecture (2024) Recuperado de: https://c4model.com
