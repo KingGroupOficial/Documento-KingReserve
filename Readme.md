@@ -2229,6 +2229,75 @@ Captura de Analíticos de Colaboración en GitHub
 | **Procedencia:**  Lima, San Miguel |
 | ![Entrevista](./assets/entre23.png)|
 | **Resumen:** Gael, un estudiante universitario de 19 años que reside en San Miguel, Lima, realiza la mayoría de sus reservas entre los 18 y 20 años, principalmente le gusta  hacer reservas a destinos nuevos pero si no cuenta con mucho tiempo por la universidad prefiere cercanos  , valorando el precio, la ubicación y las opiniones de otros usuarios. Se siente cómodo usando KingReserve para realizar reservas, pero sugiere que nuestra plataforma  debería implementar mas facilidad a la hora de completar información detallada  acerca de su reserva . |
+
+### 5.3.3. Evaluaciones segun heuristicas
+
+**SITE o APP A EVALUAR**: KingReserve
+
+**TAREAS A EVALUAR**: El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+- Visualización de funcionalidades en la página principal.
+- Acceso a la sección de Reservas.
+- Acceso a la sección de Informes.
+- Acceso a la sección de Personal.
+- Acceso a la sección de Inventario.
+- Visualización de elementos de Internacionalización.
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+- Registro de un nuevo usuario.
+- Implementación del sistema de pagos.
+- Creación de reportes personalizados.
+- Gestión de ofertas o promociones.
+
+**ESCALA DE SEVERIDAD**: Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. |
+
+**TABLA RESUMEN**:
+
+| #  | Problema                                         | Escala de Severidad | Heurística/Principio violado        |
+|----|--------------------------------------------------|---------------------|-------------------------------------|
+| 1  | Uso inconsistente de colores en títulos y botones | 2                   | Estética y diseño minimalista       |
+| 2  | Apartado de "Servicios" sin implementación       | 3                   | Visibilidad del estado del sistema  |
+| 3  | Falta de opciones avanzadas en la sección Inventario | 2               | Flexibilidad y eficiencia de uso    |
+| 4  | Presentación de estadísticas en la sección Informes | 2               | Presentación clara y estética       |
+
+**DESCRIPCIÓN DE PROBLEMAS**:
+
+**PROBLEMA #1**: Uso inconsistente de colores en títulos y botones  
+- **Severidad**: 2  
+- **Heurística violada**: Estética y diseño minimalista  
+- **Descripción**: Algunos títulos y botones en la interfaz utilizan colores que no están alineados con las guías de estilo de la aplicación, lo cual afecta la cohesión visual y puede disminuir la percepción de profesionalismo.  
+- **Recomendación**: Ajustar los colores de todos los elementos de texto y botones para que sigan el esquema de color establecido en las guías de estilo de KingReserve, mejorando la consistencia y la armonía visual en la aplicación.
+![problema1](./assets/webapp3.PNG)
+
+**PROBLEMA #2**: Apartado de "Servicios" sin implementación  
+- **Severidad**: 3  
+- **Heurística violada**: Visibilidad del estado del sistema  
+- **Descripción**: La sección de "Servicios" aparece en la página principal, pero no está implementada, lo cual podría generar confusión o expectativas no cumplidas para los usuarios que intenten interactuar con esta sección.  
+- **Recomendación**: Completar la implementación de la sección "Servicios" o, si no está lista para su uso, ocultarla temporalmente hasta que esté funcional. Esto evitará que los usuarios intenten acceder a una funcionalidad que aún no está disponible, mejorando así la transparencia de la aplicación.
+![problema2](./assets/webapp1.PNG)
+
+**PROBLEMA #3**: Falta de opciones avanzadas en la sección Inventario  
+- **Severidad**: 2  
+- **Heurística violada**: Flexibilidad y eficiencia de uso  
+- **Descripción**: La sección de Inventario parece limitada a funciones básicas sin opciones avanzadas de personalización o análisis detallado, lo cual podría no cubrir las necesidades de los usuarios que requieren un control más exhaustivo.  
+- **Recomendación**: Añadir funcionalidades avanzadas como filtros de búsqueda, categorías personalizables y reportes de inventario detallados. Esto permitiría a los usuarios tener un mejor control y personalización de su inventario, incrementando la utilidad y eficiencia de esta sección.
+![problema3](./assets/webapp7.PNG)
+
+**PROBLEMA #4**: Presentación de estadísticas en la sección Informes  
+- **Severidad**: 2  
+- **Heurística violada**: Estética y diseño minimalista 
+- **Descripción**: Las estadísticas en la sección de Informes no están presentadas de manera clara y visualmente atractiva, lo que puede dificultar la interpretación rápida de los datos por parte de los usuarios.  
+- **Recomendación**: Mejorar la presentación de las estadísticas mediante gráficos y visualizaciones más dinámicas (barras, tortas, líneas), además de utilizar colores que ayuden a distinguir fácilmente las diferentes métricas. Esto facilitará la comprensión y análisis rápido de los datos por parte de los usuarios.
+![problema4](./assets/webapp4.PNG)
+
 ## Conclusiones Generales
 
 La interfaz de usuario ha sido refinada, con especial enfoque en la landing page y otros elementos que contribuyen a una experiencia más intuitiva y atractiva. Estas mejoras en el diseño y funcionalidad buscan facilitar la navegación, retener a los usuarios en la plataforma y ofrecer una primera impresión positiva que refuerce el propósito de la aplicación.
