@@ -2199,11 +2199,6 @@ Captura de Analíticos de Colaboración en GitHub
 
 ## Segmento de huespedes
 
-## Segmento de huespedes
-#### Entrevista 1
-
-## 5.3.2. Registro de Entrevistas
-## Segmento de huespedes
 #### Entrevista 1
 | **Datos del entrevistado** | 
 |--------------------------|
