@@ -2180,9 +2180,11 @@ Captura de Analíticos de Colaboración en GitHub
 
 ## Conclusiones Generales
 
-1. Durante este Sprint, el equipo ha demostrado una colaboración efectiva y una distribución equitativa de las tareas. Todos los miembros del equipo han participado activamente en la implementación de la Landing Page, contribuyendo con commits significativos y trabajando en conjunto para resolver problemas y mejorar la calidad del producto. La utilización de herramientas como GitHub y Netlify ha facilitado la integración continua y el despliegue automatizado, permitiendo un flujo de trabajo más eficiente y coordinado.
+La interfaz de usuario ha sido refinada, con especial enfoque en la landing page y otros elementos que contribuyen a una experiencia más intuitiva y atractiva. Estas mejoras en el diseño y funcionalidad buscan facilitar la navegación, retener a los usuarios en la plataforma y ofrecer una primera impresión positiva que refuerce el propósito de la aplicación.
 
-2. Se han logrado avances significativos en la implementación de la Landing Page de King Reserve. El equipo ha completado con éxito varias tareas clave, incluyendo el diseño y maquetación de la página, la implementación de secciones importantes como el encabezado, el pie de página y el contenido principal, así como la configuración de la integración continua y el despliegue en Netlify. Estos logros han sentado una base sólida para futuras iteraciones y mejoras, asegurando que la Landing Page cumpla con los requisitos y expectativas del proyecto.
+Hemos alcanzado un hito importante al desplegar la aplicación web, permitiendo que los usuarios accedan a la plataforma en un entorno de producción. Este despliegue facilita la evaluación de las funcionalidades y nos permite obtener retroalimentación valiosa para iterar y ajustar componentes clave en próximas fases.
+
+En este sprint, se han realizado mejoras significativas en el backend, enfocándose en asegurar su estabilidad y rendimiento. Hemos optimizado las interacciones entre el servidor y la aplicación, mejorando tanto la velocidad de respuesta como la seguridad en la transferencia de datos. Esto garantiza una base robusta para el crecimiento de la plataforma en cuanto a usuarios y volumen de datos.
 
 ## 6.4 Bibliografía
 
