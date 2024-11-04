@@ -2099,6 +2099,12 @@ En esta seccióm se muestra la ejecución correcto de nuestra aplicación web co
 
 ## 5.2.3.6 Services Documentation Evidence for Sprint Review
 En esta sección se presentan las evidencias de la documentación de los servicios utilizados en la implementación de los services de KingReserve.
+![image](./assets/sql.png)
+
+## 5.2.3.7 Software Deployment Evidence for Sprint Review 3
+En esta sección se presenta evidencias del despliegue de los web services de King Reserve en un entorno de producción.
+
+
 ![image](./assets/deploy1.png)
 ![image](./assets/deploy2.png)
 ![image](./assets/deploy3.png)
@@ -2109,11 +2115,6 @@ En esta sección se presentan las evidencias de la documentación de los servici
 ![image](./assets/deploy8.png)
 ![image](./assets/deploy9.png)
 ![image](./assets/deploy10.png)
-## 5.2.3.7 Software Deployment Evidence for Sprint Review 3
-En esta sección se presenta evidencias del despliegue de los web services de King Reserve en un entorno de producción.
-
-![image](./assets/sql.png)
-
 ## 5.2.3.8 Team Collaboration Insights during Sprint
 Durante este Sprint, el equipo ha trabajado de manera colaborativa en el diseño y programacion en la implementación de la plataforma de King Reserve(Backend). A continuación, se presenta un resumen de cómo se han desarrollado las actividades de implementación, junto con capturas de pantalla de los analíticos de colaboración y commits en GitHub realizados por los miembros del equipo.
 
