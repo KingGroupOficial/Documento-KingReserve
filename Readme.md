@@ -2177,7 +2177,26 @@ Captura de Analíticos de Colaboración en GitHub
 | **Pregunta Final**              | - ¿Hay algo más que consideres relevante compartir sobre tu experiencia interactuando con la plataforma y realizando reservas?             |
 
 ## 5.3.2. Registro de Entrevistas
+## Segmento de huespedes
+#### Entrevista 1
+| **Datos del entrevistado** | 
+|--------------------------|
+| **Nombre:**  Mesias Vazques Sebastian |
+| **Link del video:**  [KingReserve - Validation Interviews 1](https://drive.google.com/file/d/16uT-0jeT-2ptZgd6UxuSqkj22oPiPT9K/view?usp=sharing) |
+| **Edad:**  19 años |
+| **Procedencia:**  Lima, San Miguel |
+| ![Entrevista](./assets/entre34.png)|
+| **Resumen:** Pedro Fiñei, un estudiante universitario de 19 años que reside en San Isidro, Lima, realiza la mayoría de sus reservas entre los 18 y 20 años, principalmente para salidas con amigos y eventos sociales. Prefiere hacer reservas en línea utilizando aplicaciones como  Airbnb, valorando el precio, la ubicación y las opiniones de otros usuarios. Se siente cómodo usando su smartphone para realizar reservas, pero sugiere que las plataformas deberían ofrecer más opciones de personalización, recordatorios automáticos, y ser más transparentes con las tarifas adicionales. También considera importante recibir notificaciones y la posibilidad de comunicarse directamente con los proveedores a través de la plataforma. |
 
+#### Entrevista 2
+| **Datos del entrevistado** | 
+|--------------------------|
+| **Nombre:**  Lopez Diaz Gael Dario |
+| **Link del video:**  [KingReserve - Validation Interviews 2](https://drive.google.com/file/d/1lALoHYrlqakGwXXUKvz8YmDDYwY3JZTt/view?usp=sharing) |
+| **Edad:**  19 años |
+| **Procedencia:**  Lima, San Miguel |
+| ![Entrevista](./assets/entre23.png)|
+| **Resumen:** Pedro Fiñei, un estudiante universitario de 19 años que reside en San Isidro, Lima, realiza la mayoría de sus reservas entre los 18 y 20 años, principalmente para salidas con amigos y eventos sociales. Prefiere hacer reservas en línea utilizando aplicaciones como  Airbnb, valorando el precio, la ubicación y las opiniones de otros usuarios. Se siente cómodo usando su smartphone para realizar reservas, pero sugiere que las plataformas deberían ofrecer más opciones de personalización, recordatorios automáticos, y ser más transparentes con las tarifas adicionales. También considera importante recibir notificaciones y la posibilidad de comunicarse directamente con los proveedores a través de la plataforma. |
 ## Conclusiones Generales
 
 La interfaz de usuario ha sido refinada, con especial enfoque en la landing page y otros elementos que contribuyen a una experiencia más intuitiva y atractiva. Estas mejoras en el diseño y funcionalidad buscan facilitar la navegación, retener a los usuarios en la plataforma y ofrecer una primera impresión positiva que refuerce el propósito de la aplicación.
