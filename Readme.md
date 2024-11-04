@@ -2104,7 +2104,9 @@ Reserve Administration
 Staff Management
 Captura de Analíticos de Colaboración en GitHub
 
+![image](./assets/back2.PNG)
 
+![image](./assets/back1.PNG)
 ## 5.3 Validation Interviews
 
 ## 5.3.1. Diseño de Entrevistas
