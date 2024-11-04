@@ -2186,6 +2186,19 @@ Captura de Analíticos de Colaboración en GitHub
 | **Pregunta Final**              | - ¿Hay algo más que consideres relevante compartir sobre tu experiencia interactuando con la plataforma y realizando reservas?             |
 
 ## 5.3.2. Registro de Entrevistas
+## Segmento Gestores de Empresas Hoteleras
+
+| **Datos del entrevistado** | 
+|--------------------------|
+| **Nombre:**  Alex Duran |
+| **Link del video:**  [KingReserve - Validation Interviews 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216035_upc_edu_pe/EbHrkeAb56BBrSgFekFkAGsBm-i5Xbi4dRs6G7z9qz1r1Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=b0lb5h) |
+| **Edad:**  19 años |
+| **Procedencia:**  Lima, San Isidro |
+| ![Entrevista](./assets/ftentre1.PNG)|
+| **Resumen:** Alex Duran es un gestor de hotel en San Isidro, Lima, con 2 años de experiencia en el sector. Alex gestiona las reservas directamente en el sistema del hotel y valora especialmente factores como el precio, la ubicación y las opiniones de los clientes. Aunque se siente cómodo gestionando las reservas desde su smartphone, sugiere que las plataformas de reservas hoteleras deberían ofrecer más opciones de personalización, recordatorios automáticos y mayor transparencia en las tarifas adicionales. Además, considera fundamental recibir notificaciones y contar con la posibilidad de comunicarse directamente con los clientes a través de la plataforma. |
+
+## Segmento de huespedes
+
 ## Segmento de huespedes
 #### Entrevista 1
 | **Datos del entrevistado** | 
