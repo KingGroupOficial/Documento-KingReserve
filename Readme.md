@@ -2099,8 +2099,16 @@ En esta seccióm se muestra la ejecución correcto de nuestra aplicación web co
 
 ## 5.2.3.6 Services Documentation Evidence for Sprint Review
 En esta sección se presentan las evidencias de la documentación de los servicios utilizados en la implementación de los services de KingReserve.
---img--
-
+![image](./assets/deploy1.png)
+![image](./assets/deploy2.png)
+![image](./assets/deploy3.png)
+![image](./assets/deploy4.png)
+![image](./assets/deploy5.png)
+![image](./assets/deploy6.png)
+![image](./assets/deploy7.png)
+![image](./assets/deploy8.png)
+![image](./assets/deploy9.png)
+![image](./assets/deploy10.png)
 ## 5.2.3.7 Software Deployment Evidence for Sprint Review 3
 En esta sección se presenta evidencias del despliegue de los web services de King Reserve en un entorno de producción.
 
