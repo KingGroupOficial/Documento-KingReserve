@@ -80,11 +80,56 @@
 | TP1         | 27/09/2024  | Joaquin Pedraza Maldonado       |  Implementación del sprint 2, sprint planning, testing, Software Deployment Evidence for Sprint Review 2 | 
 | TP1         | 27/09/2024  | Russell Stephen Romero Qwistgaard | Implementación del sprint 2, sprint planning 2, testing, sprint backolog 2 |
 | TP1         | 27/09/2024  | Maycol Jhordan Rojas Velasquez       |  Se hizo el student outcome para el trbajo TP | 
+|TF|20/11/2024|Maycol Jhordan Rojas Velasquez| Se agrego imagenes del backend desplegado, student outcome, frontend y el backend desplegado, sprint backlog 4 |
+| TF         | 06/09/2024  | Sergio André Gómez Vallejos       | Implementación del frontend desplegado junto al backend, student outcome, sprint backlog 4, conclusiones, sprint 4|
 
 **Project Report Collaboration Insights**
 
+|  URL de la organización del proyecto  |          URL del repositorio del reporte          |
+| :-----------------------------------: | :-----------------------------------------------: | 
+| https://github.com/KingGroupOficial | https://github.com/KingGroupOficial/Documento-KingReserve |
+
+| URL del repositorio del backend | URL del repositorio del Frontend| URL del repositorio de la landing page |
+|  :-----------------------------------------------: | :-----------------------------------------------: |:-----------------------------------------------:|
+| https://github.com/Horizon-ManageWise/managewise-backend | https://github.com/Horizon-ManageWise/Frontend-Web-Application | https://github.com/Horizon-ManageWise/LandingPage |
+
+**URL FRONTEND Y BACKEND DESPLEGADO**: https://frontend-test-managewise.vercel.app/sign-in
+
+**URL FRONTEND**: https://frontend-test-managewise.vercel.app
+
+**URL BACKEND**: https://managewise-ffbua6fpfmbteaeq.brazilsouth-01.azurewebsites.net/api/v1/
+
+
+TF1: Se han realizado todas las tareas asignadas para la entrega del TF1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/KingGroupOficial. Para elaborar el informe cada miembro corrigio y añadio puntos que se debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/KingGroupOficial/Documento-KingReserve, de la misma manera para el desarrollo de la landing page se trabajo en este repositorio: https://github.com/KingGroupOficial/Landing-Page---KingReserve. Sin embargo, para el desarollo de la Landing page tuvimos una modificaciones este último mes. En este Trabajo final nos encargamos de conectar los bounded context y conectar cada uno con su frontend.
+
+<br>**Vista de commits: Landing page:** 
+
+![alt text](./assets/commits.png)
+
+![alt text](./assets/NET.png)
+
+- Maycol Jhordan Rojas Velasquez: 15
+- Sergio André Gómez Vallejos: 1
+
+
+
+<br>**Report:**
+
+
+![alt text](./assets/REPORT.png)
+
+![alt text](./assets/aaaa.png)
+
+- Gómez Vallejos Sergio André: 43
+- Rojas Velasquez Maycol Jhordan: 38
+- Zevallos Linares Alessandro Netto: 36
+- Pedraza Maldonado Joaquin Andree: 30
+- Romero Qwistgaard Russell Stephen: 37
+
+
 ### URL del Repositorio 
 https://github.com/KingGroupOficial/Documento-KingReserve
+
 
 
 
@@ -212,15 +257,15 @@ https://github.com/KingGroupOficial/Documento-KingReserve
    6.4. [Bibliography](#Bibliography)<br>
 
    
-   # STUDENT OUTCOME
+  # STUDENT OUTCOME
 El curso contribuye al cumplimiento del Student Outcome ABET: 
 ##### ABET – EAC - Student Outcome 5 
 Criterio: Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo; crea un entorno colaborativo e inclusivo y establece metas, planifica tareas y cumple objetivos, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5. 
 
-| **Criterio específico** | **Acciones realizadas** | **Conclusiones** |  
-|-------------------------|------------------------|------------------|  
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta | 1.- **Sergio André Gómez Vallejos TB1:** Participé activamente en el desarrollo del documento y la landing page, colaborando con el equipo en la división de tareas y asegurando que se completaran en el plazo establecido.<br>2.- **Maycol Jhordan Rojas Velasquez TB1:** Participé activamente en el desarrollo del documento y la landing page colaborando en el tipo de colores y estilos para la web page. En la fase de **TP**, colaboré de manera equitativa para hacer el front end, realizando reuniones y código en conjunto.<br>3.- **Joaquín Pedraza Maldonado:** Participé frecuentemente en el documento y en las funcionalidades de la landing page, apoyando a mis compañeros a resolver problemas que se presentaban durante su desarrollo.<br>4.- **Alessandro Netto Zevallos Linares TB1:** Participé activamente en la creación del documento, asegurando una correcta coordinación y cumpliendo con los plazos establecidos.<br>5.- **Russell Stephen Romero Qwistgaard TB1:** Trabajé en coordinación con mi equipo, siempre estando atento a sus llamadas e intentando entregar mis partes a tiempo. En la fase de **TP**, contribuí de manera significativa al progreso del proyecto al realizar pruebas y analizar el impacto de cada miembro del equipo.| **TB1:** La colaboración y el liderazgo conjunto permitieron una distribución eficiente de las tareas y aseguraron que se cumplieran los plazos establecidos. La participación activa de todos los miembros del equipo fue crucial para el éxito del proyecto. <br>**TP:** Se asignó colaborativamente el desarrollo del proyecto, logrando un enfoque completo en el segmento objetivo. |  
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | 1.- **Sergio André Gómez Vallejos TB1:** Contribuí trabajando en equipo, enfocándome en mis tareas asignadas y apoyando a mis compañeros en sus áreas cuando fue necesario, manteniendo una actitud colaborativa para cumplir con los objetivos establecidos.<br>2.- **Maycol Jhordan Rojas Velasquez TB1:** Creé diversas subtareas para el grupo, permitiendo que todos cumplieran a tiempo con los entregables y generando un entorno más dinámico y amigable.<br>3.- **Joaquín Pedraza Maldonado TB1:** Contribuí trabajando en equipo, realizando mis tareas asignadas y escuchando a mis compañeros para generar un buen ambiente de trabajo.<br>4.- **Alessandro Netto Zevallos Linares TB1:** Me encargué de realizar las tareas asignadas para que el equipo pudiera avanzar de manera eficiente y coordinada, asegurando que los objetivos del proyecto se alcanzaran en los tiempos previstos.<br>5.- **Russell Stephen Romero Qwistgaard TB1:** Impuse mi trabajo en el proyecto con perseverancia y dedicación, buscando mejorar mi desempeño con cada entrega. En la fase de **TP**, organicé mis tiempos y estuve atento a las actualizaciones de mi equipo para garantizar el éxito del proyecto.| **TB1:** La creación de un entorno colaborativo e inclusivo, junto con la planificación y establecimiento de metas claras, permitió al equipo cumplir con los objetivos del proyecto de manera eficiente. La división de tareas y el apoyo mutuo fueron fundamentales para el éxito del Sprint.<br>**TP:** Se trabajó de manera colaborativa en el desarrollo de una buena aplicación web, haciendo que el trabajo fuera un esfuerzo conjunto. |
+| **Criterio específico** | **Acciones realizadas** | **Conclusiones** | 
+|-------------------------|------------------------|------------------| 
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | 1.- **Sergio André Gómez Vallejos TB1:** Participé activamente en el desarrollo del documento y la landing page, colaborando con el equipo en la división de tareas y asegurando que se completaran en el plazo establecido.<br>2.- **Maycol Jhordan Rojas Velasquez TB1:** Participé activamente en el desarrollo del documento y la landing page colaborando en el tipo de colores y estilos para la web page. En la fase de **TP**, colaboré de manera equitativa para hacer el front end, realizando reuniones y código en conjunto.<br>3.- **Joaquín Pedraza Maldonado:** Participé frecuentemente en el documento y en las funcionalidades de la landing page, apoyando a mis compañeros a resolver problemas que se presentaban durante su desarrollo.<br>4.- **Alessandro Netto Zevallos Linares TB1:** Participé activamente en la creación del documento, asegurando una correcta coordinación y cumpliendo con los plazos establecidos.<br>5.- **Russell Stephen Romero Qwistgaard TB1:** Trabajé en coordinación con mi equipo, siempre estando atento a sus llamadas e intentando entregar mis partes a tiempo. En la fase de **TP**, contribuí de manera significativa al progreso del proyecto al realizar pruebas y analizar el impacto de cada miembro del equipo. <br>1.- **Sergio André Gómez Vallejos TP:** Participé activamente en el desarrollo del documento y la landing page, colaborando con el equipo en la división de tareas y asegurando que se completaran en el plazo establecido.<br>2.- **Maycol Jhordan Rojas Velasquez TP:** Participé activamente en el desarrollo del documento y la landing page, colaborando en el tipo de colores y estilos para la web page y el FrontEnd.<br>1.- **Sergio André Gómez Vallejos TF:** Participé liderando la integración de las funcionalidades del backend con el frontend de la aplicación, asegurando la coordinación del equipo durante el desarrollo completo del proyecto. <br>2.- **Maycol Jhordan Rojas Velasquez TF:**  Estuve a cargo de refinar el diseño visual y trabajé activamente en la integración del frontend con el backend, asegurando que la aplicación cumpliera con los requisitos funcionales y técnicos establecidos.| **TB1:** La colaboración y el liderazgo conjunto permitieron una distribución eficiente de las tareas y aseguraron que se cumplieran los plazos establecidos. La participación activa de todos los miembros del equipo fue crucial para el éxito del proyecto. <br>**TP:** Se asignó colaborativamente el desarrollo del proyecto, logrando un enfoque completo en el segmento objetivo. <br>**TF:** El equipo demostró liderazgo conjunto en la finalización de la aplicación completa, logrando la integración total de frontend y backend. La colaboración activa y el esfuerzo colectivo fueron clave para alcanzar un resultado exitoso.|
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | 1.- **Sergio André Gómez Vallejos TB1:** Contribuí trabajando en equipo, enfocándome en mis tareas asignadas y apoyando a mis compañeros en sus áreas cuando fue necesario, manteniendo una actitud colaborativa para cumplir con los objetivos establecidos.<br>2.- **Maycol Jhordan Rojas Velasquez TB1:** Creé diversas subtareas para el grupo, permitiendo que todos cumplieran a tiempo con los entregables y generando un entorno más dinámico y amigable.<br>3.- **Joaquín Pedraza Maldonado TB1:** Contribuí trabajando en equipo, realizando mis tareas asignadas y escuchando a mis compañeros para generar un buen ambiente de trabajo.<br>4.- **Alessandro Netto Zevallos Linares TB1:** Me encargué de realizar las tareas asignadas para que el equipo pudiera avanzar de manera eficiente y coordinada, asegurando que los objetivos del proyecto se alcanzaran en los tiempos previstos.<br>5.- **Russell Stephen Romero Qwistgaard TB1:** Impuse mi trabajo en el proyecto con perseverancia y dedicación, buscando mejorar mi desempeño con cada entrega. En la fase de **TP**, organicé mis tiempos y estuve atento a las actualizaciones de mi equipo para garantizar el éxito del proyecto.<br>1.- **Sergio André Gómez Vallejos TP:** Contribuí a generar un entorno positivo, cumpliendo con mis tareas asignadas y apoyando a mis compañeros cuando enfrentaron dificultades, para asegurar que los objetivos iniciales del proyecto fueran alcanzados.<br>2.- **Maycol Jhordan Rojas Velasquez TP:** Organicé subtareas claras para todos los miembros, facilitando la entrega de avances dentro del tiempo estimado y manteniendo un ambiente dinámico y productivo. 1.- **Sergio André Gómez Vallejos TF:**  En la etapa final, ayudé a establecer prioridades claras para completar el desarrollo de la aplicación. Contribuí a coordinar las tareas relacionadas con la integración de backend y frontend, fomentando un entorno colaborativo que impulsó el éxito del equipo.<br>2.- **Maycol Jhordan Rojas Velasquez TF:** Planifiqué actividades específicas para optimizar el desarrollo del proyecto completo, asegurando la calidad del diseño y la funcionalidad del producto. Además, trabajé activamente en la integración final del código y en pruebas para verificar el correcto funcionamiento.  | **TB1:** La creación de un entorno colaborativo e inclusivo, junto con la planificación y establecimiento de metas claras, permitió al equipo cumplir con los objetivos del proyecto de manera eficiente. La división de tareas y el apoyo mutuo fueron fundamentales para el éxito del Sprint.<br>**TP:** Se trabajó de manera colaborativa en el desarrollo de una buena aplicación web, haciendo que el trabajo fuera un esfuerzo conjunto.<br>**TF:** Durante el desarrollo del proyecto final, el equipo trabajó de manera organizada y coordinada, completando tanto el frontend como el backend de la aplicación. Este esfuerzo conjunto aseguró un producto completo y funcional, alineado con las metas planteadas. |
 
 # 1. CAPÍTULO I: Introducción
 ## 1.1 Startup Profile
@@ -1816,7 +1861,7 @@ Para una demostración completa de la visualización y navegación logradas en e
 
 | Nombre               | Link                                                                                           |
 |----------------------|------------------------------------------------------------------------------------------------|
-| Video de Demostración | [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219984_upc_edu_pe/EVt0Nx5B_7tCvOJOQPutx4MB3DofKynew2_pIgkDRkttSg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Qbz30y](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219984_upc_edu_pe/EVt0Nx5B_7tCvOJOQPutx4MB3DofKynew2_pIgkDRkttSg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Qbz30y) |
+| Video de Demostración | https://goo.su/i3wp |
 
 
 
@@ -2308,6 +2353,8 @@ No están incluidas en esta versión de la evaluación las siguientes tareas:
 - **Recomendación**: Mejorar la presentación de las estadísticas mediante gráficos y visualizaciones más dinámicas (barras, tortas, líneas), además de utilizar colores que ayuden a distinguir fácilmente las diferentes métricas. Esto facilitará la comprensión y análisis rápido de los datos por parte de los usuarios.
 ![problema4](./assets/webapp4.PNG)
 
+
+
 ## Conclusiones Generales
 
 La interfaz de usuario ha sido refinada, con especial enfoque en la landing page y otros elementos que contribuyen a una experiencia más intuitiva y atractiva. Estas mejoras en el diseño y funcionalidad buscan facilitar la navegación, retener a los usuarios en la plataforma y ofrecer una primera impresión positiva que refuerce el propósito de la aplicación.
@@ -2316,19 +2363,87 @@ Hemos alcanzado un hito importante al desplegar la aplicación web, permitiendo 
 
 En este sprint, se han realizado mejoras significativas en el backend, enfocándose en asegurar su estabilidad y rendimiento. Hemos optimizado las interacciones entre el servidor y la aplicación, mejorando tanto la velocidad de respuesta como la seguridad en la transferencia de datos. Esto garantiza una base robusta para el crecimiento de la plataforma en cuanto a usuarios y volumen de datos.
 
+La colaboración entre los miembros del equipo ha sido clave para alcanzar los objetivos establecidos en este sprint. Las reuniones regulares y la comunicación efectiva permitieron resolver desafíos técnicos de manera oportuna, asegurando que todos los integrantes estuvieran alineados con las metas del proyecto.
+
+Se implementaron mejoras en la integración entre el frontend y el backend, lo que ha permitido que la aplicación funcione de manera fluida y estable. Estas optimizaciones fortalecen la interacción del usuario con el sistema, brindando una experiencia más rápida y confiable.
+
+El uso de herramientas como GitHub y Netlify ha facilitado la gestión del código y el despliegue continuo de la aplicación. Este enfoque ha permitido realizar pruebas frecuentes y detectar problemas a tiempo, lo que ha sido fundamental para mantener la calidad del producto entregado.
+
 ### 5.4. Video About-the-Product
 
 ![video-about-the.product](./assets/execution1.jpg)
 Se presentó un video promocional del producto que incluye una introducción al modelo de negocio, sus características y beneficios, y opiniones de diferentes segmentos de usuarios. El video muestra cómo el producto se adapta a diversas necesidades, permitiendo a los usuarios optimizar su tiempo y mejorar su eficiencia. Además, en las entrevistas de validación, se considerará a usuarios que ya han interactuado con la landing page y la aplicación, lo que proporcionará insights más precisos sobre su experiencia y expectativas con el producto.
 
-**Link del video:**  [Video About-the-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216035_upc_edu_pe/EZIg5vwPWYdKnrMWEYqQUDABnGB8ttnnx0Vrixcg-gz6yg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=khvN5V)
 
+**Link del video:**  https://goo.su/pKfX0
+
+
+## 5.2.4 Sprint 4
+
+Durante el Sprint 4, nuestro enfoque principal fue el desarrollo del BackEnd Y FronEnd de KingReserve, utilizando C# y Vue.js. Este sprint fue fundamental y primordial para implementar las ultimas funcionalidades del BackEnd y FronEnd, además de lograr la unión y deploy de la última version de ambos servicios.
+
+## 5.2.4.1 Sprint Planning 4
+
+En este Sprint 4, durante la reunión de planificación, el equipo seleccionará las historias de usuario restantes, para convertirlas en resultados concretos. Además, se distribuirán las tareas de manera equitativa para poder culminar con estas en el tiempo establecido. Para ello, se fomentará la colaboración, asegurandonos que todos tengan un nivel similar de conocimiento en las diferentes áreas, teniendo siempre en cuenta los objetivos del trabajo.
+
+| Sprint # | Sprint 4  | 
+|--------------------|------------|
+| Sprint Planning Background | 
+| Date | 2024-11-20 | 
+| Time |  20:45 PM |
+| Location |  UPC - Campus San Miguel |
+| Preparate by| Joaquin Pedraza Maldonado | 
+|  Attendees (to planning meeting) | Gómez Vallejos Sergio André ,Zevallos Linares Alessandro Netto ,Pedraza Maldonado Joaquin Andree ,Romero Qwistgaard Russell Stephen  | 
+| Sprint n-4 Review Summary | Se desplego el front end de King y el Backend tambien, se termino de desarrollar la aplicación web ya desplegada | 
+| Sprint Planning Background | Durante esta etapa, se llevó a cabo una exhaustiva verificación del BackEnd Web App y el Frontend, tambien con el Landing Page junto a las mejores continuas durante de este sprint.|
+| Sprint Goal & User Stories | 
+| Sprint 4 Goal | Nuestro meta culminar detalles en el backlog, para unir todos los bounded contexts con los patrones necesarios y posteriormente hacer el deploy del servicio final, para hacer lo mismo con el frontend y unir ambas partes. Creemos que esto nos ayudará a comprender como se relacionan ambos servicios.|  
+| Sprint Velocity | Se establece un Velocity de 7 Story Points para este Sprint. | 
+| Sum of Story Points | 10 Story Points | 
+
+## 5.2.4.2 Sprint Backlog 4
+
+## 5.2.4.3. Development Evidence for Sprint Review
+
+## 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+## 5.2.4.5. Execution Evidence for Sprint Review
+
+
+Durante este Sprint, se han alcanzado varios hitos importantes en la implementación de la aplicación web culminada, tanto como el FrontEnd y el Backend.
+
+### Screenshots
+
+#### FrontEnd
+![Landing Page](./assets/execution1.jpg)
+
+#### Sección de Características
+![Características](./assets/execution2.jpg)
+
+#### Sección de Planes Disponibles
+![Planes Disponibles](./assets/execution3.jpg)
+
+#### Sección de Preguntas Frecuentes
+![Preguntas Frecuentes](./assets/execution4.jpg)
+
+### Seccion de cambio de idioma 
+![I18n](./assets/execution5.jpg)
+
+### Video de Demostración
+
+Para una demostración completa de la visualización y navegación logradas en este Sprint, por favor vea el siguiente video:
+
+
+| Nombre               | Link                                                                                           |
+|----------------------|------------------------------------------------------------------------------------------------|
+| Video de Demostración | https://goo.su/i3wp |
 
 
 ## 6.4 Bibliografía
 
 1. The C4 model for visualising software architecture (2024) Recuperado de: https://c4model.com
-2. Naming Conventions for java (2024) Recuperado de: https://www.oracle.com/java/technologies/javase/codeconventions-namingconventions.html#:~:text=Except%20for%20variables%2C%20all%20instance,should%20be%20short%20yet%20meaningful.
+
+2. Naming Conventions for java (2024) Recuperado de: https://goo.su/GNwTRfk
 
 ## Anexos
 
@@ -2341,7 +2456,7 @@ Se presentó un video promocional del producto que incluye una introducción al 
  |Segmento del trabajo|Link de repositorio|
 |---------|---------|
 | LandingPage (Anexo A)    | https://kingreserve.netlify.app/ |
-| Diagramas de clases (Anexo B)   |  https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221d401_upc_edu_pe/EUv9OiiAZgtKgkO9fzCMedUBkaxSq29Emvi84Fn6uYdO3A?e=jC6bjZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D  |
+| Diagramas de clases (Anexo B)   |  https://goo.su/bWGR1ZQ |
 | Diagramas de base de datos (Anexo C)   | https://my.vertabelo.com/doc/GeHrKz6hgPvFhSH4XkuEu95kq78E4Eab   |
 | Despliegue del Front   | https://kingreserve-b6ab6.web.app/   |
 | Despliegue del Back   | https://kingreserve-gqc8ayfabyghb3cw.brazilsouth-01.azurewebsites.net/api/v1/reserve   |
