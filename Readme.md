@@ -2421,9 +2421,10 @@ Durante este Sprint, se han alcanzado varios hitos importantes en la implementac
 
 #### BackEnd - Bounded Context Reserve
 
-![Frontend](./assets/reserve2.png)
+![BackEnd](./assets/reserve2.png)
 
 ![BackEnd](./assets/reserve3.png)
+
 
 #### FrontEnd - Bounded Context Staff
 
@@ -2435,7 +2436,7 @@ Durante este Sprint, se han alcanzado varios hitos importantes en la implementac
 
 ![BackEnd](./assets/staff2.png)
 
-![BackEnd](./assets/staff3.png)
+
 
 ### FrontEnd - Bounded Context Person
 
@@ -2445,7 +2446,40 @@ Durante este Sprint, se han alcanzado varios hitos importantes en la implementac
 
 ![BackEnd](./assets/person2.png)
 
+
+#### BackEnd - Bounded Context IAM
+
+
+![BackEnd](./assets/IAM2.png)
+
+## 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Se muestra la ultima version del Backend de cada Bounded Context con su base de datos en Mysql, además incluido el AIM en Authentication y en Users:
+
+## BACKEND DE LOS BOUNDED CONTEXTS
+
+En este tenemos Authentication donde se implementa el back para podernos loguearnos o registrarnos.
+![BackEnd](./assets/BACKFINAL1.png)
+
+Todos los metodos que tenemos de Reserve 
+![BackEnd](./assets/reserve3.png)
+
+Todos los metodos que tenemos de Staff
+![BackEnd](./assets/staff3.png)
+
+Todos los metodos que tenemos de Person
 ![BackEnd](./assets/person3.png)
+
+En Users se registrara cada usuario que se loguee o que se registre.
+![BackEnd](./assets/BACKFINAL5.png)
+
+## 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+En este Sprint, hemos llevado a cabo diversas actividades relacionadas con el despliegue (Deployment) de nuestra plataforma, asegurando que todos los componentes estén correctamente configurados y listos para su uso. Las actividades de despliegue abarcan múltiples productos, incluyendo la Landing Page, aplicaciones web y servicios web. A continuación, se detallan los pasos realizados, junto con capturas de pantalla que ilustran el proceso y brindan una visión clara de cada etapa.
+
+Landing Page Para la Landing Page se ha implementado utilizando GitHub Pages, lo que facilita su acceso y gestión.
+
+![LANDING PAGE](./assets/GITHUB.png)
 
 ### Video de Demostración
 
