@@ -2236,7 +2236,7 @@ Captura de Analíticos de Colaboración en GitHub
 | **Datos del entrevistado** | 
 |--------------------------|
 | **Nombre:**  Alex Duran |
-| **Link del video:**  [KingReserve - Validation Interviews 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216035_upc_edu_pe/EbHrkeAb56BBrSgFekFkAGsBm-i5Xbi4dRs6G7z9qz1r1Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=b0lb5h) |
+| **Link del video:**  https://acortar.link/O4QVPz |
 | **Edad:**  19 años |
 | **Procedencia:**  Lima, San Isidro |
 | ![Entrevista](./assets/ftentre1.PNG)|
@@ -2256,7 +2256,7 @@ Captura de Analíticos de Colaboración en GitHub
 | **Datos del entrevistado** | 
 |--------------------------|
 | **Nombre:**  Sebastian Mendez |
-| **Link del video:**  [KingReserve - Validation Interviews 5](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216035_upc_edu_pe/EUR3iRsyrLhBm12QZ6r4zREB1kO-lZhasPR4ExeeqcLroA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=4ymsDn) |
+| **Link del video:**  https://acortar.link/AmzGi8 |
 | **Edad:**  19 años |
 | **Procedencia:**  Lima, San Miguel |
 | ![Entrevista](./assets/ftentre2.PNG)|
@@ -2269,7 +2269,7 @@ Captura de Analíticos de Colaboración en GitHub
 | **Datos del entrevistado** | 
 |--------------------------|
 | **Nombre:**  Mesias Vazques Sebastian |
-| **Link del video:**  [KingReserve - Validation Interviews 1](https://drive.google.com/file/d/16uT-0jeT-2ptZgd6UxuSqkj22oPiPT9K/view?usp=sharing) |
+| **Link del video:**  https://drive.google.com/file/d/16uT-0jeT-2ptZgd6UxuSqkj22oPiPT9K/view?usp=sharing|
 | **Edad:**  19 años |
 | **Procedencia:**  Lima, San Miguel |
 | ![Entrevista](./assets/entre34.png)|
@@ -2279,7 +2279,7 @@ Captura de Analíticos de Colaboración en GitHub
 | **Datos del entrevistado** | 
 |--------------------------|
 | **Nombre:**  Lopez Diaz Gael Dario |
-| **Link del video:**  [KingReserve - Validation Interviews 2](https://drive.google.com/file/d/1lALoHYrlqakGwXXUKvz8YmDDYwY3JZTt/view?usp=sharing) |
+| **Link del video:**  https://drive.google.com/file/d/1lALoHYrlqakGwXXUKvz8YmDDYwY3JZTt/view?usp=sharing |
 | **Edad:**  19 años |
 | **Procedencia:**  Lima, San Miguel |
 | ![Entrevista](./assets/entre23.png)|
@@ -2414,20 +2414,38 @@ Durante este Sprint, se han alcanzado varios hitos importantes en la implementac
 
 ### Screenshots
 
-#### FrontEnd
-![Landing Page](./assets/execution1.jpg)
+#### FrontEnd - Bounded Context Reserve
 
-#### Sección de Características
-![Características](./assets/execution2.jpg)
+![Frontend](./assets/reserve1.png)
 
-#### Sección de Planes Disponibles
-![Planes Disponibles](./assets/execution3.jpg)
 
-#### Sección de Preguntas Frecuentes
-![Preguntas Frecuentes](./assets/execution4.jpg)
+#### BackEnd - Bounded Context Reserve
 
-### Seccion de cambio de idioma 
-![I18n](./assets/execution5.jpg)
+![Frontend](./assets/reserve2.png)
+
+![BackEnd](./assets/reserve3.png)
+
+#### FrontEnd - Bounded Context Staff
+
+![Frontend](./assets/staff1.png)
+
+![Frontend](./assets/staff4.png)
+
+#### BackEnd - Bounded Context Staff
+
+![BackEnd](./assets/staff2.png)
+
+![BackEnd](./assets/staff3.png)
+
+### FrontEnd - Bounded Context Person
+
+![Frontend](./assets/person1.png)
+
+#### BackEnd - Bounded Context Person
+
+![BackEnd](./assets/person2.png)
+
+![BackEnd](./assets/person3.png)
 
 ### Video de Demostración
 
