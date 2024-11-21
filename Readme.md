@@ -2160,6 +2160,10 @@ En esta sección se presenta evidencias del despliegue de los web services de Ki
 ![image](./assets/deploy8.png)
 ![image](./assets/deploy9.png)
 ![image](./assets/deploy10.png)
+
+
+
+
 ## 5.2.3.8 Team Collaboration Insights during Sprint
 Durante este Sprint, el equipo ha trabajado de manera colaborativa en el diseño y programacion en la implementación de la plataforma de King Reserve(Backend). A continuación, se presenta un resumen de cómo se han desarrollado las actividades de implementación, junto con capturas de pantalla de los analíticos de colaboración y commits en GitHub realizados por los miembros del equipo.
 
@@ -2172,6 +2176,171 @@ Captura de Analíticos de Colaboración en GitHub
 ![image](./assets/back2.PNG)
 
 ![image](./assets/back1.PNG)
+
+## 5.2.4 Sprint 4
+
+Durante el Sprint 4, nuestro enfoque principal fue el desarrollo del BackEnd Y FronEnd de KingReserve, utilizando C# y Vue.js. Este sprint fue fundamental y primordial para implementar las ultimas funcionalidades del BackEnd y FronEnd, además de lograr la unión y deploy de la última version de ambos servicios.
+
+## 5.2.4.1 Sprint Planning 4
+
+En este Sprint 4, durante la reunión de planificación, el equipo seleccionará las historias de usuario restantes, para convertirlas en resultados concretos. Además, se distribuirán las tareas de manera equitativa para poder culminar con estas en el tiempo establecido. Para ello, se fomentará la colaboración, asegurandonos que todos tengan un nivel similar de conocimiento en las diferentes áreas, teniendo siempre en cuenta los objetivos del trabajo.
+
+| Sprint # | Sprint 4  | 
+|--------------------|------------|
+| Sprint Planning Background | 
+| Date | 2024-11-20 | 
+| Time |  20:45 PM |
+| Location |  UPC - Campus San Miguel |
+| Preparate by| Joaquin Pedraza Maldonado | 
+|  Attendees (to planning meeting) | Gómez Vallejos Sergio André ,Zevallos Linares Alessandro Netto ,Pedraza Maldonado Joaquin Andree ,Romero Qwistgaard Russell Stephen  | 
+| Sprint n-4 Review Summary | Se desplego el front end de King y el Backend tambien, se termino de desarrollar la aplicación web ya desplegada | 
+| Sprint Planning Background | Durante esta etapa, se llevó a cabo una exhaustiva verificación del BackEnd Web App y el Frontend, tambien con el Landing Page junto a las mejores continuas durante de este sprint.|
+| Sprint Goal & User Stories | 
+| Sprint 4 Goal | Nuestro meta culminar detalles en el backlog, para unir todos los bounded contexts con los patrones necesarios y posteriormente hacer el deploy del servicio final, para hacer lo mismo con el frontend y unir ambas partes. Creemos que esto nos ayudará a comprender como se relacionan ambos servicios.|  
+| Sprint Velocity | Se establece un Velocity de 7 Story Points para este Sprint. | 
+| Sum of Story Points | 10 Story Points | 
+
+## 5.2.4.2 Sprint Backlog 4
+
+## 5.2.4.3. Development Evidence for Sprint Review
+
+## 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+## 5.2.4.5. Execution Evidence for Sprint Review
+
+
+Durante este Sprint, se han alcanzado varios hitos importantes en la implementación de la aplicación web culminada, tanto como el FrontEnd y el Backend.
+
+### Screenshots
+
+#### FrontEnd - Bounded Context Reserve
+
+![Frontend](./assets/reserve1.png)
+
+
+#### BackEnd - Bounded Context Reserve
+
+![BackEnd](./assets/reserve2.png)
+
+![BackEnd](./assets/reserve3.png)
+
+
+#### FrontEnd - Bounded Context Staff
+
+![Frontend](./assets/staff1.png)
+
+![Frontend](./assets/staff4.png)
+
+#### BackEnd - Bounded Context Staff
+
+![BackEnd](./assets/staff2.png)
+
+
+
+### FrontEnd - Bounded Context Person
+
+![Frontend](./assets/person1.png)
+
+#### BackEnd - Bounded Context Person
+
+![BackEnd](./assets/person2.png)
+
+
+#### BackEnd - Bounded Context IAM
+
+
+![BackEnd](./assets/IAM2.png)
+
+## 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Se muestra la ultima version del Backend de cada Bounded Context con su base de datos en Mysql, además incluido el AIM en Authentication y en Users:
+
+## BACKEND DE LOS BOUNDED CONTEXTS
+
+En este tenemos Authentication donde se implementa el back para podernos loguearnos o registrarnos.
+![BackEnd](./assets/BACKFINAL1.png)
+
+Todos los metodos que tenemos de Reserve 
+![BackEnd](./assets/reserve3.png)
+
+Todos los metodos que tenemos de Staff
+![BackEnd](./assets/staff3.png)
+
+Todos los metodos que tenemos de Person
+![BackEnd](./assets/person3.png)
+
+En Users se registrara cada usuario que se loguee o que se registre.
+![BackEnd](./assets/BACKFINAL5.png)
+
+## 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+En este Sprint, hemos llevado a cabo diversas actividades relacionadas con el despliegue (Deployment) de nuestra plataforma, asegurando que todos los componentes estén correctamente configurados y listos para su uso. Las actividades de despliegue abarcan múltiples productos, incluyendo la Landing Page, aplicaciones web y servicios web. A continuación, se detallan los pasos realizados, junto con capturas de pantalla que ilustran el proceso y brindan una visión clara de cada etapa.
+
+Landing Page Para la Landing Page se ha implementado utilizando GitHub Pages, lo que facilita su acceso y gestión.
+
+![LANDING PAGE](./assets/GITHUB.png)
+
+Pasados unos minutos se generará el link para acceder a la landing page.
+
+![LANDING PAGE](./assets/GITHUB2.png)
+
+
+Finalmente nos dará un link directo a la Landing page desplegada: https://kingreserve.netlify.app
+
+**Link de explicacion del FrontEnd:**  
+
+Para el backend, optamos por Azure y de Visual Studio: 
+
+Implementamos un App Service en Azure, que permite ejecutar y administrar la aplicación web dentro de un entorno de producción , asegurando escalabilidad y disponibilidad.
+![image](./assets/deploy5.png)
+
+Implementamos un App Service Plan en Azure con la SKU gratuita, lo que nos permite ejecutar y gestionar el backend de la aplicación en un entorno Windows.
+![image](./assets/deploy6.png)
+
+En esta etapa, se completó la publicación del backend del proyecto KingReserveBack en un Azure App Service (Windows) utilizando Visual Studio.
+![image](./assets/deploy9.png)
+
+
+![image](./assets/BACKDEPLOY.png)
+
+## 5.2.4.8 Team Collaboration Insights during Sprint
+
+En esta sección, el equipo detalla el proceso de implementación de las actividades realizadas durante el Sprint, destacando la colaboración y el esfuerzo conjunto en la creación de los productos. Se presentan capturas de pantalla de los analíticos de colaboración y los commits en GitHub, que reflejan la participación activa de cada miembro del equipo.
+
+Participación del Equipo Todos los miembros del equipo han contribuido de manera significativa en la implementación de los siguientes productos:
+
+
+
+Landing Page
+
+<br>**Report:**
+
+
+![alt text](./assets/REPORT.png)
+
+![alt text](./assets/aaaa.png)
+
+- Gómez Vallejos Sergio André: 43
+- Rojas Velasquez Maycol Jhordan: 38
+- Zevallos Linares Alessandro Netto: 36
+- Pedraza Maldonado Joaquin Andree: 30
+- Romero Qwistgaard Russell Stephen: 37
+
+Frontend: 
+<br>
+
+![alt text](./assets/FRONT.png)
+
+- Gómez Vallejos Sergio André: 22
+- Rojas Velasquez Maycol Jhordan: 15
+
+BackEnd:
+<br>
+
+![alt text](./assets/BACKC.png)
+
+
+
 ## 5.3 Validation Interviews
 
 ## 5.3.1. Diseño de Entrevistas
@@ -2355,6 +2524,20 @@ No están incluidas en esta versión de la evaluación las siguientes tareas:
 
 
 
+
+
+### 5.4. Video About-the-Product
+
+![video-about-the.product](./assets/execution1.jpg)
+Se presentó un video promocional del producto que incluye una introducción al modelo de negocio, sus características y beneficios, y opiniones de diferentes segmentos de usuarios. El video muestra cómo el producto se adapta a diversas necesidades, permitiendo a los usuarios optimizar su tiempo y mejorar su eficiencia. Además, en las entrevistas de validación, se considerará a usuarios que ya han interactuado con la landing page y la aplicación, lo que proporcionará insights más precisos sobre su experiencia y expectativas con el producto.
+
+
+**Link del video:**  https://goo.su/pKfX0
+
+
+
+
+
 ## Conclusiones Generales
 
 La interfaz de usuario ha sido refinada, con especial enfoque en la landing page y otros elementos que contribuyen a una experiencia más intuitiva y atractiva. Estas mejoras en el diseño y funcionalidad buscan facilitar la navegación, retener a los usuarios en la plataforma y ofrecer una primera impresión positiva que refuerce el propósito de la aplicación.
@@ -2368,118 +2551,6 @@ La colaboración entre los miembros del equipo ha sido clave para alcanzar los o
 Se implementaron mejoras en la integración entre el frontend y el backend, lo que ha permitido que la aplicación funcione de manera fluida y estable. Estas optimizaciones fortalecen la interacción del usuario con el sistema, brindando una experiencia más rápida y confiable.
 
 El uso de herramientas como GitHub y Netlify ha facilitado la gestión del código y el despliegue continuo de la aplicación. Este enfoque ha permitido realizar pruebas frecuentes y detectar problemas a tiempo, lo que ha sido fundamental para mantener la calidad del producto entregado.
-
-### 5.4. Video About-the-Product
-
-![video-about-the.product](./assets/execution1.jpg)
-Se presentó un video promocional del producto que incluye una introducción al modelo de negocio, sus características y beneficios, y opiniones de diferentes segmentos de usuarios. El video muestra cómo el producto se adapta a diversas necesidades, permitiendo a los usuarios optimizar su tiempo y mejorar su eficiencia. Además, en las entrevistas de validación, se considerará a usuarios que ya han interactuado con la landing page y la aplicación, lo que proporcionará insights más precisos sobre su experiencia y expectativas con el producto.
-
-
-**Link del video:**  https://goo.su/pKfX0
-
-
-## 5.2.4 Sprint 4
-
-Durante el Sprint 4, nuestro enfoque principal fue el desarrollo del BackEnd Y FronEnd de KingReserve, utilizando C# y Vue.js. Este sprint fue fundamental y primordial para implementar las ultimas funcionalidades del BackEnd y FronEnd, además de lograr la unión y deploy de la última version de ambos servicios.
-
-## 5.2.4.1 Sprint Planning 4
-
-En este Sprint 4, durante la reunión de planificación, el equipo seleccionará las historias de usuario restantes, para convertirlas en resultados concretos. Además, se distribuirán las tareas de manera equitativa para poder culminar con estas en el tiempo establecido. Para ello, se fomentará la colaboración, asegurandonos que todos tengan un nivel similar de conocimiento en las diferentes áreas, teniendo siempre en cuenta los objetivos del trabajo.
-
-| Sprint # | Sprint 4  | 
-|--------------------|------------|
-| Sprint Planning Background | 
-| Date | 2024-11-20 | 
-| Time |  20:45 PM |
-| Location |  UPC - Campus San Miguel |
-| Preparate by| Joaquin Pedraza Maldonado | 
-|  Attendees (to planning meeting) | Gómez Vallejos Sergio André ,Zevallos Linares Alessandro Netto ,Pedraza Maldonado Joaquin Andree ,Romero Qwistgaard Russell Stephen  | 
-| Sprint n-4 Review Summary | Se desplego el front end de King y el Backend tambien, se termino de desarrollar la aplicación web ya desplegada | 
-| Sprint Planning Background | Durante esta etapa, se llevó a cabo una exhaustiva verificación del BackEnd Web App y el Frontend, tambien con el Landing Page junto a las mejores continuas durante de este sprint.|
-| Sprint Goal & User Stories | 
-| Sprint 4 Goal | Nuestro meta culminar detalles en el backlog, para unir todos los bounded contexts con los patrones necesarios y posteriormente hacer el deploy del servicio final, para hacer lo mismo con el frontend y unir ambas partes. Creemos que esto nos ayudará a comprender como se relacionan ambos servicios.|  
-| Sprint Velocity | Se establece un Velocity de 7 Story Points para este Sprint. | 
-| Sum of Story Points | 10 Story Points | 
-
-## 5.2.4.2 Sprint Backlog 4
-
-## 5.2.4.3. Development Evidence for Sprint Review
-
-## 5.2.4.4. Testing Suite Evidence for Sprint Review
-
-## 5.2.4.5. Execution Evidence for Sprint Review
-
-
-Durante este Sprint, se han alcanzado varios hitos importantes en la implementación de la aplicación web culminada, tanto como el FrontEnd y el Backend.
-
-### Screenshots
-
-#### FrontEnd - Bounded Context Reserve
-
-![Frontend](./assets/reserve1.png)
-
-
-#### BackEnd - Bounded Context Reserve
-
-![BackEnd](./assets/reserve2.png)
-
-![BackEnd](./assets/reserve3.png)
-
-
-#### FrontEnd - Bounded Context Staff
-
-![Frontend](./assets/staff1.png)
-
-![Frontend](./assets/staff4.png)
-
-#### BackEnd - Bounded Context Staff
-
-![BackEnd](./assets/staff2.png)
-
-
-
-### FrontEnd - Bounded Context Person
-
-![Frontend](./assets/person1.png)
-
-#### BackEnd - Bounded Context Person
-
-![BackEnd](./assets/person2.png)
-
-
-#### BackEnd - Bounded Context IAM
-
-
-![BackEnd](./assets/IAM2.png)
-
-## 5.2.4.6. Services Documentation Evidence for Sprint Review
-
-Se muestra la ultima version del Backend de cada Bounded Context con su base de datos en Mysql, además incluido el AIM en Authentication y en Users:
-
-## BACKEND DE LOS BOUNDED CONTEXTS
-
-En este tenemos Authentication donde se implementa el back para podernos loguearnos o registrarnos.
-![BackEnd](./assets/BACKFINAL1.png)
-
-Todos los metodos que tenemos de Reserve 
-![BackEnd](./assets/reserve3.png)
-
-Todos los metodos que tenemos de Staff
-![BackEnd](./assets/staff3.png)
-
-Todos los metodos que tenemos de Person
-![BackEnd](./assets/person3.png)
-
-En Users se registrara cada usuario que se loguee o que se registre.
-![BackEnd](./assets/BACKFINAL5.png)
-
-## 5.2.4.7. Software Deployment Evidence for Sprint Review
-
-En este Sprint, hemos llevado a cabo diversas actividades relacionadas con el despliegue (Deployment) de nuestra plataforma, asegurando que todos los componentes estén correctamente configurados y listos para su uso. Las actividades de despliegue abarcan múltiples productos, incluyendo la Landing Page, aplicaciones web y servicios web. A continuación, se detallan los pasos realizados, junto con capturas de pantalla que ilustran el proceso y brindan una visión clara de cada etapa.
-
-Landing Page Para la Landing Page se ha implementado utilizando GitHub Pages, lo que facilita su acceso y gestión.
-
-![LANDING PAGE](./assets/GITHUB.png)
 
 ### Video de Demostración
 
