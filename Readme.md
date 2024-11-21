@@ -2203,7 +2203,8 @@ En este Sprint 4, durante la reunión de planificación, el equipo seleccionará
 ## 5.2.4.2 Sprint Backlog 4
 
 ## 5.2.4.3. Development Evidence for Sprint Review
-
+A continuación se presentan las evidencias de desarrollo de los web-services de KingReserve, donde se detallan los commits realizados.
+![image](./assets/development.jpg)
 ## 5.2.4.4. Testing Suite Evidence for Sprint Review
 
 ## 5.2.4.5. Execution Evidence for Sprint Review
