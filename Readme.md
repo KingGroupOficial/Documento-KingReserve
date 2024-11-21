@@ -91,13 +91,13 @@
 
 | URL del repositorio del backend | URL del repositorio del Frontend| URL del repositorio de la landing page |
 |  :-----------------------------------------------: | :-----------------------------------------------: |:-----------------------------------------------:|
-| https://github.com/Horizon-ManageWise/managewise-backend | https://github.com/Horizon-ManageWise/Frontend-Web-Application | https://github.com/Horizon-ManageWise/LandingPage |
+| https://github.com/KingGroupOficial/King-Reserve-Platform | https://github.com/KingGroupOficial/Front-End-KingReserve | https://github.com/KingGroupOficial/Landing-Page---KingReserve |
 
-**URL FRONTEND Y BACKEND DESPLEGADO**: https://frontend-test-managewise.vercel.app/sign-in
+**URL FRONTEND Y BACKEND DESPLEGADO**: 
 
-**URL FRONTEND**: https://frontend-test-managewise.vercel.app
+**URL FRONTEND**: 
 
-**URL BACKEND**: https://managewise-ffbua6fpfmbteaeq.brazilsouth-01.azurewebsites.net/api/v1/
+**URL BACKEND**: 
 
 
 TF1: Se han realizado todas las tareas asignadas para la entrega del TF1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/KingGroupOficial. Para elaborar el informe cada miembro corrigio y añadio puntos que se debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/KingGroupOficial/Documento-KingReserve, de la misma manera para el desarrollo de la landing page se trabajo en este repositorio: https://github.com/KingGroupOficial/Landing-Page---KingReserve. Sin embargo, para el desarollo de la Landing page tuvimos una modificaciones este último mes. En este Trabajo final nos encargamos de conectar los bounded context y conectar cada uno con su frontend.
@@ -1421,8 +1421,8 @@ User Goal 8: Enviar una notificación al personal <br>
 ![PrototypeMobile](./assets/PrototypeMobile.PNG) <br>
 | Tipo de Video                 | Enlace                                                                                                  |
 |-------------------------------|---------------------------------------------------------------------------------------------------------|
-| Prototype Desktop Video       | [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216035_upc_edu_pe/EZKwDgE2b5BInXQA0C8ijZEB4kZaJLE6x_Xuq7fkeph8WA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=PhGVZ9](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216035_upc_edu_pe/EZKwDgE2b5BInXQA0C8ijZEB4kZaJLE6x_Xuq7fkeph8WA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=PhGVZ9) |
-| Prototype Mobile Video        | [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216035_upc_edu_pe/EeJf2XgJW2JAsXFWZ_0UOrgBlizX862fVw5mXH_YAoXDNQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=37tJZ3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216035_upc_edu_pe/EeJf2XgJW2JAsXFWZ_0UOrgBlizX862fVw5mXH_YAoXDNQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=37tJZ3) |
+| Prototype Desktop Video       | https://acortar.link/w1y99i |
+| Prototype Mobile Video        | https://acortar.link/QdYQTt |
 
 ## 4.6 Domain-Driven Software Architecture
 Los diseños C4 son una forma efectiva de representar la arquitectura de un sistema de software de manera clara y concisa. En el caso del proyecto King Reserve, los diseños C4 nos permiten visualizar la estructura y las interacciones entre los diferentes componentes del sistema. 
@@ -1644,7 +1644,7 @@ En esta sección, detallamos el proceso de implementación de nuestra landing pa
 ![image](./assets/6git.jpg)
 
 Este proceso garantiza el despliegue satisfactorio de nuestra landing page en la plataforma de Netlifly, siguiendo las especificaciones y requisitos de nuestro proyecto.
-**Enlace de la Landing Page: [https://kingreserve.netlify.app/](https://kingreserve.netlify.app/)**
+**Enlace de la Landing Page: https://kingreserve.netlify.app/**
 
 ## 5.2 Landing Page, Services & Applications Implementation
 
@@ -2567,6 +2567,10 @@ Para una demostración completa de la visualización y navegación logradas en e
 1. The C4 model for visualising software architecture (2024) Recuperado de: https://c4model.com
 
 2. Naming Conventions for java (2024) Recuperado de: https://goo.su/GNwTRfk
+
+3. Vue.js - The Progressive JavaScript Framework (2024) Recuperado de: https://vuejs.org
+
+4. Building Web APIs with ASP.NET Core and C# (2024) Recuperado de: https://learn.microsoft.com/en-us/aspnet/core/web-api/
 
 ## Anexos
 
