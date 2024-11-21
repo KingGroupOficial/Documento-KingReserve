@@ -1068,7 +1068,6 @@ Requisitos definidos junto con el conjunto de User Stories y Epics para los requ
 |29        | US029          | Incluir el cambio de idioma (I18n)            | Como visitante, quiero que la aplicación soporte los idiomas español e inglés para poder utilizarla en mi idioma preferido. | 2                |
 
 
-
 | **Orden** | **User Story** | **Título**                                        | **Descripción**                                                                                                                                                                          | **Story Points** |
 |-----------|----------------|---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|
 | 1         | TS001          | Crear Cuenta de Usuario                           | **Como** desarrollador, **quiero** permitir a los usuarios crear una cuenta                                                                                                              | 1                |
@@ -2201,6 +2200,23 @@ En este Sprint 4, durante la reunión de planificación, el equipo seleccionará
 | Sum of Story Points | 10 Story Points | 
 
 ## 5.2.4.2 Sprint Backlog 4
+
+## 5.2.3.4 Sprint Backlog 4
+
+| TS Id  | Title                           | Id   | Description                                                                                      | Estimation | Assigned To | Status      |
+|--------|---------------------------------|------|--------------------------------------------------------------------------------------------------|------------|-------------|-------------|
+| TS009  | Implementar Funcionalidad de Guardado | T09  | Como desarrollador, quiero permitir a los usuarios guardar una página de hotel en su cuenta y marcarla según lo prefiera. | 2          | TBD         | Done        |
+| TS011  | Implementar Funcionalidad de Filtros en Búsqueda | T11  | Como desarrollador, quiero añadir filtros a la búsqueda para refinar resultados de hoteles según sus criterios. | 2          | TBD         | Done        |
+| TS017  | Implementar Sistema de Reservas | T17  | Como desarrollador, quiero implementar un sistema de procesamiento de reservaciones.             | 3          | TBD         | Done        |
+| TS030  | Integrar Bounded Contexts       | T30  | Como desarrollador, quiero integrar los bounded contexts para que se comuniquen correctamente.   | 3          | TBD         | In Progress  |
+| TS031  | Unificar Frontend y Backend     | T31  | Como desarrollador, quiero unificar el frontend con el backend para lograr una interacción fluida.| 3          | TBD         | In Progress  |
+| TS032  | Validar Funcionalidad en Producción | T32  | Como desarrollador, quiero realizar pruebas en producción para verificar el correcto funcionamiento. | 2          | TBD         | In Progress  |
+| TS033  | Revisar Patrones de Diseño      | T33  | Como desarrollador, quiero revisar los patrones utilizados en los bounded contexts.              | 2          | TBD         | In Progress  |
+| TS034  | Configurar Variables de Entorno | T34  | Como desarrollador, quiero configurar las variables necesarias para producción.                  | 1          | TBD         | To Do       |
+| TS035  | Optimizar Performance           | T35  | Como desarrollador, quiero optimizar los tiempos de carga y las peticiones entre frontend y backend. | 2          | TBD         | To Do       |
+| TS036  | Realizar Pruebas de Despliegue  | T36  | Como desarrollador, quiero desplegar en un entorno real para validar todas las funcionalidades.   | 3          | TBD         | To Do       |
+| TS037  | Documentar APIs y Conexión      | T37  | Como desarrollador, quiero documentar las APIs y detalles de la conexión entre frontend y backend. | 2          | TBD         | To Do       |
+
 
 ## 5.2.4.3. Development Evidence for Sprint Review
 A continuación se presentan las evidencias de desarrollo de los web-services de KingReserve, donde se detallan los commits realizados.
