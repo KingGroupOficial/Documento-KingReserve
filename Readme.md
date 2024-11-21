@@ -104,7 +104,7 @@ TF1: Se han realizado todas las tareas asignadas para la entrega del TF1, las cu
 
 <br>**Vista de commits: Landing page:** 
 
-![alt text](./assets/commits.png)
+![alt text](.\assets\commits.png)
 
 ![alt text](./assets/NET.png)
 
