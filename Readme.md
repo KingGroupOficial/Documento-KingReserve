@@ -2206,7 +2206,10 @@ En este Sprint 4, durante la reunión de planificación, el equipo seleccionará
 A continuación se presentan las evidencias de desarrollo de los web-services de KingReserve, donde se detallan los commits realizados.
 ![image](./assets/development.jpg)
 ## 5.2.4.4. Testing Suite Evidence for Sprint Review
+A continuación se muestran las pruebas del funcionamiento de nuestro API
 
+![image](./assets/testing567.jpg)
+![image](./assets/testing789.jpg)
 ## 5.2.4.5. Execution Evidence for Sprint Review
 
 
