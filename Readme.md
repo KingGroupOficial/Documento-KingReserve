@@ -82,6 +82,7 @@
 | TF          | 20/11/2024 |Maycol Jhordan Rojas Velasquez| Se agrego imagenes del backend desplegado, student outcome, frontend y el backend desplegado, sprint backlog 4                                                                                                                                                                                                                |
 | TF          | 06/09/2024 | Sergio André Gómez Vallejos       | Implementación del frontend desplegado junto al backend, student outcome, sprint backlog 4, conclusiones, sprint 4                                                                                                                                                                                                            |
 | TF          | 22/11/2024 | Russell Stephen Romero Qwistgaard | Implementación del sprint 4, sprint planning 4, testing, sprint backlog 4                                                                                                                                                                                                                                                     |
+| TF          | 22/11/2024 | Russell Stephen Romero Qwistgaard       | Se hizo el student outcome para el trbajo TP
 **Project Report Collaboration Insights**
 
 |  URL de la organización del proyecto  |          URL del repositorio del reporte          |
