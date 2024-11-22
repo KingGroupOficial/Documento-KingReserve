@@ -31,57 +31,57 @@
 
 
 
-| Entregables | Fecha       | Autor                             | Descripción de modificación                                                                                      |  
-|-------------|-------------|-----------------------------------|------------------------------------------------------------------------------------------------------------------|  
+| Entregables | Fecha       | Autor                             | Descripción de modificación                                                                                     |  
+|-------------|-------------|-----------------------------------|-----------------------------------------------------------------------------------------------------------------|  
 | TB1         | 23/08/2024  | Sergio André Gómez Vallejos       | Implementación de contenido en el Student Outcome   | 
 | TB1         | 23/08/2024  | Sergio André Gómez Vallejos       |  Competidores y Desarrollo del perfil de integrante  | 
 | TB1         | 23/08/2024  | Sergio André Gómez Vallejos       |  Analisis Competitivo  |  
 | TB1         | 23/08/2024  | Sergio André Gómez Vallejos       |  Estrategias y tácticas frente a competidores | 
 | TB1         | 24/08/2024  | Sergio André Gómez Vallejos       | Registro de 2 entrevistas del sector Huespedes, Diseño de Entrevista |  
-| TB1         | 23/08/2024  | Joaquin Pedraza Maldonado         | Antecedentes y problemática   Perfil de integrante                                                               |  
-| TB1         | 24/03/2024  | Maycol Jhordan Rojas Velasquez    | Implementación de la descripción de la Startup                                                                   |  
-| TB1         | 24/08/2024  | Joaquin Pedraza Maldonado         | Lean UX Process/                                                                                                  |  
-| TB1         | 26/08/2024  | Alessandro Zevallos Linares       | Perfil de integrante                                                                                             |  
-| TB1         | 26/08/2024  | Alessandro Zevallos Linares       | Diseño de Entrevistas                                                                                            |  
-| TB1         | 25/03/2024  | Maycol Jhordan Rojas Velasquez    | Desarrollo del perfil de integrante, estructuración del informe índice, cuadros, carátula                        |  
-| TB1         | 27/08/2024  | Maycol Jhordan Rojas Velasquez    | Desarrollo del perfil de integrante, Creación del logo                                                           |
-| TB1         | 04/09/2024  | Russell Stephen Romero Qwistgaard | User Stories, Product Backlog                                                                                    |
+| TB1         | 23/08/2024  | Joaquin Pedraza Maldonado         | Antecedentes y problemática   Perfil de integrante                                                              |  
+| TB1         | 24/03/2024  | Maycol Jhordan Rojas Velasquez    | Implementación de la descripción de la Startup                                                                  |  
+| TB1         | 24/08/2024  | Joaquin Pedraza Maldonado         | Lean UX Process/                                                                                                 |  
+| TB1         | 26/08/2024  | Alessandro Zevallos Linares       | Perfil de integrante                                                                                            |  
+| TB1         | 26/08/2024  | Alessandro Zevallos Linares       | Diseño de Entrevistas                                                                                           |  
+| TB1         | 25/03/2024  | Maycol Jhordan Rojas Velasquez    | Desarrollo del perfil de integrante, estructuración del informe índice, cuadros, carátula                       |  
+| TB1         | 27/08/2024  | Maycol Jhordan Rojas Velasquez    | Desarrollo del perfil de integrante, Creación del logo                                                          |
+| TB1         | 04/09/2024  | Russell Stephen Romero Qwistgaard | User Stories, Product Backlog                                                                                   |
 | TB1         | 04/08/2024  | Sergio André Gómez Vallejos       | Diagrama de base de datos|  
 | TB1         | 05/09/2024  | Maycol Jhordan Rojas Velasquez    | CAPÍTULO IV: Product Design Style Guidelines<br>General Style Guidelines <br> Web Style Guidelines <br> 2 entrevistas de empresas hoteleras |
-|TB1 | 05/09/2024|Maycol Jhordan Rojas Velasquez| Registro de 2 entrevistas del sector Empresa Hotelera|
-|TB1|05/09/2024|Maycol Jhordan Rojas Velasquez| Agregar el Ubiquitous Language para conocer los terminos de los segmentos. |
+| TB1         | 05/09/2024|Maycol Jhordan Rojas Velasquez| Registro de 2 entrevistas del sector Empresa Hotelera|
+| TB1         |05/09/2024|Maycol Jhordan Rojas Velasquez| Agregar el Ubiquitous Language para conocer los terminos de los segmentos. |
 | TB1         | 05/09/2024  | Sergio André Gómez Vallejos       | Agregación de User Persona del sector Empresa Hotelera|  
-|TB1| 05/09/2024 | Maycol Jhordan Rojas Velasquez| Hacer el Software Configuration Management|
-|TB1|06/092024|Maycol Jhordan Rojas Velasquez | Hacer las User Stories|
-|TB1|06/09/2024|Maycol Jhordan Rojas Velasquez| Se agrego descripciones generales, como el diagrama de C4 contexto, componentes y contenedores. |
+| TB1         | 05/09/2024 | Maycol Jhordan Rojas Velasquez| Hacer el Software Configuration Management|
+| TB1         |06/092024|Maycol Jhordan Rojas Velasquez | Hacer las User Stories|
+| TB1         |06/09/2024|Maycol Jhordan Rojas Velasquez| Se agrego descripciones generales, como el diagrama de C4 contexto, componentes y contenedores. |
 | TB1         | 06/09/2024  | Sergio André Gómez Vallejos       | Implementación del  Landing Page Mock-up|  
-| TB1         | 03/09/2024  | Joaquin Pedraza Maldonado         |Software Architecture Context Diagram                                                                                                    | 
-| TB1         | 03/09/2024  | Joaquin Pedraza Maldonado         |Software Architecture Container Diagram                                                                                                    | 
-| TB1         | 02/09/2024  | Joaquin Pedraza Maldonado         | Organization Systems                                                                                                  | 
-| TB1         | 02/09/2024  | Joaquin Pedraza Maldonado         | Labeling  Systems                                                                                                   | 
-| TB1         | 02/09/2024  | Joaquin Pedraza Maldonado         | SEO and Meta Tags                                                                                                   | 
-| TB1         | 02/09/2024  | Joaquin Pedraza Maldonado         | Searching   Systems                                                                                                  | 
-| TB1         | 02/09/2024  | Joaquin Pedraza Maldonado         | Navegation  Systems                                                                                                   | 
-|TB1|02/09/2024|Alessandro Zevallos Linares| User Task Matrix |
-|TB1|04/09/2024|Alessandro Zevallos Linares| User Persona |
-|TB1|04/09/2024|Alessandro Zevallos Linares| User Journey Mapping |
-|TB1|04/09/2024|Alessandro Zevallos Linares| Landing Page UI Design |
-|TB1|06/09/2024|Alessandro Zevallos Linares| Web Applications UX/UI Design |
-|TB1|06/09/2024|Alessandro Zevallos Linares| Web Applications Prototyping |
-|TB1|08/09/2024|Alessandro Zevallos Linares| Empathy Mapping |
-|TB1|06/09/2024|Maycol Jhordan Rojas Velasquez| Se hizo  Software Configuration Management.  |
-|TB1|06/09/2024|Maycol Jhordan Rojas Velasquez| Se hizo  Landing Page, Services & Applications Implementation.  |
-|TB1|06/09/2024|Maycol Jhordan Rojas Velasquez| Se hizo  Sprint 1 ,Sprint Planning 1. Sprint Backlog 1. Development Evidence for Sprint Review. Testing Suite Evidence for Sprint Review. Execution Evidence for Sprint Review. Services Documentation Evidence for Sprint Review. Software Deployment Evidence for Sprint Review. Team Collaboration Insights during Sprint. |
-|TB1|06/09/2024|Russell Stephen Romero Qwistgaard| AS - IS MAPPING, TO - BE MAPPING, Impact Mapping|
+| TB1         | 03/09/2024  | Joaquin Pedraza Maldonado         |Software Architecture Context Diagram                                                                                                   | 
+| TB1         | 03/09/2024  | Joaquin Pedraza Maldonado         |Software Architecture Container Diagram                                                                                                   | 
+| TB1         | 02/09/2024  | Joaquin Pedraza Maldonado         | Organization Systems                                                                                                 | 
+| TB1         | 02/09/2024  | Joaquin Pedraza Maldonado         | Labeling  Systems                                                                                                  | 
+| TB1         | 02/09/2024  | Joaquin Pedraza Maldonado         | SEO and Meta Tags                                                                                                  | 
+| TB1         | 02/09/2024  | Joaquin Pedraza Maldonado         | Searching   Systems                                                                                                 | 
+| TB1         | 02/09/2024  | Joaquin Pedraza Maldonado         | Navegation  Systems                                                                                                  | 
+| TB1         |02/09/2024|Alessandro Zevallos Linares| User Task Matrix |
+| TB1         |04/09/2024|Alessandro Zevallos Linares| User Persona |
+| TB1         |04/09/2024|Alessandro Zevallos Linares| User Journey Mapping |
+| TB1         |04/09/2024|Alessandro Zevallos Linares| Landing Page UI Design |
+| TB1         |06/09/2024|Alessandro Zevallos Linares| Web Applications UX/UI Design |
+| TB1         |06/09/2024|Alessandro Zevallos Linares| Web Applications Prototyping |
+| TB1         |08/09/2024|Alessandro Zevallos Linares| Empathy Mapping |
+| TB1         |06/09/2024|Maycol Jhordan Rojas Velasquez| Se hizo  Software Configuration Management.  |
+| TB1         |06/09/2024|Maycol Jhordan Rojas Velasquez| Se hizo  Landing Page, Services & Applications Implementation.  |
+| TB1         |06/09/2024|Maycol Jhordan Rojas Velasquez| Se hizo  Sprint 1 ,Sprint Planning 1. Sprint Backlog 1. Development Evidence for Sprint Review. Testing Suite Evidence for Sprint Review. Execution Evidence for Sprint Review. Services Documentation Evidence for Sprint Review. Software Deployment Evidence for Sprint Review. Team Collaboration Insights during Sprint. |
+| TB1         |06/09/2024|Russell Stephen Romero Qwistgaard| AS - IS MAPPING, TO - BE MAPPING, Impact Mapping|
 | TB1         | 08/09/2024  | Sergio André Gómez Vallejos       |  Implementación de user story, product backlog y sprint 1 |
 | TP1         | 09/09/2024  | Sergio André Gómez Vallejos       |  Implementación del sprint 2, sprint backlog 1, testing | 
 | TP1         | 09/09/2024  | Alessandro Zevallos Linares      |  Implementación del sprint 2, sprint execution evidence, team collaboration insights | 
 | TP1         | 27/09/2024  | Joaquin Pedraza Maldonado       |  Implementación del sprint 2, sprint planning, testing, Software Deployment Evidence for Sprint Review 2 | 
-| TP1         | 27/09/2024  | Russell Stephen Romero Qwistgaard | Implementación del sprint 2, sprint planning 2, testing, sprint backolog 2 |
+| TP1         | 27/09/2024  | Russell Stephen Romero Qwistgaard | Implementación del sprint 2, sprint planning 2, testing, sprint backlog 2 |
 | TP1         | 27/09/2024  | Maycol Jhordan Rojas Velasquez       |  Se hizo el student outcome para el trbajo TP | 
-|TF|20/11/2024|Maycol Jhordan Rojas Velasquez| Se agrego imagenes del backend desplegado, student outcome, frontend y el backend desplegado, sprint backlog 4 |
-| TF         | 06/09/2024  | Sergio André Gómez Vallejos       | Implementación del frontend desplegado junto al backend, student outcome, sprint backlog 4, conclusiones, sprint 4|
-
+| TF          |20/11/2024|Maycol Jhordan Rojas Velasquez| Se agrego imagenes del backend desplegado, student outcome, frontend y el backend desplegado, sprint backlog 4 |
+| TF          | 06/09/2024  | Sergio André Gómez Vallejos       | Implementación del frontend desplegado junto al backend, student outcome, sprint backlog 4, conclusiones, sprint 4|
+| TF          | 27/09/2024  | Russell Stephen Romero Qwistgaard | Implementación del sprint 2, sprint planning 2, testing, sprint backlog 2 |
 **Project Report Collaboration Insights**
 
 |  URL de la organización del proyecto  |          URL del repositorio del reporte          |
