@@ -72,19 +72,23 @@
 |TB1|06/09/2024|Maycol Jhordan Rojas Velasquez| Se hizo  Software Configuration Management.  |
 |TB1|06/09/2024|Maycol Jhordan Rojas Velasquez| Se hizo  Landing Page, Services & Applications Implementation.  |
 |TB1|06/09/2024|Maycol Jhordan Rojas Velasquez| Se hizo  Sprint 1 ,Sprint Planning 1. Sprint Backlog 1. Development Evidence for Sprint Review. Testing Suite Evidence for Sprint Review. Execution Evidence for Sprint Review. Services Documentation Evidence for Sprint Review. Software Deployment Evidence for Sprint Review. Team Collaboration Insights during Sprint. |
-|TB1|06/09/2024|Russell Stephen Romero Qwistgaard| AS - IS MAPPING, TO - BE MAPPING, Impact Mapping|
+|TB1  |06/09/2024|Russell Stephen Romero Qwistgaard| AS - IS MAPPING, TO - BE MAPPING, Impact Mapping|
 | TB1         | 08/09/2024  | Sergio André Gómez Vallejos       |  Implementación de user story, product backlog y sprint 1 |
 | TP1         | 09/09/2024  | Sergio André Gómez Vallejos       |  Implementación del sprint 2, sprint backlog 1, testing | 
-| TP1         | 09/09/2024  | Alessandro Zevallos Linares      |  Implementación del sprint 2, sprint execution evidence, team collaboration insights | 
-| TP1         | 27/09/2024  | Joaquin Pedraza Maldonado       |  Implementación del sprint 2, sprint planning, testing, Software Deployment Evidence for Sprint Review 2 | 
-| TP1         | 27/09/2024  | Russell Stephen Romero Qwistgaard | Implementación del sprint 2, sprint planning 2, testing, sprint backolog 2 |
-| TP1         | 27/09/2024  | Maycol Jhordan Rojas Velasquez       |  Se hizo el student outcome para el trbajo TP | 
-| TB2         | 08/11/2024  | Joaquin Pedraza Maldonado       |   Implementación del sprint 3 , testing evidence sprint 3 , execution evidence sprint 3 , realizacion del backend y diseño de entrevistas | 
-| TB2         | 08/11/2024  | Alessandro Zevallos Linares      |  Implementacion del sprint 3 , sprint backlog 3 , team colaboration, implementacion del backend y entrevistas | 
+| TP1         | 09/09/2024  | Alessandro Zevallos Linares       |  Implementación del sprint 2, sprint execution evidence, team collaboration insights | 
+| TP1         | 27/09/2024  | Joaquin Pedraza Maldonado         |  Implementación del sprint 2, sprint planning, testing, Software Deployment Evidence for Sprint Review 2 | 
+| TP1         | 27/09/2024  | Russell Stephen Romero Qwistgaard | Implementación del sprint 2, sprint planning 2, testing, sprint backlog 2 |
+| TP1         | 27/09/2024  | Maycol Jhordan Rojas Velasquez    |  Se hizo el student outcome para el trabajo TP | 
+| TB2         | 08/11/2024  | Joaquin Pedraza Maldonado         |   Implementación del sprint 3 , testing evidence sprint 3 , execution evidence sprint 3 , realizacion del backend y diseño de entrevistas | 
+| TB2         | 08/11/2024  | Alessandro Zevallos Linares       |  Implementacion del sprint 3 , sprint backlog 3 , team colaboration, implementacion del backend y entrevistas | 
 | TB2         | 08/11/2024  | Sergio André Gómez Vallejos       |   Implementacion del sprint 3 , sprint backlog 3 , team colaboration, implementacion del backend , development evidence   |
-|TF|20/11/2024|Maycol Jhordan Rojas Velasquez| Se agrego imagenes del backend desplegado, student outcome, frontend y el backend desplegado, sprint backlog 4 |
-| TF         | 020/11/2024  | Sergio André Gómez Vallejos       | Implementación del frontend desplegado junto al backend, student outcome, sprint backlog 4, conclusiones, sprint 4|
-| TF         | 06/09/2024  | Joaquin Pedraza Maldonado       | Implementación del frontend desplegado junto al backend, student outcome, testing evidence, development evidence , validation interviews|
+| TB2         | 08/11/2024  | Maycol Jhordan Rojas Velasquez    | Se agrego imagenes del backend terminado, student outcome , sprint backlog 3, Execution For Sprint 3 |
+| TB2         | 27/09/2024  | Russell Stephen Romero Qwistgaard | Implementación del sprint 3, sprint planning 3, testing, sprint backlog 3 |
+| TF          | 20/11/2024  | Sergio André Gómez Vallejos       | Implementación del frontend desplegado junto al backend, student outcome, sprint backlog 4, conclusiones, sprint 4|
+| TF          | 06/09/2024  | Joaquin Pedraza Maldonado       | Implementación del frontend desplegado junto al backend, student outcome, testing evidence, development evidence , validation interviews |
+| TF          | 22/11/2024  | Russell Stephen Romero Qwistgaard | Implementación del sprint 4, sprint planning 4, testing, sprint backlog 4|
+| TF          | 20/11/2024  | Maycol Jhordan Rojas Velasquez    | Se agrego imagenes del backend desplegado, student outcome, frontend y el backend desplegado, sprint backlog 4 |
+| TF          | 22/11/2024  | Russell Stephen Romero Qwistgaard | Se hizo el student outcome para el trabajo TF |
 **Project Report Collaboration Insights**
 
 |  URL de la organización del proyecto  |          URL del repositorio del reporte          |
