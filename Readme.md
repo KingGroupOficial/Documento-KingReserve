@@ -2447,7 +2447,7 @@ BackEnd:
 | **Datos del entrevistado** | 
 |--------------------------|
 | **Nombre:**  Gracie Romero |
-| **Link del video:**  [KingReserve - Validation Interviews 4]() |
+| **Link del video:**  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EbP0a20K-P1KlbmZYTqBzd0BzKAhIyECb5lK4iGuSmmQGA?e=QV1m1e |
 | **Edad:**  31 años |
 | **Procedencia:**  Lima, San Isidro |
 | ![Entrevista](./assets/entre213.png)|
