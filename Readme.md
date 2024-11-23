@@ -100,11 +100,10 @@
 |  :-----------------------------------------------: | :-----------------------------------------------: |:-----------------------------------------------:|
 | https://github.com/KingGroupOficial/King-Reserve-Platform | https://github.com/KingGroupOficial/Front-End-KingReserve | https://github.com/KingGroupOficial/Landing-Page---KingReserve |
 
-**URL FRONTEND Y BACKEND DESPLEGADO**: 
+**URL FRONTEND Y BACKEND DESPLEGADO**: https://kin-front.web.app/
 
-**URL FRONTEND**: 
 
-**URL BACKEND**: 
+**URL BACKEND**: https://kingreserve-gqc8ayfabyghb3cw.brazilsouth-01.azurewebsites.net/
 
 
 TF1: Se han realizado todas las tareas asignadas para la entrega del TF1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/KingGroupOficial. Para elaborar el informe cada miembro corrigio y añadio puntos que se debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/KingGroupOficial/Documento-KingReserve, de la misma manera para el desarrollo de la landing page se trabajo en este repositorio: https://github.com/KingGroupOficial/Landing-Page---KingReserve. Sin embargo, para el desarollo de la Landing page tuvimos una modificaciones este último mes. En este Trabajo final nos encargamos de conectar los bounded context y conectar cada uno con su frontend.
