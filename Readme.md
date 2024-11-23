@@ -2599,7 +2599,7 @@ Para una demostración completa de la visualización y navegación logradas en e
 
 Video sobre el aporte de cada integrante del equipo en el proyecto y las competencias logradas.
 
-**Link del video** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/Ed8z46rFc-5FpNKUGlrBNlwB1ReZbZAJmdLcpBJcQMVglA?e=ihj1za 
+**Link del video** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EXRO4sLZ-h5PltYKfgPZaNUB_yBI6MJSLByLoAU1T4idjQ?e=HkglPr
 
 ## 6.4 Bibliografía
 
