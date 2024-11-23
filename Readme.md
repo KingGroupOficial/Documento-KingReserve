@@ -2624,5 +2624,5 @@ Video sobre el aporte de cada integrante del equipo en el proyecto y las compete
 | LandingPage (Anexo A)    | https://kingreserve.netlify.app/ |
 | Diagramas de clases (Anexo B)   |  https://goo.su/bWGR1ZQ |
 | Diagramas de base de datos (Anexo C)   | https://my.vertabelo.com/doc/GeHrKz6hgPvFhSH4XkuEu95kq78E4Eab   |
-| Despliegue del Front   | https://kingreserve-b6ab6.web.app/   |
+| Despliegue del Front   | https://kin-front.web.app/   |
 | Despliegue del Back   | https://kingreserve-gqc8ayfabyghb3cw.brazilsouth-01.azurewebsites.net/api/v1/reserve   |
